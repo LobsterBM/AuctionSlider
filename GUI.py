@@ -8,8 +8,15 @@ from pdf import getPDFS
 
 def getResolution():
     monitors =get_monitors()
+    for m in monitors:
+        if m.is_primary == True:
+            width = (m.width)
+            height = (m.height)
+            return width,height
+
     width = (monitors[0].width)
     height = (monitors[0].height)
+
     return width, height
 
 def updateSlides(path):
@@ -54,10 +61,31 @@ def makeSlides(slides,gui):
     pos = 0
     slide_list =[]
     for s in slides:
-        slide = Slide(s, "", gui , pos)
+        slide = Slide(s, "sample text" + str(pos), gui , 0)
         pos +=1
         slide_list.append(slide)
     return slide_list
+# TODO black screen on each update
+# TODO slide each pdf right
+
+# updates the list to cycle through the list
+def nextSlides(slideList, gui):
+    if len(slideList) == 0 :
+        return slideList
+    gui.updateScreenSlides(slideList[0])
+    slideList = slideList[1:]+slideList[:1]
+
+    gui.canvas.delete("all")
+
+    onscreen = gui.onscreen
+    for s in onscreen :
+        s.show_slide()
+
+    gui.root.update()
+
+    return slideList
+
+
 
 
 def GUIstart():
@@ -73,13 +101,17 @@ def GUIstart():
     slide_list = makeSlides(slides,gui)
 
 
+    while True :
+        slide_list = nextSlides(slide_list , gui)
+        time.sleep(0.5)
 
 
+    """
     for s in slide_list:
         s.show_slide()
         root.update()
         time.sleep(1.5)
-
+    """
 
 
     """
@@ -129,6 +161,19 @@ class GUIinstance:
         self.root.update_idletasks()
         self.root.update()
         self.canvas = Canvas(self.root, width=width, height=height)
+        self.onscreen = []
+
+    def updateScreenSlides(self, slide ):
+        if len(self.onscreen) < self.model :
+            for i in range(len(self.onscreen)):
+                self.onscreen[i].setPos(i)
+            self.onscreen = [slide] + self.onscreen
+        else:
+            self.onscreen  = [slide]+self.onscreen[:-1]
+            for i in range(len(self.onscreen)):
+                self.onscreen[i].setPos(i)
+
+
 
 class Slide:
     def __init__(self, image , text , gui , position):
@@ -138,6 +183,16 @@ class Slide:
         self.position = position % self.gui.model
         self.x = self.gui.modelBlocks[self.position][0]
         self.y = self.gui.modelBlocks[self.position][1]
+        self.image_shown = None
+
+    def getPos(self):
+        return self.position
+
+    def movePos(self):
+        self.position = (self.position+1) % self.gui.model
+
+    def setPos(self, i):
+        self.position = i % self.gui.model
 
     def show_slide(self):
         pilImage = self.image
@@ -155,21 +210,28 @@ class Slide:
         pilImage = pilImage.resize((imgWidth, imgHeight), Image.ANTIALIAS)
         #self.image = ImageTk.PhotoImage(pilImage)
 
-        #Transparent Rectangle
-        draw = ImageDraw.Draw(pilImage, "RGBA")
-        draw.rectangle(((10, 10), (100, 70)), fill=(200, 100, 0, 127))
-        draw.rectangle(((10, 10), (100, 70)), outline=(0, 0, 0, 127), width=3)
 
-        #font = ImageFont.truetype("sans-serif.ttf", 16)
-        # draw.text((x, y),"Sample Text",(r,g,b))
-
-        font = ImageFont.truetype("./fonts/OpenSans-Semibold.ttf", 35)
-        draw.text((10, 10), "Sample Text", (0, 0, 0) , font = font)
-
-        self.image = ImageTk.PhotoImage(pilImage)
 
         model3 = [[-imgWidth , 0] , [0,0] , [imgWidth , 0]]
         model6 = [[-imgWidth , -imgHeight] , [0,-imgHeight] , [imgWidth , -imgHeight],[-imgWidth , imgHeight ] , [0,imgHeight] , [imgWidth , imgHeight]]
 
 
-        imagesprite = canvas.create_image((w / 2) + model3[self.position][0], h / 2 + model3[self.position][1], image=self.image)
+        if self.text != None and self.text != "":
+            #Transparent Rectangle
+            draw = ImageDraw.Draw(pilImage, "RGBA")
+            if self.gui.model == 3 :
+                draw.rectangle(((0, 0), (w/3, 70)), fill=(100, 100, 100, 127))
+                draw.rectangle(((0, 0), (w/3, 70)), outline=(0, 0, 0, 127), width=2)
+
+
+            #font = ImageFont.truetype("sans-serif.ttf", 16)
+            # draw.text((x, y),"Sample Text",(r,g,b))
+
+            font = ImageFont.truetype("./fonts/OpenSans-Semibold.ttf", 35)
+            draw.text((10, 10), self.text, (0, 0, 0) , font = font)
+
+        self.image_shown = ImageTk.PhotoImage(pilImage)
+
+
+
+        imagesprite = canvas.create_image((w / 2) + model3[self.position][0], h / 2 + model3[self.position][1], image=self.image_shown)
