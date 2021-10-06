@@ -1,9 +1,10 @@
+import threading
 import time
 from tkinter import *
 from PIL import Image,ImageTk , ImageDraw , ImageFont
 from pdf2image import convert_from_path
 from screeninfo import get_monitors
-from pdf import getPDFS
+from pdf import getPDFS , checkConnection , getStatus
 
 
 def getResolution():
@@ -87,46 +88,88 @@ def nextSlides(slideList, gui):
 
 
 
+def updateIcons(gui, connection_canvas , document_canvas):
+    connection , document = getStatus
+    if connection:
+        connection_canvas.delete("all")
+    else:
+        return
+    if document :
+        document_canvas.delete("all")
+    else:
+        return
+
+def showIcon(image , gui , pos):
+    w = gui.width
+    h = gui.height
+    canvas = gui.canvas
+    canvas.pack()
+    canvas.configure(background="black")
+    imgWidth , imgHeight = image.size
+
+    ratio = min((w/30) / imgWidth, (w/30) / imgHeight)
+    imgWidth = int(imgWidth * ratio)
+    imgHeight = int(imgHeight * ratio)
+
+
+    image = image.resize((int(imgWidth),int(imgHeight)) , Image.ANTIALIAS)
+    img_show = ImageTk.PhotoImage(image)
+    imgsprite = canvas.create_image(w - (w/(10*pos)) , h - (h/(10*pos)) , image =img_show )
+    gui.root.update()
+
+
 
 def GUIstart():
 
     files = checkPDFS()
     gui = GUIinstance(0,0,['fullscreen'], 3, "")
     root = gui.root
+    root.config(cursor = "none")
     width = gui.width
     height = gui.height
 
-    #run these lines every time server is refreshed
-    slides = updateSlides("")
-    slide_list = makeSlides(slides,gui)
+    def exitKey(e):
+        root.destroy()
+    root.bind('<Escape>' , lambda e : exitKey(e))
 
 
-    while True :
-        slide_list = nextSlides(slide_list , gui)
-        time.sleep(0.5)
+    connectionImage = Image.open("./icons/wifi.png")
+    documentImage = Image.open("./icons/document.png")
+    refreshImage = Image.open("./icons/refresh.png")
 
 
-    """
-    for s in slide_list:
-        s.show_slide()
-        root.update()
-        time.sleep(1.5)
-    """
+    def slideThread():
 
+        #run these lines every time server is refreshed
+        slides = updateSlides("")
+        slide_list = makeSlides(slides,gui)
 
-    """
-    canvas = Canvas(root, width=width, height=height)
-    canvas.pack()
-    canvas.configure(background='black')
+        connectionStatus , documentStatus, refreshStatus = True,True , False
+        while True :
+            connectionStatus,documentStatus,refreshStatus = getStatus()
+            slide_list = nextSlides(slide_list , gui)
+            if (documentStatus == False):
+                showIcon(documentImage, gui, 2)
+            if (connectionStatus == False):
+                showIcon(connectionImage, gui, 2)
+            if(refreshStatus):
+                showIcon(refreshImage , gui , 2)
+            time.sleep(1)
 
+    while True:
+        slide_thread = threading.Thread(target=slideThread())
+        slide_thread.start()
+        time.sleep(600)
+        """
+        TODO :
+            * settings  in general
+            * kill thread if needed
+            * PDF download & json config 
+            * error logging
+            *refresh status 
+        
+        """
 
-    # Storing the converted images into list
-    exit_button = Button(root, text="Exit", command=root.destroy )
-    exit_button.configure(width = 10, activebackground = "#33B5E5", relief = FLAT)
-    button1_window = canvas.create_window(10, 10, anchor=NW, window=exit_button)
-    root.update()"""
-
-    #transparentText(0.9 , 'blue', 50 , 100 , 50,100)
     root.mainloop()
 
 class GUIinstance:

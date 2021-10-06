@@ -4,6 +4,44 @@ from os.path import isfile, join
 import urllib.request, json
 
 
+pdf_path = "./pdf"
+
+
+def download_file(download_url, filename):
+    try:
+        response = urllib.request.urlopen(download_url)
+        file = open(filename + ".pdf", 'wb')
+        file.write(response.read())
+        file.close()
+        return
+    except:
+        global document_status
+        document_status = False
+        return
+
+
+download_file(pdf_path, "Test")
+
+
+
+connection_status = True
+document_status = True
+refreshing = False
+def checkConnection(url):
+    timeout = 5
+
+    global connection_status
+    try:
+
+        request = requests.get(url, timeout=timeout)
+        connection_status = True
+    except (requests.ConnectionError, requests.Timeout) as exception:
+        print("No internet connection.")
+        connection_status= False
+    return
+
+def getStatus():
+    return connection_status,document_status,refreshing
 
 def getPDFS(path):
     files = os.listdir(path)
@@ -20,6 +58,7 @@ def getJSON(url_source):
 def decodeJSON(data):
     """
     TODO once json format is defined
+    download all pdfs from json
 
     """
 
