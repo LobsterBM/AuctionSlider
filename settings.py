@@ -1,5 +1,5 @@
 import os
-
+import json
 
 def loadSettings():
     if os.path.isfile("settings.cfg"):
@@ -10,7 +10,7 @@ def loadSettings():
 
     else:
         #create default settings file
-        config = {"updatetime" : "10" ,"font": "./fonts/OpenSans-Semibold.ttf", "url": "defaultURL" , "model" : "3" , "slidetime" : "1.5" }
+        config = {"updatetime" : "10" ,"font": "./fonts/OpenSans-Semibold.ttf", "url": "https://pastebin.com/raw/1sehACD5" , "model" : "3" , "slidetime" : "1.5" }
 
         with open('settings.cfg', 'w') as f:
             json.dump(config, f)
@@ -30,4 +30,8 @@ def updateSettings(update):
     # write it back to the file
     with open('config.json', 'w') as f:
         json.dump(config, f)
+
+def makesettings(updatetime , url , font , model , slidetime):
+    return {"updatetime": str(updatetime), "font": font, "url": url, "model": str(model),
+              "slidetime": str(slidetime)}
 

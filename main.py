@@ -22,8 +22,15 @@ if __name__ == '__main__':
     updateTime = int(settings["updatetime"])
     """
 
+    settings  = loadSettings()
+
+    updatetime = int(settings["updatetime"])
+    url = settings['url']
+    font = settings['font']
+    model = int(settings['model'])
+    slidetime = float(settings['slidetime'])
 
 
-    GUIstart()
+    GUIstart(updatetime, url , font , model , slidetime)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

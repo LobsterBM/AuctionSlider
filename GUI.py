@@ -4,8 +4,9 @@ from tkinter import *
 from PIL import Image,ImageTk , ImageDraw , ImageFont
 from pdf2image import convert_from_path
 from screeninfo import get_monitors
-from pdf import getPDFS , checkConnection , getStatus
+from pdf import getPDFS , checkConnection , getStatus , serverUpdate
 
+slideinterrupt = False
 
 def getResolution():
     monitors =get_monitors()
@@ -20,14 +21,32 @@ def getResolution():
 
     return width, height
 
-def updateSlides(path):
-    files  = checkPDFS()
+def updateSlides(data):
+    if data == None :
+        return None
     slides = []
-    for f in files:
-        conv = getSlides(f)
-        for e in conv:
-            slides.append(e)
+    for d in data:
+        conv = getSlides(d.path)
+        #DO text
+        text = d.title + "\n" + d.comment + "\n" + d.status
+        for e in conv :
+            slides.append([e,  text])
     return slides
+
+
+
+
+def refreshDB(url):
+    data = serverUpdate(url)
+    if data == None:
+        return None
+    slides = updateSlides(data)
+    return slides
+
+
+
+    #slide_list = makeSlides(slides, gui)
+
 
 
 
@@ -62,7 +81,7 @@ def makeSlides(slides,gui):
     pos = 0
     slide_list =[]
     for s in slides:
-        slide = Slide(s, "sample text" + str(pos), gui , 0)
+        slide = Slide(s[0], s[1], gui , 0)
         pos +=1
         slide_list.append(slide)
     return slide_list
@@ -119,14 +138,16 @@ def showIcon(image , gui , pos):
 
 
 
-def GUIstart():
+def GUIstart(updatetime, url , font , model , slidetime):
 
-    files = checkPDFS()
+    #files = checkPDFS()
     gui = GUIinstance(0,0,['fullscreen'], 3, "")
     root = gui.root
     root.config(cursor = "none")
     width = gui.width
     height = gui.height
+
+    kill_thread = False
 
     def exitKey(e):
         root.destroy()
@@ -138,28 +159,41 @@ def GUIstart():
     refreshImage = Image.open("./icons/refresh.png")
 
 
-    def slideThread():
+    def slideThread(slide_list ,timer):
 
         #run these lines every time server is refreshed
-        slides = updateSlides("")
-        slide_list = makeSlides(slides,gui)
-
+        loops = timer/slidetime
         connectionStatus , documentStatus, refreshStatus = True,True , False
-        while True :
+        while  loops > 0 :
             connectionStatus,documentStatus,refreshStatus = getStatus()
             slide_list = nextSlides(slide_list , gui)
             if (documentStatus == False):
                 showIcon(documentImage, gui, 2)
             if (connectionStatus == False):
                 showIcon(connectionImage, gui, 2)
-            if(refreshStatus):
-                showIcon(refreshImage , gui , 2)
-            time.sleep(1)
+            """if(refreshStatus):
+                showIcon(refreshImage , gui , 2)"""
+            time.sleep(slidetime)
+            loops -= 1
+            print(loops)
+
+    data = refreshDB(url)
+
+    thread_started = False
+
 
     while True:
-        slide_thread = threading.Thread(target=slideThread())
-        slide_thread.start()
-        time.sleep(600)
+        #slides = updateSlides(data)
+        slide_list = makeSlides(data,gui)
+        slideThread(slide_list, updatetime)
+        print("refreshing")
+        new_data = refreshDB(url)
+        if new_data != None:
+            data = new_data
+
+        print("Waiting for next update")
+
+
         """
         TODO :
             * settings  in general
