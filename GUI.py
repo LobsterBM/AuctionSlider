@@ -138,7 +138,7 @@ def showIcon(image , gui , pos):
 
 
 
-def GUIstart(updatetime, url , font , model , slidetime):
+def GUIstart(updatetime, url , font ,fontsize, model , slidetime):
 
     #files = checkPDFS()
     gui = GUIinstance(0,0,['fullscreen'], 3, "")
@@ -177,9 +177,12 @@ def GUIstart(updatetime, url , font , model , slidetime):
             loops -= 1
             print(loops)
 
+    #first refresh
     data = refreshDB(url)
 
     thread_started = False
+
+
 
 
     while True:
@@ -191,10 +194,17 @@ def GUIstart(updatetime, url , font , model , slidetime):
         if new_data != None:
             data = new_data
 
-        print("Waiting for next update")
+
+    def refreshThread(url):
+        return refreshDB(url)
 
 
-        """
+
+
+    print("Waiting for next update")
+
+
+    """
         TODO :
             * settings  in general
             * kill thread if needed
@@ -202,7 +212,7 @@ def GUIstart(updatetime, url , font , model , slidetime):
             * error logging
             *refresh status 
         
-        """
+    """
 
     root.mainloop()
 

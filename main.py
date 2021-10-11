@@ -27,10 +27,11 @@ if __name__ == '__main__':
     updatetime = int(settings["updatetime"])
     url = settings['url']
     font = settings['font']
+    fontsize = int(settings['fontsize'])
     model = int(settings['model'])
     slidetime = float(settings['slidetime'])
 
 
-    GUIstart(updatetime, url , font , model , slidetime)
+    GUIstart(updatetime, url , font ,fontsize, model , slidetime)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

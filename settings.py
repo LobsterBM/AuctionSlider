@@ -10,7 +10,7 @@ def loadSettings():
 
     else:
         #create default settings file
-        config = {"updatetime" : "10" ,"font": "./fonts/OpenSans-Semibold.ttf", "url": "https://pastebin.com/raw/1sehACD5" , "model" : "3" , "slidetime" : "1.5" }
+        config = {"updatetime" : "10" ,"font": "./fonts/OpenSans-Semibold.ttf","fontsize": '10', "url": "https://pastebin.com/raw/1sehACD5" , "model" : "3" , "slidetime" : "1.5" }
 
         with open('settings.cfg', 'w') as f:
             json.dump(config, f)
@@ -31,7 +31,7 @@ def updateSettings(update):
     with open('config.json', 'w') as f:
         json.dump(config, f)
 
-def makesettings(updatetime , url , font , model , slidetime):
-    return {"updatetime": str(updatetime), "font": font, "url": url, "model": str(model),
+def makesettings(updatetime , url , font, fontsize , model , slidetime):
+    return {"updatetime": str(updatetime), "font": font,"fontsize": fontsize, "url": url, "model": str(model),
               "slidetime": str(slidetime)}
 
