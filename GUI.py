@@ -4,9 +4,15 @@ from tkinter import *
 from PIL import Image,ImageTk , ImageDraw , ImageFont
 from pdf2image import convert_from_path
 from screeninfo import get_monitors
-from pdf import getPDFS , checkConnection , getStatus , serverUpdate
-
+from pdf import getPDFS , checkConnection , getStatus , serverUpdate , checkServer
+from settings import log
 slideinterrupt = False
+
+fontsize = 15
+slidefont = "./fonts/OpenSans-Semibold.ttf"
+
+
+
 
 def getResolution():
     monitors =get_monitors()
@@ -48,13 +54,15 @@ def refreshDB(url):
     #slide_list = makeSlides(slides, gui)
 
 
-
+"""
 
 def transparentText( alpha , fill , x1 , x2 , y1 , y2):
     canvas = Canvas(width = 500 , height = 150 )
     image = Image.new('RGBA', (x2 - x1, y2 - y1), fill)
     images.append(ImageTk.PhotoImage(image))
     canvas.create_image(x1, y1, image=images[-1], anchor='nw')
+
+"""
 
 
 def getSlides(location):
@@ -89,7 +97,7 @@ def makeSlides(slides,gui):
 # TODO slide each pdf right
 
 # updates the list to cycle through the list
-def nextSlides(slideList, gui):
+def nextSlides(slideList, gui ):
     if len(slideList) == 0 :
         return slideList
     gui.updateScreenSlides(slideList[0])
@@ -102,6 +110,7 @@ def nextSlides(slideList, gui):
         s.show_slide()
 
     gui.root.update()
+
 
     return slideList
 
@@ -138,60 +147,108 @@ def showIcon(image , gui , pos):
 
 
 
-def GUIstart(updatetime, url , font ,fontsize, model , slidetime):
+def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
 
-    #files = checkPDFS()
+    log("Starting GUI")
+
+    global slidefont
+    global fontsize
+    slidefont = newfont
+    fontsize = newfontsize
+
+
     gui = GUIinstance(0,0,['fullscreen'], 3, "")
     root = gui.root
     root.config(cursor = "none")
-    width = gui.width
-    height = gui.height
 
-    kill_thread = False
+    log("importing icons")
+    try :
+        connectionImage = Image.open("./icons/wifi.png")
+        documentImage = Image.open("./icons/document.png")
+        refreshImage = Image.open("./icons/refresh.png")
+    except:
+        log("Error importing Icons")
+        return
+
+
 
     def exitKey(e):
         root.destroy()
     root.bind('<Escape>' , lambda e : exitKey(e))
 
 
-    connectionImage = Image.open("./icons/wifi.png")
-    documentImage = Image.open("./icons/document.png")
-    refreshImage = Image.open("./icons/refresh.png")
 
 
     def slideThread(slide_list ,timer):
 
+
         #run these lines every time server is refreshed
+
+        #timer *=60 #convert to minutes
         loops = timer/slidetime
-        connectionStatus , documentStatus, refreshStatus = True,True , False
+        connectionStatus , documentStatus, refreshStatus = getStatus()
         while  loops > 0 :
-            connectionStatus,documentStatus,refreshStatus = getStatus()
-            slide_list = nextSlides(slide_list , gui)
-            if (documentStatus == False):
+
+            slide_list = nextSlides(slide_list , gui )
+
+            if (documentStatus == False and connectionStatus == True):
                 showIcon(documentImage, gui, 2)
             if (connectionStatus == False):
                 showIcon(connectionImage, gui, 2)
-            """if(refreshStatus):
-                showIcon(refreshImage , gui , 2)"""
+
+            #gui.root.update()
+            connectionStatus,documentStatus,refreshStatus = getStatus()
             time.sleep(slidetime)
             loops -= 1
-            print(loops)
+            print("loop : " ,loops)
+
 
     #first refresh
+
+    log("Initial database refresh")
     data = refreshDB(url)
 
-    thread_started = False
+    if data == None :
+        log("Could not refresh data , using existing sources if available ")
+
+    #check if connection is up , check if document fetch works , add text message and loop with a refresh every minute
+    #add to log
+
+    while data == None :
+        gui.canvas.delete("all")
+        error_text = "Erreur :"
+        if(checkConnection() == False ) :
+            error_text += " pas de connection internet."
+            showIcon(connectionImage, gui , 2)
+        elif (checkServer(url) == False) :
+            error_text += " impossible de récuperer les fichiers du serveur."
+            showIcon(documentImage, gui , 2)
+
+        canvas = gui.canvas
+        canvas.pack()
+        canvas.create_text(100, 280, text=error_text , font = (slidefont, fontsize*2) , fill = "white")
+        #finally add text and loop
+        #gui.root.update()
+        data = refreshDB(url)
+        time.sleep(5)
+        log("Attempting to refresh the database again.")
 
 
 
+    log("Initializing slideshow")
 
     while True:
         #slides = updateSlides(data)
+        log("Making slides")
         slide_list = makeSlides(data,gui)
+
+        log("Starting slideshow")
         slideThread(slide_list, updatetime)
-        print("refreshing")
+
+        log("Fetching new data from database.")
         new_data = refreshDB(url)
         if new_data != None:
+            log("No new data was found.")
             data = new_data
 
 
@@ -200,8 +257,6 @@ def GUIstart(updatetime, url , font ,fontsize, model , slidetime):
 
 
 
-
-    print("Waiting for next update")
 
 
     """
@@ -272,6 +327,7 @@ class Slide:
         self.y = self.gui.modelBlocks[self.position][1]
         self.image_shown = None
 
+
     def getPos(self):
         return self.position
 
@@ -306,16 +362,31 @@ class Slide:
         if self.text != None and self.text != "":
             #Transparent Rectangle
             draw = ImageDraw.Draw(pilImage, "RGBA")
+
+            font = ImageFont.truetype(slidefont, fontsize)
+            draw.text((10, 10), self.text, (0, 0, 0) , font = font)
+
+            text_size = font.getsize(self.text)
+
+            #get lines of text for rectangle height
+            lines = 1
+            for c in self.text :
+                if c == '\n' :
+                    lines +=1
+
+
+
+
+
+            rheight =(( text_size[1] ) * lines) +20
             if self.gui.model == 3 :
-                draw.rectangle(((0, 0), (w/3, 70)), fill=(100, 100, 100, 127))
-                draw.rectangle(((0, 0), (w/3, 70)), outline=(0, 0, 0, 127), width=2)
+                draw.rectangle(((0, 0), (w/3, rheight)), fill=(100, 100, 100, 127))
+                draw.rectangle(((0, 0), (w/3, rheight)), outline=(0, 0, 0, 127), width=2)
 
 
             #font = ImageFont.truetype("sans-serif.ttf", 16)
             # draw.text((x, y),"Sample Text",(r,g,b))
 
-            font = ImageFont.truetype("./fonts/OpenSans-Semibold.ttf", 35)
-            draw.text((10, 10), self.text, (0, 0, 0) , font = font)
 
         self.image_shown = ImageTk.PhotoImage(pilImage)
 

@@ -1,0 +1,604 @@
+2021-10-12 18:50:38,667 INFO     Loading settings.
+2021-10-12 18:50:38,667 INFO     Settings loaded.
+2021-10-12 18:50:38,667 INFO     Starting GUI
+2021-10-12 18:50:38,924 INFO     importing icons
+2021-10-12 18:50:38,940 INFO     Initial database refresh
+2021-10-12 18:50:39,365 INFO     Fetching json from server.
+2021-10-12 18:50:39,456 INFO     Decoding JSON
+2021-10-12 18:50:39,456 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/uppspel-caisson-a-tiroirs-sur-roulettes-noir__AA-2262190-2.pdf
+2021-10-12 18:50:40,538 INFO     Download succeeded.
+2021-10-12 18:50:40,538 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/lanespelare-support-accessoires__AA-2261844-2.pdf
+2021-10-12 18:50:40,950 INFO     Download succeeded.
+2021-10-12 18:50:40,950 INFO     Updating new PDF directory
+2021-10-12 18:50:44,298 INFO     Initializing slideshow
+2021-10-12 18:50:44,298 INFO     Making slides
+2021-10-12 18:50:44,299 INFO     Starting slideshow
+2021-10-12 18:54:24,206 INFO     Loading settings.
+2021-10-12 18:54:24,207 INFO     Settings loaded.
+2021-10-12 18:54:24,207 INFO     Starting GUI
+2021-10-12 18:54:24,470 INFO     importing icons
+2021-10-12 18:54:24,485 INFO     Initial database refresh
+2021-10-12 18:54:24,490 INFO     Could not connect to the internet.
+2021-10-12 18:54:24,490 INFO     Could not refresh data , using existing sources if available 
+2021-10-12 18:54:24,491 INFO     Could not connect to the internet.
+2021-10-12 18:54:54,555 INFO     Attempting to refresh the database again.
+2021-10-12 18:54:54,555 INFO     Could not connect to the internet.
+2021-10-12 18:55:34,011 INFO     Loading settings.
+2021-10-12 18:55:34,011 INFO     Settings loaded.
+2021-10-12 18:55:34,012 INFO     Starting GUI
+2021-10-12 18:55:34,264 INFO     importing icons
+2021-10-12 18:55:34,279 INFO     Initial database refresh
+2021-10-12 18:55:34,586 INFO     Fetching json from server.
+2021-10-12 18:55:34,680 INFO     Decoding JSON
+2021-10-12 18:55:34,680 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/uppspel-caisson-a-tiroirs-sur-roulettes-noir__AA-2262190-2.pdf
+2021-10-12 18:55:35,717 INFO     Download succeeded.
+2021-10-12 18:55:35,717 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/lanespelare-support-accessoires__AA-2261844-2.pdf
+2021-10-12 18:55:36,165 INFO     Download succeeded.
+2021-10-12 18:55:36,165 INFO     Updating new PDF directory
+2021-10-12 18:55:39,483 INFO     Initializing slideshow
+2021-10-12 18:55:39,484 INFO     Making slides
+2021-10-12 18:55:39,484 INFO     Starting slideshow
+2021-10-12 18:56:04,916 INFO     Loading settings.
+2021-10-12 18:56:04,917 INFO     Settings loaded.
+2021-10-12 18:56:04,917 INFO     Starting GUI
+2021-10-12 18:56:05,169 INFO     importing icons
+2021-10-12 18:56:05,182 INFO     Initial database refresh
+2021-10-12 18:56:05,187 INFO     Could not connect to the internet.
+2021-10-12 18:56:05,187 INFO     Could not refresh data , using existing sources if available 
+2021-10-12 18:56:05,187 INFO     Could not connect to the internet.
+2021-10-12 18:57:02,392 INFO     Loading settings.
+2021-10-12 18:57:02,392 INFO     Settings loaded.
+2021-10-12 18:57:02,392 INFO     Starting GUI
+2021-10-12 18:57:02,644 INFO     importing icons
+2021-10-12 18:57:02,657 INFO     Initial database refresh
+2021-10-12 18:57:02,662 INFO     Could not connect to the internet.
+2021-10-12 18:57:02,662 INFO     Could not refresh data , using existing sources if available 
+2021-10-12 18:57:02,663 INFO     Could not connect to the internet.
+2021-10-12 18:57:02,727 INFO     Could not connect to the internet.
+2021-10-12 18:57:25,409 INFO     Loading settings.
+2021-10-12 18:57:25,409 INFO     Settings loaded.
+2021-10-12 18:57:25,409 INFO     Starting GUI
+2021-10-12 18:57:25,653 INFO     importing icons
+2021-10-12 18:57:25,664 INFO     Initial database refresh
+2021-10-12 18:57:25,669 INFO     Could not connect to the internet.
+2021-10-12 18:57:25,669 INFO     Could not refresh data , using existing sources if available 
+2021-10-12 18:57:25,669 INFO     Could not connect to the internet.
+2021-10-12 18:57:25,723 INFO     Could not connect to the internet.
+2021-10-12 18:57:30,724 INFO     Attempting to refresh the database again.
+2021-10-12 18:57:30,725 INFO     Could not connect to the internet.
+2021-10-12 18:57:30,746 INFO     Could not connect to the internet.
+2021-10-12 18:57:35,747 INFO     Attempting to refresh the database again.
+2021-10-12 18:57:35,748 INFO     Could not connect to the internet.
+2021-10-12 18:57:35,769 INFO     Could not connect to the internet.
+2021-10-12 18:59:07,358 INFO     Loading settings.
+2021-10-12 18:59:07,358 INFO     Settings loaded.
+2021-10-12 18:59:07,359 INFO     Starting GUI
+2021-10-12 18:59:07,607 INFO     importing icons
+2021-10-12 18:59:07,621 INFO     Initial database refresh
+2021-10-12 18:59:07,627 INFO     Could not connect to the internet.
+2021-10-12 18:59:07,629 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 18:59:07,629 INFO     Fetching json from server.
+2021-10-12 18:59:07,630 INFO     Error while fetching json from server 
+2021-10-12 18:59:07,630 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:00:27,458 INFO     Loading settings.
+2021-10-12 19:00:27,459 INFO     Settings loaded.
+2021-10-12 19:00:27,459 INFO     Starting GUI
+2021-10-12 19:00:27,697 INFO     importing icons
+2021-10-12 19:00:27,711 INFO     Initial database refresh
+2021-10-12 19:00:27,717 INFO     Could not connect to the internet.
+2021-10-12 19:00:27,719 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:00:27,719 INFO     Fetching json from server.
+2021-10-12 19:00:27,720 INFO     Error while fetching json from server 
+2021-10-12 19:00:27,720 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:02:37,243 INFO     Loading settings.
+2021-10-12 19:02:37,244 INFO     Settings loaded.
+2021-10-12 19:02:37,244 INFO     Starting GUI
+2021-10-12 19:02:37,490 INFO     importing icons
+2021-10-12 19:02:37,503 INFO     Initial database refresh
+2021-10-12 19:02:37,508 INFO     Could not connect to the internet.
+2021-10-12 19:02:37,511 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:02:37,511 INFO     Fetching json from server.
+2021-10-12 19:02:37,511 INFO     Error while fetching json from server 
+2021-10-12 19:02:37,511 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:02:40,815 INFO     Initializing slideshow
+2021-10-12 19:02:40,815 INFO     Making slides
+2021-10-12 19:02:40,815 INFO     Starting slideshow
+2021-10-12 19:03:53,854 INFO     Loading settings.
+2021-10-12 19:03:53,854 INFO     Settings loaded.
+2021-10-12 19:03:53,854 INFO     Starting GUI
+2021-10-12 19:03:54,104 INFO     importing icons
+2021-10-12 19:03:54,117 INFO     Initial database refresh
+2021-10-12 19:03:54,123 INFO     Could not connect to the internet.
+2021-10-12 19:03:54,125 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:03:54,125 INFO     Fetching json from server.
+2021-10-12 19:03:54,125 INFO     Error while fetching json from server 
+2021-10-12 19:03:54,125 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:03:57,433 INFO     Initializing slideshow
+2021-10-12 19:03:57,433 INFO     Making slides
+2021-10-12 19:03:57,434 INFO     Starting slideshow
+2021-10-12 19:04:09,048 INFO     Fetching new data from database.
+2021-10-12 19:04:09,049 INFO     Could not connect to the internet.
+2021-10-12 19:04:09,050 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:04:09,050 INFO     Fetching json from server.
+2021-10-12 19:04:09,051 INFO     Error while fetching json from server 
+2021-10-12 19:04:09,051 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:04:12,522 INFO     No new data was found.
+2021-10-12 19:04:12,522 INFO     Making slides
+2021-10-12 19:04:12,557 INFO     Starting slideshow
+2021-10-12 19:04:54,291 INFO     Loading settings.
+2021-10-12 19:04:54,291 INFO     Settings loaded.
+2021-10-12 19:04:54,291 INFO     Starting GUI
+2021-10-12 19:04:54,536 INFO     importing icons
+2021-10-12 19:04:54,549 INFO     Initial database refresh
+2021-10-12 19:04:54,555 INFO     Could not connect to the internet.
+2021-10-12 19:04:54,557 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:04:54,557 INFO     Fetching json from server.
+2021-10-12 19:04:54,558 INFO     Error while fetching json from server 
+2021-10-12 19:04:54,558 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:04:57,873 INFO     Initializing slideshow
+2021-10-12 19:04:57,873 INFO     Making slides
+2021-10-12 19:04:57,874 INFO     Starting slideshow
+2021-10-12 19:06:39,523 INFO     Loading settings.
+2021-10-12 19:06:39,523 INFO     Settings loaded.
+2021-10-12 19:06:39,523 INFO     Starting GUI
+2021-10-12 19:06:39,775 INFO     importing icons
+2021-10-12 19:06:39,788 INFO     Initial database refresh
+2021-10-12 19:06:39,793 INFO     Could not connect to the internet.
+2021-10-12 19:06:39,796 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:06:39,796 INFO     Fetching json from server.
+2021-10-12 19:06:39,796 INFO     Error while fetching json from server 
+2021-10-12 19:06:39,796 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:06:43,137 INFO     Initializing slideshow
+2021-10-12 19:06:43,137 INFO     Making slides
+2021-10-12 19:06:43,138 INFO     Starting slideshow
+2021-10-12 19:06:43,139 INFO     Could not connect to the internet.
+2021-10-12 19:06:43,139 INFO     Could not connect to the internet.
+2021-10-12 19:06:44,749 INFO     Could not connect to the internet.
+2021-10-12 19:06:46,395 INFO     Could not connect to the internet.
+2021-10-12 19:06:48,085 INFO     Could not connect to the internet.
+2021-10-12 19:06:49,774 INFO     Could not connect to the internet.
+2021-10-12 19:06:57,914 INFO     Loading settings.
+2021-10-12 19:06:57,915 INFO     Settings loaded.
+2021-10-12 19:06:57,915 INFO     Starting GUI
+2021-10-12 19:06:58,167 INFO     importing icons
+2021-10-12 19:06:58,180 INFO     Initial database refresh
+2021-10-12 19:06:58,184 INFO     Could not connect to the internet.
+2021-10-12 19:06:58,186 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:06:58,187 INFO     Fetching json from server.
+2021-10-12 19:06:58,187 INFO     Error while fetching json from server 
+2021-10-12 19:06:58,187 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:07:01,481 INFO     Initializing slideshow
+2021-10-12 19:07:01,481 INFO     Making slides
+2021-10-12 19:07:01,481 INFO     Starting slideshow
+2021-10-12 19:07:01,482 INFO     Could not connect to the internet.
+2021-10-12 19:07:01,483 INFO     Could not connect to the internet.
+2021-10-12 19:07:03,079 INFO     Could not connect to the internet.
+2021-10-12 19:07:04,713 INFO     Could not connect to the internet.
+2021-10-12 19:07:06,396 INFO     Could not connect to the internet.
+2021-10-12 19:07:08,076 INFO     Could not connect to the internet.
+2021-10-12 19:07:55,417 INFO     Loading settings.
+2021-10-12 19:07:55,418 INFO     Settings loaded.
+2021-10-12 19:07:55,418 INFO     Starting GUI
+2021-10-12 19:07:55,672 INFO     importing icons
+2021-10-12 19:07:55,686 INFO     Initial database refresh
+2021-10-12 19:07:55,691 INFO     Could not connect to the internet.
+2021-10-12 19:07:55,693 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:07:55,693 INFO     Fetching json from server.
+2021-10-12 19:07:55,694 INFO     Error while fetching json from server 
+2021-10-12 19:07:55,694 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:07:59,024 INFO     Initializing slideshow
+2021-10-12 19:07:59,025 INFO     Making slides
+2021-10-12 19:07:59,025 INFO     Starting slideshow
+2021-10-12 19:07:59,026 INFO     Could not connect to the internet.
+2021-10-12 19:07:59,026 INFO     Could not connect to the internet.
+2021-10-12 19:08:00,623 INFO     Could not connect to the internet.
+2021-10-12 19:08:02,242 INFO     Could not connect to the internet.
+2021-10-12 19:08:03,917 INFO     Could not connect to the internet.
+2021-10-12 19:08:05,596 INFO     Could not connect to the internet.
+2021-10-12 19:08:30,231 INFO     Loading settings.
+2021-10-12 19:08:30,232 INFO     Settings loaded.
+2021-10-12 19:08:30,232 INFO     Starting GUI
+2021-10-12 19:08:30,483 INFO     importing icons
+2021-10-12 19:08:30,499 INFO     Initial database refresh
+2021-10-12 19:08:30,505 INFO     Could not connect to the internet.
+2021-10-12 19:08:30,507 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:08:30,507 INFO     Fetching json from server.
+2021-10-12 19:08:30,508 INFO     Error while fetching json from server 
+2021-10-12 19:08:30,508 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:08:33,824 INFO     Initializing slideshow
+2021-10-12 19:08:33,824 INFO     Making slides
+2021-10-12 19:08:33,824 INFO     Starting slideshow
+2021-10-12 19:08:33,825 INFO     Could not connect to the internet.
+2021-10-12 19:08:33,826 INFO     Could not connect to the internet.
+2021-10-12 19:08:35,420 INFO     Could not connect to the internet.
+2021-10-12 19:08:37,047 INFO     Could not connect to the internet.
+2021-10-12 19:08:38,723 INFO     Could not connect to the internet.
+2021-10-12 19:08:40,400 INFO     Could not connect to the internet.
+2021-10-12 19:08:42,077 INFO     Could not connect to the internet.
+2021-10-12 19:16:52,845 INFO     Loading settings.
+2021-10-12 19:16:52,846 INFO     Settings loaded.
+2021-10-12 19:16:52,846 INFO     Starting GUI
+2021-10-12 19:16:53,084 INFO     importing icons
+2021-10-12 19:16:53,099 INFO     Initial database refresh
+2021-10-12 19:16:53,371 INFO     Fetching json from server.
+2021-10-12 19:16:53,470 INFO     Decoding JSON
+2021-10-12 19:16:53,470 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/uppspel-caisson-a-tiroirs-sur-roulettes-noir__AA-2262190-2.pdf
+2021-10-12 19:16:54,680 INFO     Download succeeded.
+2021-10-12 19:16:54,680 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/lanespelare-support-accessoires__AA-2261844-2.pdf
+2021-10-12 19:16:55,033 INFO     Download succeeded.
+2021-10-12 19:16:55,033 INFO     Updating new PDF directory
+2021-10-12 19:16:58,397 INFO     Initializing slideshow
+2021-10-12 19:16:58,397 INFO     Making slides
+2021-10-12 19:16:58,397 INFO     Starting slideshow
+2021-10-12 19:17:19,905 INFO     Loading settings.
+2021-10-12 19:17:19,905 INFO     Settings loaded.
+2021-10-12 19:17:19,905 INFO     Starting GUI
+2021-10-12 19:17:20,137 INFO     importing icons
+2021-10-12 19:17:20,150 INFO     Initial database refresh
+2021-10-12 19:17:20,154 INFO     Could not connect to the internet.
+2021-10-12 19:17:20,156 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:17:20,157 INFO     Fetching json from server.
+2021-10-12 19:17:20,157 INFO     Error while fetching json from server 
+2021-10-12 19:17:20,157 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:17:23,551 INFO     Initializing slideshow
+2021-10-12 19:17:23,551 INFO     Making slides
+2021-10-12 19:17:23,551 INFO     Starting slideshow
+2021-10-12 19:17:23,552 INFO     Could not connect to the internet.
+2021-10-12 19:17:23,553 INFO     Could not connect to the internet.
+2021-10-12 19:17:25,155 INFO     Could not connect to the internet.
+2021-10-12 19:17:26,787 INFO     Could not connect to the internet.
+2021-10-12 19:17:28,468 INFO     Could not connect to the internet.
+2021-10-12 19:17:30,147 INFO     Could not connect to the internet.
+2021-10-12 19:17:31,825 INFO     Could not connect to the internet.
+2021-10-12 19:17:33,503 INFO     Could not connect to the internet.
+2021-10-12 19:17:35,186 INFO     Could not connect to the internet.
+2021-10-12 19:17:36,867 INFO     Could not connect to the internet.
+2021-10-12 19:17:53,543 INFO     Loading settings.
+2021-10-12 19:17:53,544 INFO     Settings loaded.
+2021-10-12 19:17:53,544 INFO     Starting GUI
+2021-10-12 19:17:53,800 INFO     importing icons
+2021-10-12 19:17:53,815 INFO     Initial database refresh
+2021-10-12 19:17:53,821 INFO     Could not connect to the internet.
+2021-10-12 19:17:53,823 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:17:53,823 INFO     Fetching json from server.
+2021-10-12 19:17:53,824 INFO     Error while fetching json from server 
+2021-10-12 19:17:53,824 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:17:57,152 INFO     Initializing slideshow
+2021-10-12 19:17:57,152 INFO     Making slides
+2021-10-12 19:17:57,152 INFO     Starting slideshow
+2021-10-12 19:17:57,153 INFO     Could not connect to the internet.
+2021-10-12 19:17:57,153 INFO     Could not connect to the internet.
+2021-10-12 19:17:58,762 INFO     Could not connect to the internet.
+2021-10-12 19:18:00,385 INFO     Could not connect to the internet.
+2021-10-12 19:18:02,063 INFO     Could not connect to the internet.
+2021-10-12 19:18:03,741 INFO     Could not connect to the internet.
+2021-10-12 19:18:05,424 INFO     Could not connect to the internet.
+2021-10-12 19:18:07,102 INFO     Could not connect to the internet.
+2021-10-12 19:18:08,780 INFO     Could not connect to the internet.
+2021-10-12 19:18:10,461 INFO     Could not connect to the internet.
+2021-10-12 19:18:12,139 INFO     Could not connect to the internet.
+2021-10-12 19:18:56,590 INFO     Loading settings.
+2021-10-12 19:18:56,591 INFO     Settings loaded.
+2021-10-12 19:18:56,591 INFO     Starting GUI
+2021-10-12 19:18:56,839 INFO     importing icons
+2021-10-12 19:18:56,854 INFO     Initial database refresh
+2021-10-12 19:18:56,859 INFO     Could not connect to the internet.
+2021-10-12 19:18:56,861 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:18:56,861 INFO     Fetching json from server.
+2021-10-12 19:18:56,862 INFO     Error while fetching json from server 
+2021-10-12 19:18:56,862 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:19:00,189 INFO     Initializing slideshow
+2021-10-12 19:19:00,189 INFO     Making slides
+2021-10-12 19:19:00,189 INFO     Starting slideshow
+2021-10-12 19:19:00,190 INFO     Could not connect to the internet.
+2021-10-12 19:19:00,191 INFO     Could not connect to the internet.
+2021-10-12 19:19:01,788 INFO     Could not connect to the internet.
+2021-10-12 19:19:03,409 INFO     Could not connect to the internet.
+2021-10-12 19:19:05,084 INFO     Could not connect to the internet.
+2021-10-12 19:19:06,760 INFO     Could not connect to the internet.
+2021-10-12 19:19:08,433 INFO     Could not connect to the internet.
+2021-10-12 19:19:10,111 INFO     Could not connect to the internet.
+2021-10-12 19:19:11,786 INFO     Could not connect to the internet.
+2021-10-12 19:19:18,483 INFO     Loading settings.
+2021-10-12 19:19:18,484 INFO     Settings loaded.
+2021-10-12 19:19:18,484 INFO     Starting GUI
+2021-10-12 19:19:18,738 INFO     importing icons
+2021-10-12 19:19:18,751 INFO     Initial database refresh
+2021-10-12 19:19:18,755 INFO     Could not connect to the internet.
+2021-10-12 19:19:18,757 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:19:18,757 INFO     Fetching json from server.
+2021-10-12 19:19:18,758 INFO     Error while fetching json from server 
+2021-10-12 19:19:18,758 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:19:22,110 INFO     Initializing slideshow
+2021-10-12 19:19:22,111 INFO     Making slides
+2021-10-12 19:19:22,111 INFO     Starting slideshow
+2021-10-12 19:19:22,112 INFO     Could not connect to the internet.
+2021-10-12 19:19:22,112 INFO     Could not connect to the internet.
+2021-10-12 19:19:23,707 INFO     Could not connect to the internet.
+2021-10-12 19:19:25,327 INFO     Could not connect to the internet.
+2021-10-12 19:19:27,003 INFO     Could not connect to the internet.
+2021-10-12 19:19:28,685 INFO     Could not connect to the internet.
+2021-10-12 19:19:30,363 INFO     Could not connect to the internet.
+2021-10-12 19:19:32,040 INFO     Could not connect to the internet.
+2021-10-12 19:19:33,721 INFO     Could not connect to the internet.
+2021-10-12 19:19:35,406 INFO     Could not connect to the internet.
+2021-10-12 19:19:37,084 INFO     Could not connect to the internet.
+2021-10-12 19:19:38,725 INFO     Loading settings.
+2021-10-12 19:19:38,726 INFO     Settings loaded.
+2021-10-12 19:19:38,726 INFO     Starting GUI
+2021-10-12 19:19:39,026 INFO     importing icons
+2021-10-12 19:19:39,038 INFO     Initial database refresh
+2021-10-12 19:19:39,043 INFO     Could not connect to the internet.
+2021-10-12 19:19:39,045 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:19:39,045 INFO     Fetching json from server.
+2021-10-12 19:19:39,045 INFO     Error while fetching json from server 
+2021-10-12 19:19:39,045 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:19:42,406 INFO     Initializing slideshow
+2021-10-12 19:19:42,407 INFO     Making slides
+2021-10-12 19:19:42,407 INFO     Starting slideshow
+2021-10-12 19:19:42,408 INFO     Could not connect to the internet.
+2021-10-12 19:19:42,408 INFO     Could not connect to the internet.
+2021-10-12 19:19:44,006 INFO     Could not connect to the internet.
+2021-10-12 19:19:45,641 INFO     Could not connect to the internet.
+2021-10-12 19:19:47,319 INFO     Could not connect to the internet.
+2021-10-12 19:19:48,995 INFO     Could not connect to the internet.
+2021-10-12 19:19:50,669 INFO     Could not connect to the internet.
+2021-10-12 19:19:52,346 INFO     Could not connect to the internet.
+2021-10-12 19:19:54,023 INFO     Could not connect to the internet.
+2021-10-12 19:26:47,881 INFO     Loading settings.
+2021-10-12 19:26:47,882 INFO     Settings loaded.
+2021-10-12 19:26:47,882 INFO     Starting GUI
+2021-10-12 19:26:48,131 INFO     importing icons
+2021-10-12 19:26:48,146 INFO     Initial database refresh
+2021-10-12 19:26:48,151 INFO     Could not connect to the internet.
+2021-10-12 19:26:48,153 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:26:48,153 INFO     Fetching json from server.
+2021-10-12 19:26:48,154 INFO     Error while fetching json from server 
+2021-10-12 19:26:48,154 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:26:51,542 INFO     Initializing slideshow
+2021-10-12 19:26:51,542 INFO     Making slides
+2021-10-12 19:26:51,542 INFO     Starting slideshow
+2021-10-12 19:26:51,543 INFO     Could not connect to the internet.
+2021-10-12 19:26:51,544 INFO     Could not connect to the internet.
+2021-10-12 19:26:53,142 INFO     Could not connect to the internet.
+2021-10-12 19:26:54,769 INFO     Could not connect to the internet.
+2021-10-12 19:26:56,448 INFO     Could not connect to the internet.
+2021-10-12 19:26:58,125 INFO     Could not connect to the internet.
+2021-10-12 19:26:59,800 INFO     Could not connect to the internet.
+2021-10-12 19:27:01,478 INFO     Could not connect to the internet.
+2021-10-12 19:27:03,154 INFO     Could not connect to the internet.
+2021-10-12 19:27:04,829 INFO     Could not connect to the internet.
+2021-10-12 19:27:06,504 INFO     Could not connect to the internet.
+2021-10-12 19:27:08,179 INFO     Could not connect to the internet.
+2021-10-12 19:27:09,853 INFO     Could not connect to the internet.
+2021-10-12 19:27:11,530 INFO     Could not connect to the internet.
+2021-10-12 19:27:13,206 INFO     Could not connect to the internet.
+2021-10-12 19:27:40,053 INFO     Loading settings.
+2021-10-12 19:27:40,053 INFO     Settings loaded.
+2021-10-12 19:27:40,054 INFO     Starting GUI
+2021-10-12 19:27:40,305 INFO     importing icons
+2021-10-12 19:27:40,320 INFO     Initial database refresh
+2021-10-12 19:27:40,325 INFO     Could not connect to the internet.
+2021-10-12 19:27:40,328 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:27:40,328 INFO     Fetching json from server.
+2021-10-12 19:27:40,328 INFO     Error while fetching json from server 
+2021-10-12 19:27:40,329 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:27:43,647 INFO     Initializing slideshow
+2021-10-12 19:27:43,647 INFO     Making slides
+2021-10-12 19:27:43,647 INFO     Starting slideshow
+2021-10-12 19:27:43,648 INFO     Could not connect to the internet.
+2021-10-12 19:27:43,742 INFO     Could not connect to the internet.
+2021-10-12 19:27:45,359 INFO     Could not connect to the internet.
+2021-10-12 19:27:47,034 INFO     Could not connect to the internet.
+2021-10-12 19:27:48,707 INFO     Could not connect to the internet.
+2021-10-12 19:27:50,382 INFO     Could not connect to the internet.
+2021-10-12 19:27:52,057 INFO     Could not connect to the internet.
+2021-10-12 19:28:04,113 INFO     Loading settings.
+2021-10-12 19:28:04,113 INFO     Settings loaded.
+2021-10-12 19:28:04,113 INFO     Starting GUI
+2021-10-12 19:28:04,356 INFO     importing icons
+2021-10-12 19:28:04,369 INFO     Initial database refresh
+2021-10-12 19:28:04,373 INFO     Could not connect to the internet.
+2021-10-12 19:28:04,375 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:28:04,375 INFO     Fetching json from server.
+2021-10-12 19:28:04,376 INFO     Error while fetching json from server 
+2021-10-12 19:28:04,376 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:28:07,772 INFO     Initializing slideshow
+2021-10-12 19:28:07,773 INFO     Making slides
+2021-10-12 19:28:07,773 INFO     Starting slideshow
+2021-10-12 19:28:07,774 INFO     Could not connect to the internet.
+2021-10-12 19:28:07,867 INFO     Could not connect to the internet.
+2021-10-12 19:28:09,494 INFO     Could not connect to the internet.
+2021-10-12 19:28:11,169 INFO     Could not connect to the internet.
+2021-10-12 19:28:12,845 INFO     Could not connect to the internet.
+2021-10-12 19:28:14,520 INFO     Could not connect to the internet.
+2021-10-12 19:28:16,194 INFO     Could not connect to the internet.
+2021-10-12 19:28:17,869 INFO     Could not connect to the internet.
+2021-10-12 19:28:19,543 INFO     Could not connect to the internet.
+2021-10-12 19:28:21,221 INFO     Could not connect to the internet.
+2021-10-12 19:28:22,895 INFO     Could not connect to the internet.
+2021-10-12 19:28:48,804 INFO     Could not connect to the internet.
+2021-10-12 19:29:03,530 INFO     Loading settings.
+2021-10-12 19:29:03,531 INFO     Settings loaded.
+2021-10-12 19:29:03,531 INFO     Starting GUI
+2021-10-12 19:29:03,782 INFO     importing icons
+2021-10-12 19:29:03,795 INFO     Initial database refresh
+2021-10-12 19:29:03,799 INFO     Could not connect to the internet.
+2021-10-12 19:29:03,801 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:29:03,801 INFO     Fetching json from server.
+2021-10-12 19:29:03,802 INFO     Error while fetching json from server 
+2021-10-12 19:29:03,802 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:29:07,162 INFO     Initializing slideshow
+2021-10-12 19:29:07,162 INFO     Making slides
+2021-10-12 19:29:07,163 INFO     Starting slideshow
+2021-10-12 19:29:07,164 INFO     Could not connect to the internet.
+2021-10-12 19:29:07,260 INFO     Could not connect to the internet.
+2021-10-12 19:29:08,890 INFO     Could not connect to the internet.
+2021-10-12 19:29:10,570 INFO     Could not connect to the internet.
+2021-10-12 19:29:12,248 INFO     Could not connect to the internet.
+2021-10-12 19:29:13,928 INFO     Could not connect to the internet.
+2021-10-12 19:29:15,606 INFO     Could not connect to the internet.
+2021-10-12 19:29:17,285 INFO     Could not connect to the internet.
+2021-10-12 19:29:18,785 INFO     Fetching new data from database.
+2021-10-12 19:29:18,786 INFO     Could not connect to the internet.
+2021-10-12 19:29:18,787 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:29:18,787 INFO     Fetching json from server.
+2021-10-12 19:29:18,788 INFO     Error while fetching json from server 
+2021-10-12 19:29:18,788 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:29:22,252 INFO     No new data was found.
+2021-10-12 19:29:22,253 INFO     Making slides
+2021-10-12 19:29:22,282 INFO     Starting slideshow
+2021-10-12 19:29:22,283 INFO     Could not connect to the internet.
+2021-10-12 19:29:22,461 INFO     Could not connect to the internet.
+2021-10-12 19:29:24,130 INFO     Could not connect to the internet.
+2021-10-12 19:29:25,805 INFO     Could not connect to the internet.
+2021-10-12 19:29:27,481 INFO     Could not connect to the internet.
+2021-10-12 19:29:34,493 INFO     Fetching new data from database.
+2021-10-12 19:29:34,789 INFO     Fetching json from server.
+2021-10-12 19:29:34,888 INFO     Decoding JSON
+2021-10-12 19:29:34,888 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/uppspel-caisson-a-tiroirs-sur-roulettes-noir__AA-2262190-2.pdf
+2021-10-12 19:29:35,841 INFO     Download succeeded.
+2021-10-12 19:29:35,841 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/lanespelare-support-accessoires__AA-2261844-2.pdf
+2021-10-12 19:29:36,221 INFO     Download succeeded.
+2021-10-12 19:29:36,221 INFO     Updating new PDF directory
+2021-10-12 19:29:39,711 INFO     No new data was found.
+2021-10-12 19:29:39,711 INFO     Making slides
+2021-10-12 19:29:39,712 INFO     Starting slideshow
+2021-10-12 19:29:47,424 INFO     Could not connect to the internet.
+2021-10-12 19:29:49,105 INFO     Could not connect to the internet.
+2021-10-12 19:29:50,783 INFO     Could not connect to the internet.
+2021-10-12 19:29:52,283 INFO     Fetching new data from database.
+2021-10-12 19:29:52,284 INFO     Could not connect to the internet.
+2021-10-12 19:29:52,285 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:29:52,285 INFO     Fetching json from server.
+2021-10-12 19:29:52,285 INFO     Error while fetching json from server 
+2021-10-12 19:29:52,286 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:29:55,802 INFO     No new data was found.
+2021-10-12 19:29:55,802 INFO     Making slides
+2021-10-12 19:29:55,803 INFO     Starting slideshow
+2021-10-12 19:29:55,804 INFO     Could not connect to the internet.
+2021-10-12 19:29:55,989 INFO     Could not connect to the internet.
+2021-10-12 19:29:57,668 INFO     Could not connect to the internet.
+2021-10-12 19:29:59,342 INFO     Could not connect to the internet.
+2021-10-12 19:30:01,023 INFO     Could not connect to the internet.
+2021-10-12 19:30:02,690 INFO     Could not connect to the internet.
+2021-10-12 19:30:04,364 INFO     Could not connect to the internet.
+2021-10-12 19:30:06,039 INFO     Could not connect to the internet.
+2021-10-12 19:30:07,540 INFO     Fetching new data from database.
+2021-10-12 19:30:07,541 INFO     Could not connect to the internet.
+2021-10-12 19:30:07,541 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:30:07,541 INFO     Fetching json from server.
+2021-10-12 19:30:07,542 INFO     Error while fetching json from server 
+2021-10-12 19:30:07,542 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:30:11,173 INFO     No new data was found.
+2021-10-12 19:30:11,173 INFO     Making slides
+2021-10-12 19:30:11,198 INFO     Starting slideshow
+2021-10-12 19:30:11,199 INFO     Could not connect to the internet.
+2021-10-12 19:30:11,382 INFO     Could not connect to the internet.
+2021-10-12 19:30:13,059 INFO     Could not connect to the internet.
+2021-10-12 19:30:14,734 INFO     Could not connect to the internet.
+2021-10-12 19:30:16,411 INFO     Could not connect to the internet.
+2021-10-12 19:30:17,287 INFO     Loading settings.
+2021-10-12 19:30:17,287 INFO     Settings loaded.
+2021-10-12 19:30:17,287 INFO     Starting GUI
+2021-10-12 19:30:17,618 INFO     importing icons
+2021-10-12 19:30:17,631 INFO     Initial database refresh
+2021-10-12 19:30:17,635 INFO     Could not connect to the internet.
+2021-10-12 19:30:17,637 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:30:17,637 INFO     Fetching json from server.
+2021-10-12 19:30:17,638 INFO     Error while fetching json from server 
+2021-10-12 19:30:17,638 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:30:20,958 INFO     Initializing slideshow
+2021-10-12 19:30:20,959 INFO     Making slides
+2021-10-12 19:30:20,959 INFO     Starting slideshow
+2021-10-12 19:30:20,960 INFO     Could not connect to the internet.
+2021-10-12 19:30:21,053 INFO     Could not connect to the internet.
+2021-10-12 19:30:22,679 INFO     Could not connect to the internet.
+2021-10-12 19:30:24,357 INFO     Could not connect to the internet.
+2021-10-12 19:30:26,032 INFO     Could not connect to the internet.
+2021-10-12 19:30:27,709 INFO     Could not connect to the internet.
+2021-10-12 19:30:29,382 INFO     Could not connect to the internet.
+2021-10-12 19:30:31,057 INFO     Could not connect to the internet.
+2021-10-12 19:30:32,558 INFO     Fetching new data from database.
+2021-10-12 19:30:32,558 INFO     Could not connect to the internet.
+2021-10-12 19:30:32,559 INFO     Could not connect to the server with url : https://pastebin.com/raw/1sehACD5
+2021-10-12 19:30:32,559 INFO     Fetching json from server.
+2021-10-12 19:30:32,560 INFO     Error while fetching json from server 
+2021-10-12 19:30:32,560 INFO     Unable to get new data from server , using preexisting files if available.
+2021-10-12 19:30:36,026 INFO     No new data was found.
+2021-10-12 19:30:36,026 INFO     Making slides
+2021-10-12 19:30:36,055 INFO     Starting slideshow
+2021-10-12 19:30:36,056 INFO     Could not connect to the internet.
+2021-10-12 19:30:36,235 INFO     Could not connect to the internet.
+2021-10-12 19:30:37,898 INFO     Could not connect to the internet.
+2021-10-12 19:30:48,653 INFO     Fetching new data from database.
+2021-10-12 19:30:48,917 INFO     Fetching json from server.
+2021-10-12 19:30:49,011 INFO     Decoding JSON
+2021-10-12 19:30:49,012 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/uppspel-caisson-a-tiroirs-sur-roulettes-noir__AA-2262190-2.pdf
+2021-10-12 19:30:50,065 INFO     Download succeeded.
+2021-10-12 19:30:50,065 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/lanespelare-support-accessoires__AA-2261844-2.pdf
+2021-10-12 19:30:50,449 INFO     Download succeeded.
+2021-10-12 19:30:50,449 INFO     Updating new PDF directory
+2021-10-12 19:30:53,914 INFO     No new data was found.
+2021-10-12 19:30:53,914 INFO     Making slides
+2021-10-12 19:30:53,914 INFO     Starting slideshow
+2021-10-12 19:31:06,937 INFO     Fetching new data from database.
+2021-10-12 19:31:07,208 INFO     Fetching json from server.
+2021-10-12 19:31:07,313 INFO     Decoding JSON
+2021-10-12 19:31:07,313 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/uppspel-caisson-a-tiroirs-sur-roulettes-noir__AA-2262190-2.pdf
+2021-10-12 19:31:08,335 INFO     Download succeeded.
+2021-10-12 19:31:08,335 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/lanespelare-support-accessoires__AA-2261844-2.pdf
+2021-10-12 19:31:08,697 INFO     Download succeeded.
+2021-10-12 19:31:08,697 INFO     Updating new PDF directory
+2021-10-12 19:31:12,321 INFO     No new data was found.
+2021-10-12 19:31:12,322 INFO     Making slides
+2021-10-12 19:31:12,322 INFO     Starting slideshow
+2021-10-12 19:31:22,238 INFO     Loading settings.
+2021-10-12 19:31:22,239 INFO     Settings loaded.
+2021-10-12 19:31:22,239 INFO     Starting GUI
+2021-10-12 19:31:22,559 INFO     importing icons
+2021-10-12 19:31:22,576 INFO     Initial database refresh
+2021-10-12 19:31:22,866 INFO     Fetching json from server.
+2021-10-12 19:31:22,958 INFO     Decoding JSON
+2021-10-12 19:31:22,959 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/uppspel-caisson-a-tiroirs-sur-roulettes-noir__AA-2262190-2.pdf
+2021-10-12 19:31:24,064 INFO     Download succeeded.
+2021-10-12 19:31:24,064 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/lanespelare-support-accessoires__AA-2261844-2.pdf
+2021-10-12 19:31:24,415 INFO     Download succeeded.
+2021-10-12 19:31:24,415 INFO     Updating new PDF directory
+2021-10-12 19:31:27,717 INFO     Initializing slideshow
+2021-10-12 19:31:27,717 INFO     Making slides
+2021-10-12 19:31:27,717 INFO     Starting slideshow
+2021-10-12 19:31:40,776 INFO     Fetching new data from database.
+2021-10-12 19:31:41,046 INFO     Fetching json from server.
+2021-10-12 19:31:41,146 INFO     Decoding JSON
+2021-10-12 19:31:41,146 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/uppspel-caisson-a-tiroirs-sur-roulettes-noir__AA-2262190-2.pdf
+2021-10-12 19:31:43,051 INFO     Download succeeded.
+2021-10-12 19:31:43,052 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/lanespelare-support-accessoires__AA-2261844-2.pdf
+2021-10-12 19:31:43,792 INFO     Download succeeded.
+2021-10-12 19:31:43,793 INFO     Updating new PDF directory
+2021-10-12 19:31:47,668 INFO     Loading settings.
+2021-10-12 19:31:47,669 INFO     Settings loaded.
+2021-10-12 19:31:47,669 INFO     Starting GUI
+2021-10-12 19:31:47,955 INFO     importing icons
+2021-10-12 19:31:47,975 INFO     Initial database refresh
+2021-10-12 19:31:48,261 INFO     Fetching json from server.
+2021-10-12 19:31:48,357 INFO     Decoding JSON
+2021-10-12 19:31:48,357 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/uppspel-caisson-a-tiroirs-sur-roulettes-noir__AA-2262190-2.pdf
+2021-10-12 19:31:49,560 INFO     Download succeeded.
+2021-10-12 19:31:49,560 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/lanespelare-support-accessoires__AA-2261844-2.pdf
+2021-10-12 19:31:49,875 INFO     Download succeeded.
+2021-10-12 19:31:49,875 INFO     Updating new PDF directory
+2021-10-12 19:31:53,172 INFO     Initializing slideshow
+2021-10-12 19:31:53,173 INFO     Making slides
+2021-10-12 19:31:53,173 INFO     Starting slideshow
+2021-10-12 19:32:06,186 INFO     Fetching new data from database.
+2021-10-12 19:32:06,476 INFO     Fetching json from server.
+2021-10-12 19:32:06,570 INFO     Decoding JSON
+2021-10-12 19:32:06,570 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/uppspel-caisson-a-tiroirs-sur-roulettes-noir__AA-2262190-2.pdf
+2021-10-12 19:32:07,594 INFO     Download succeeded.
+2021-10-12 19:32:07,594 INFO     Downloading file : https://www.ikea.com/be/fr/assembly_instructions/lanespelare-support-accessoires__AA-2261844-2.pdf
+2021-10-12 19:32:07,976 INFO     Download succeeded.
+2021-10-12 19:32:07,976 INFO     Updating new PDF directory
+2021-10-12 19:32:11,445 INFO     No new data was found.
+2021-10-12 19:32:11,445 INFO     Making slides
+2021-10-12 19:32:11,474 INFO     Starting slideshow

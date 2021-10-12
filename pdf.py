@@ -3,6 +3,7 @@ from os import listdir
 from os.path import isfile, join
 import urllib.request, json
 import shutil
+from settings import log
 
 
 pdf_path = "./pdf"
@@ -12,33 +13,52 @@ connection_status = True
 document_status = True
 refreshing = False
 
+
+
+
 def serverUpdate(url):
     global refreshing
     refreshing = True
 
     global connection_status
-    if checkConnection(url) != True:
+    if checkConnection() != True:
         connection_status = False
-        return None
+
+
+    global document_status
+    if checkServer(url) != True:
+        document_status = False
+
 
     connection_status = True
 
     data = getJSON(url)
 
-    pdf_list = decodeJSON(data)
+    if data == None :
+        #try to use current PDF files , else return None
+        log("Unable to get new data from server , using preexisting files if available.")
+        pdf_list = current_PDF()
+        refreshing = False
+        if len(pdf_list) == 0 :
+            log("There are no preexisting files.")
+        return pdf_list
 
-    global document_status
+    else:
+        pdf_list = decodeJSON(data)
+
+    if pdf_list == None :
+        return None
 
     for e in pdf_list:
         try:
             download_file(e.url , e.title , pdf_path+"_temp")
+            document_status = True
         except:
             document_status = False
-            return None
-    document_status = True
+            #don't return None in case pdfs already exist in pdf location
 
-    if fileTransfer() == False:
-        return None
+
+    fileTransfer()
     refreshing = False
     return pdf_list
 
@@ -47,10 +67,25 @@ def serverUpdate(url):
 
 
 
+def current_PDF():
+    global pdf_path
+    if os.path.exists(pdf_path) == False :
+        return None
+    files = os.listdir(pdf_path)
+    pdf_list = []
+    for i in range (len(files)) :
+        #files[i] = pdf_path + files[i]
+        #the [:-4] is to remove the ".pdf" extension to make it compatible with the PDF object handler
+        pdf_list.append(PDFobject("",files[i][:-4] , "",""))
+    return pdf_list
+
+
+
 
 
 
 def download_file(download_url, filename , path):
+    log("Downloading file : " + download_url)
     try:
         if os.path.exists(pdf_path+"_temp") == False:
             os.mkdir(pdf_path+"_temp")
@@ -58,10 +93,12 @@ def download_file(download_url, filename , path):
         file = open(path +"/"+ filename + ".pdf", 'wb')
         file.write(response.read())
         file.close()
+        log("Download succeeded.")
         return
     except:
         global document_status
         document_status = False
+        log("Download failed.")
         return
 
 
@@ -69,7 +106,7 @@ def download_file(download_url, filename , path):
 
 
 
-def checkConnection(url):
+def checkConnection():
     timeout = 5
 
     global connection_status
@@ -79,12 +116,28 @@ def checkConnection(url):
         connection_status = True
         return True
     except :
-        print("No internet connection.")
+        log("Could not connect to the internet.")
+        connection_status= False
+        return False
+    return
+
+def checkServer(url):
+    timeout = 5
+
+    global connection_status
+    try:
+
+        response = urllib.request.urlopen(url)
+        connection_status = True
+        return True
+    except :
+        log("Could not connect to the server with url : " + url)
         connection_status= False
         return False
     return
 
 def getStatus():
+    checkConnection()
     return connection_status,document_status,refreshing
 
 def getPDFS(path):
@@ -95,16 +148,17 @@ def getPDFS(path):
 
 
 def getJSON(url_source):
-    with urllib.request.urlopen(url_source) as url:
-        data = json.loads(url.read().decode())
-    return data
+    log("Fetching json from server.")
+    try:
+        with urllib.request.urlopen(url_source) as url:
+            data = json.loads(url.read().decode())
+        return data
+    except:
+        log("Error while fetching json from server ")
+        return None
 
 def decodeJSON(data):
-    """
-    TODO once json format is defined
-    download all pdfs from json
-
-    """
+    log("Decoding JSON")
     pdf_list = []
     for d in data["files"] :
         pdfurl = d["url"]
@@ -117,6 +171,7 @@ def decodeJSON(data):
 
 
 def fileTransfer():
+    log("Updating new PDF directory")
     if os.path.exists(pdf_path+"_old"):
 
         shutil.rmtree(pdf_path+"_old", ignore_errors=True)
