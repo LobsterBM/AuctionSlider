@@ -100,13 +100,16 @@ def makeSlides(slides,gui):
 def nextSlides(slideList, gui ):
     if len(slideList) == 0 :
         return slideList
-    gui.updateScreenSlides(slideList[0])
+
+    
+    gui.updateScreenSlides(slideList[0] , len(slideList))
     slideList = slideList[1:]+slideList[:1]
+
 
     gui.canvas.delete("all")
 
-    onscreen = gui.onscreen
-    for s in onscreen :
+    gui.onscreen
+    for s in gui.onscreen :
         s.show_slide()
 
     gui.root.update()
@@ -187,6 +190,7 @@ def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
         #timer *=60 #convert to minutes
         loops = timer/slidetime
         connectionStatus , documentStatus, refreshStatus = getStatus()
+        gui.onscreen = []
         while  loops > 0 :
 
             slide_list = nextSlides(slide_list , gui )
@@ -247,8 +251,9 @@ def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
 
         log("Fetching new data from database.")
         new_data = refreshDB(url)
-        if new_data != None:
+        if new_data == None:
             log("No new data was found.")
+        else :
             data = new_data
 
 
@@ -305,15 +310,28 @@ class GUIinstance:
         self.canvas = Canvas(self.root, width=width, height=height)
         self.onscreen = []
 
-    def updateScreenSlides(self, slide ):
+    def updateScreenSlides(self, slide , slidelength):
+
+
         if len(self.onscreen) < self.model :
             for i in range(len(self.onscreen)):
                 self.onscreen[i].setPos(i)
-            self.onscreen = [slide] + self.onscreen
+                if slidelength == 1 and len(self.onscreen) > 0:
+                    self.onscreen[0].setPos(1)
+            if slide not in self.onscreen:
+                if slidelength == 1 :
+                    slide.setPos(1)
+                    self.onscreen = [slide]
+                    return
+                self.onscreen = [slide] + self.onscreen
         else:
-            self.onscreen  = [slide]+self.onscreen[:-1]
+            if slide not in self.onscreen:
+                self.onscreen  = [slide]+self.onscreen[:-1]
             for i in range(len(self.onscreen)):
                 self.onscreen[i].setPos(i)
+                if slidelength == 1 :
+                    self.onscreen[0].setPos(1)
+            
 
 
 

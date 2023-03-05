@@ -26,7 +26,7 @@ def loadSettings():
     else:
         log("Settings files was not found, creating a new one.")
         #create default settings file
-        config = {"updatetime" : "10" ,"font": "./fonts/OpenSans-Semibold.ttf","fontsize": '10', "url": "https://pastebin.com/raw/1sehACD5" , "model" : "3" , "slidetime" : "1.5" }
+        config = {"updatetime" : "10" ,"font": "./fonts/OpenSans-Semibold.ttf","fontsize": '10', "url": "https://huissiers-brabant-wallon.be/api/placards" , "model" : "3" , "slidetime" : "1.5" }
 
         with open('settings.cfg', 'w') as f:
             json.dump(config, f)
