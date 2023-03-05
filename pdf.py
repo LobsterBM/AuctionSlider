@@ -87,8 +87,12 @@ def current_PDF():
 def download_file(download_url, filename , path):
     log("Downloading file : " + download_url)
     try:
+        if os.path.exists(pdf_path +"/"+ filename + ".pdf"):
+            log("file already exists")
+            return
         if os.path.exists(pdf_path+"_temp") == False:
             os.mkdir(pdf_path+"_temp")
+        
         response = urllib.request.urlopen(download_url)
         file = open(path +"/"+ filename + ".pdf", 'wb')
         file.write(response.read())

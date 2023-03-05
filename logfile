@@ -1627,3 +1627,1786 @@
 2023-03-05 01:12:17,462 INFO     Download succeeded.
 2023-03-05 01:12:17,522 INFO     Making slides
 2023-03-05 01:12:17,522 INFO     Starting slideshow
+2023-03-05 01:16:11,621 INFO     Loading settings.
+2023-03-05 01:16:11,623 INFO     Settings loaded.
+2023-03-05 01:16:11,623 INFO     Starting GUI
+2023-03-05 01:16:11,979 INFO     importing icons
+2023-03-05 01:16:11,993 INFO     Initial database refresh
+2023-03-05 01:16:12,632 INFO     Fetching json from server.
+2023-03-05 01:16:12,909 INFO     Decoding JSON
+2023-03-05 01:16:12,910 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:16:13,056 INFO     Download succeeded.
+2023-03-05 01:16:13,056 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:16:13,315 INFO     Download succeeded.
+2023-03-05 01:16:13,316 INFO     Updating new PDF directory
+2023-03-05 01:16:13,533 INFO     Initializing slideshow
+2023-03-05 01:16:13,533 INFO     Making slides
+2023-03-05 01:16:13,534 INFO     Starting slideshow
+2023-03-05 01:16:26,567 INFO     Fetching new data from database.
+2023-03-05 01:16:27,029 INFO     Fetching json from server.
+2023-03-05 01:16:27,315 INFO     Decoding JSON
+2023-03-05 01:16:27,315 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:16:27,455 INFO     Download succeeded.
+2023-03-05 01:16:27,456 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:16:27,765 INFO     Download succeeded.
+2023-03-05 01:16:27,765 INFO     Updating new PDF directory
+2023-03-05 01:16:27,914 INFO     Making slides
+2023-03-05 01:16:27,915 INFO     Starting slideshow
+2023-03-05 01:16:37,838 INFO     Could not connect to the internet.
+2023-03-05 01:16:50,356 INFO     Fetching new data from database.
+2023-03-05 01:16:50,770 INFO     Fetching json from server.
+2023-03-05 01:16:51,041 INFO     Decoding JSON
+2023-03-05 01:16:51,042 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:16:51,176 INFO     Download succeeded.
+2023-03-05 01:16:51,176 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:16:51,376 INFO     Download succeeded.
+2023-03-05 01:16:51,376 INFO     Updating new PDF directory
+2023-03-05 01:16:51,533 INFO     Making slides
+2023-03-05 01:16:51,534 INFO     Starting slideshow
+2023-03-05 01:17:55,761 INFO     Loading settings.
+2023-03-05 01:17:55,763 INFO     Settings loaded.
+2023-03-05 01:17:55,763 INFO     Starting GUI
+2023-03-05 01:17:56,224 INFO     importing icons
+2023-03-05 01:17:56,243 INFO     Initial database refresh
+2023-03-05 01:17:56,730 INFO     Fetching json from server.
+2023-03-05 01:17:57,016 INFO     Decoding JSON
+2023-03-05 01:17:57,016 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:17:57,167 INFO     Download succeeded.
+2023-03-05 01:17:57,167 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:17:57,415 INFO     Download succeeded.
+2023-03-05 01:17:57,415 INFO     Updating new PDF directory
+2023-03-05 01:17:57,572 INFO     Initializing slideshow
+2023-03-05 01:17:57,573 INFO     Making slides
+2023-03-05 01:17:57,574 INFO     Starting slideshow
+2023-03-05 01:18:10,546 INFO     Fetching new data from database.
+2023-03-05 01:18:10,990 INFO     Fetching json from server.
+2023-03-05 01:18:11,263 INFO     Decoding JSON
+2023-03-05 01:18:11,263 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:18:11,386 INFO     Download succeeded.
+2023-03-05 01:18:11,386 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:18:11,609 INFO     Download succeeded.
+2023-03-05 01:18:11,609 INFO     Updating new PDF directory
+2023-03-05 01:18:11,755 INFO     Making slides
+2023-03-05 01:18:11,755 INFO     Starting slideshow
+2023-03-05 01:18:36,981 INFO     Could not connect to the internet.
+2023-03-05 01:18:45,919 INFO     Fetching new data from database.
+2023-03-05 01:18:46,383 INFO     Fetching json from server.
+2023-03-05 01:18:46,672 INFO     Decoding JSON
+2023-03-05 01:18:46,672 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:18:46,838 INFO     Download succeeded.
+2023-03-05 01:18:46,839 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:18:47,113 INFO     Download succeeded.
+2023-03-05 01:18:47,114 INFO     Updating new PDF directory
+2023-03-05 01:18:47,263 INFO     Making slides
+2023-03-05 01:18:47,263 INFO     Starting slideshow
+2023-03-05 01:19:05,226 INFO     Loading settings.
+2023-03-05 01:19:05,227 INFO     Settings loaded.
+2023-03-05 01:19:05,228 INFO     Starting GUI
+2023-03-05 01:19:05,540 INFO     importing icons
+2023-03-05 01:19:05,552 INFO     Initial database refresh
+2023-03-05 01:19:06,048 INFO     Fetching json from server.
+2023-03-05 01:19:06,238 INFO     Decoding JSON
+2023-03-05 01:19:06,238 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:19:06,379 INFO     Download succeeded.
+2023-03-05 01:19:06,379 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:19:06,719 INFO     Download succeeded.
+2023-03-05 01:19:06,720 INFO     Updating new PDF directory
+2023-03-05 01:19:06,919 INFO     Initializing slideshow
+2023-03-05 01:19:06,920 INFO     Making slides
+2023-03-05 01:19:06,923 INFO     Starting slideshow
+2023-03-05 01:19:18,757 INFO     Fetching new data from database.
+2023-03-05 01:19:19,247 INFO     Fetching json from server.
+2023-03-05 01:19:19,524 INFO     Decoding JSON
+2023-03-05 01:19:19,524 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:19:19,674 INFO     Download succeeded.
+2023-03-05 01:19:19,675 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:19:19,876 INFO     Download succeeded.
+2023-03-05 01:19:19,877 INFO     Updating new PDF directory
+2023-03-05 01:19:20,021 INFO     Making slides
+2023-03-05 01:19:20,021 INFO     Starting slideshow
+2023-03-05 01:19:31,916 INFO     Fetching new data from database.
+2023-03-05 01:19:52,096 INFO     Loading settings.
+2023-03-05 01:19:52,102 INFO     Settings loaded.
+2023-03-05 01:19:52,102 INFO     Starting GUI
+2023-03-05 01:19:52,415 INFO     importing icons
+2023-03-05 01:19:52,432 INFO     Initial database refresh
+2023-03-05 01:19:52,985 INFO     Fetching json from server.
+2023-03-05 01:19:53,258 INFO     Decoding JSON
+2023-03-05 01:19:53,258 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:19:53,398 INFO     Download succeeded.
+2023-03-05 01:19:53,398 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:19:53,614 INFO     Download succeeded.
+2023-03-05 01:19:53,614 INFO     Updating new PDF directory
+2023-03-05 01:19:53,775 INFO     Initializing slideshow
+2023-03-05 01:19:53,775 INFO     Making slides
+2023-03-05 01:19:53,777 INFO     Starting slideshow
+2023-03-05 01:20:05,568 INFO     Fetching new data from database.
+2023-03-05 01:20:06,096 INFO     Fetching json from server.
+2023-03-05 01:20:06,379 INFO     Decoding JSON
+2023-03-05 01:20:06,379 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:20:06,519 INFO     Download succeeded.
+2023-03-05 01:20:06,519 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:20:06,749 INFO     Download succeeded.
+2023-03-05 01:20:06,749 INFO     Updating new PDF directory
+2023-03-05 01:20:06,935 INFO     Making slides
+2023-03-05 01:20:06,937 INFO     Starting slideshow
+2023-03-05 01:20:18,769 INFO     Fetching new data from database.
+2023-03-05 01:20:19,311 INFO     Fetching json from server.
+2023-03-05 01:20:19,523 INFO     Decoding JSON
+2023-03-05 01:20:19,524 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:20:19,656 INFO     Download succeeded.
+2023-03-05 01:20:19,657 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:20:19,878 INFO     Download succeeded.
+2023-03-05 01:20:19,879 INFO     Updating new PDF directory
+2023-03-05 01:20:20,027 INFO     Making slides
+2023-03-05 01:20:20,028 INFO     Starting slideshow
+2023-03-05 01:20:31,948 INFO     Fetching new data from database.
+2023-03-05 01:20:32,451 INFO     Fetching json from server.
+2023-03-05 01:20:32,741 INFO     Decoding JSON
+2023-03-05 01:20:32,741 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:20:32,905 INFO     Download succeeded.
+2023-03-05 01:20:32,905 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:20:33,120 INFO     Download succeeded.
+2023-03-05 01:20:33,121 INFO     Updating new PDF directory
+2023-03-05 01:20:33,266 INFO     Making slides
+2023-03-05 01:20:33,267 INFO     Starting slideshow
+2023-03-05 01:20:45,181 INFO     Fetching new data from database.
+2023-03-05 01:21:06,358 INFO     Could not connect to the internet.
+2023-03-05 01:21:06,651 INFO     Fetching json from server.
+2023-03-05 01:21:06,931 INFO     Decoding JSON
+2023-03-05 01:21:06,931 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:21:07,100 INFO     Download succeeded.
+2023-03-05 01:21:07,101 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:21:07,340 INFO     Download succeeded.
+2023-03-05 01:21:07,341 INFO     Updating new PDF directory
+2023-03-05 01:21:07,571 INFO     Making slides
+2023-03-05 01:21:07,571 INFO     Starting slideshow
+2023-03-05 01:21:19,521 INFO     Fetching new data from database.
+2023-03-05 01:21:20,026 INFO     Fetching json from server.
+2023-03-05 01:21:20,301 INFO     Decoding JSON
+2023-03-05 01:21:20,301 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:21:20,437 INFO     Download succeeded.
+2023-03-05 01:21:20,438 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:21:20,819 INFO     Download succeeded.
+2023-03-05 01:21:20,820 INFO     Updating new PDF directory
+2023-03-05 01:21:20,993 INFO     Making slides
+2023-03-05 01:21:20,994 INFO     Starting slideshow
+2023-03-05 01:21:32,896 INFO     Fetching new data from database.
+2023-03-05 01:21:54,062 INFO     Could not connect to the internet.
+2023-03-05 01:21:54,356 INFO     Fetching json from server.
+2023-03-05 01:21:54,633 INFO     Decoding JSON
+2023-03-05 01:21:54,633 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:21:54,783 INFO     Download succeeded.
+2023-03-05 01:21:54,783 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:21:55,010 INFO     Download succeeded.
+2023-03-05 01:21:55,011 INFO     Updating new PDF directory
+2023-03-05 01:21:55,180 INFO     Making slides
+2023-03-05 01:21:55,182 INFO     Starting slideshow
+2023-03-05 01:22:07,177 INFO     Fetching new data from database.
+2023-03-05 01:22:07,665 INFO     Fetching json from server.
+2023-03-05 01:22:07,957 INFO     Decoding JSON
+2023-03-05 01:22:07,957 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:22:08,082 INFO     Download succeeded.
+2023-03-05 01:22:08,083 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:22:08,313 INFO     Download succeeded.
+2023-03-05 01:22:08,314 INFO     Updating new PDF directory
+2023-03-05 01:22:08,527 INFO     Making slides
+2023-03-05 01:22:08,528 INFO     Starting slideshow
+2023-03-05 01:22:20,949 INFO     Fetching new data from database.
+2023-03-05 01:22:21,454 INFO     Fetching json from server.
+2023-03-05 01:22:21,732 INFO     Decoding JSON
+2023-03-05 01:22:21,733 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:22:21,855 INFO     Download succeeded.
+2023-03-05 01:22:21,856 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:22:22,065 INFO     Download succeeded.
+2023-03-05 01:22:22,065 INFO     Updating new PDF directory
+2023-03-05 01:22:22,218 INFO     Making slides
+2023-03-05 01:22:22,218 INFO     Starting slideshow
+2023-03-05 01:22:34,236 INFO     Fetching new data from database.
+2023-03-05 01:22:34,742 INFO     Fetching json from server.
+2023-03-05 01:22:35,026 INFO     Decoding JSON
+2023-03-05 01:22:35,026 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:22:56,122 INFO     Download failed.
+2023-03-05 01:22:56,123 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:22:56,336 INFO     Download succeeded.
+2023-03-05 01:22:56,337 INFO     Updating new PDF directory
+2023-03-05 01:23:23,427 INFO     Loading settings.
+2023-03-05 01:23:23,428 INFO     Settings loaded.
+2023-03-05 01:23:23,429 INFO     Starting GUI
+2023-03-05 01:23:23,738 INFO     importing icons
+2023-03-05 01:23:23,750 INFO     Initial database refresh
+2023-03-05 01:23:24,188 INFO     Fetching json from server.
+2023-03-05 01:23:24,380 INFO     Decoding JSON
+2023-03-05 01:23:24,381 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:23:24,528 INFO     Download succeeded.
+2023-03-05 01:23:24,528 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:23:24,877 INFO     Download succeeded.
+2023-03-05 01:23:24,877 INFO     Updating new PDF directory
+2023-03-05 01:23:25,035 INFO     Initializing slideshow
+2023-03-05 01:23:25,037 INFO     Making slides
+2023-03-05 01:23:25,038 INFO     Starting slideshow
+2023-03-05 01:23:36,845 INFO     Fetching new data from database.
+2023-03-05 01:23:53,703 INFO     Loading settings.
+2023-03-05 01:23:53,707 INFO     Settings loaded.
+2023-03-05 01:23:53,708 INFO     Starting GUI
+2023-03-05 01:23:54,022 INFO     importing icons
+2023-03-05 01:23:54,036 INFO     Initial database refresh
+2023-03-05 01:23:54,445 INFO     Fetching json from server.
+2023-03-05 01:23:54,722 INFO     Decoding JSON
+2023-03-05 01:23:54,722 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:23:54,861 INFO     Download succeeded.
+2023-03-05 01:23:54,861 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:23:55,065 INFO     Download succeeded.
+2023-03-05 01:23:55,066 INFO     Updating new PDF directory
+2023-03-05 01:23:55,221 INFO     Initializing slideshow
+2023-03-05 01:23:55,222 INFO     Making slides
+2023-03-05 01:23:55,223 INFO     Starting slideshow
+2023-03-05 01:24:06,965 INFO     Fetching new data from database.
+2023-03-05 01:24:16,694 INFO     Could not connect to the internet.
+2023-03-05 01:24:16,994 INFO     Fetching json from server.
+2023-03-05 01:24:17,268 INFO     Decoding JSON
+2023-03-05 01:24:17,268 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:24:17,382 INFO     Download succeeded.
+2023-03-05 01:24:17,383 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:24:17,598 INFO     Download succeeded.
+2023-03-05 01:24:17,598 INFO     Updating new PDF directory
+2023-03-05 01:24:17,780 INFO     Making slides
+2023-03-05 01:24:17,780 INFO     Starting slideshow
+2023-03-05 01:24:29,675 INFO     Fetching new data from database.
+2023-03-05 01:24:30,146 INFO     Fetching json from server.
+2023-03-05 01:24:30,338 INFO     Decoding JSON
+2023-03-05 01:24:30,339 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:24:30,477 INFO     Download succeeded.
+2023-03-05 01:24:30,477 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:24:30,690 INFO     Download succeeded.
+2023-03-05 01:24:30,690 INFO     Updating new PDF directory
+2023-03-05 01:24:30,844 INFO     Making slides
+2023-03-05 01:24:30,845 INFO     Starting slideshow
+2023-03-05 01:24:42,685 INFO     Fetching new data from database.
+2023-03-05 01:24:43,164 INFO     Fetching json from server.
+2023-03-05 01:24:43,358 INFO     Decoding JSON
+2023-03-05 01:24:43,359 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:24:43,474 INFO     Download succeeded.
+2023-03-05 01:24:43,475 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:24:43,749 INFO     Download succeeded.
+2023-03-05 01:24:43,750 INFO     Updating new PDF directory
+2023-03-05 01:24:43,907 INFO     Making slides
+2023-03-05 01:24:43,907 INFO     Starting slideshow
+2023-03-05 01:24:55,767 INFO     Fetching new data from database.
+2023-03-05 01:24:56,267 INFO     Fetching json from server.
+2023-03-05 01:24:56,459 INFO     Decoding JSON
+2023-03-05 01:24:56,459 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:24:56,593 INFO     Download succeeded.
+2023-03-05 01:24:56,593 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:24:56,796 INFO     Download succeeded.
+2023-03-05 01:24:56,796 INFO     Updating new PDF directory
+2023-03-05 01:24:56,948 INFO     Making slides
+2023-03-05 01:24:56,949 INFO     Starting slideshow
+2023-03-05 01:25:08,831 INFO     Fetching new data from database.
+2023-03-05 01:25:09,313 INFO     Fetching json from server.
+2023-03-05 01:25:09,592 INFO     Decoding JSON
+2023-03-05 01:25:09,592 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:25:09,728 INFO     Download succeeded.
+2023-03-05 01:25:09,728 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:25:09,963 INFO     Download succeeded.
+2023-03-05 01:25:09,963 INFO     Updating new PDF directory
+2023-03-05 01:25:10,110 INFO     Making slides
+2023-03-05 01:25:10,112 INFO     Starting slideshow
+2023-03-05 01:25:21,970 INFO     Fetching new data from database.
+2023-03-05 01:25:43,138 INFO     Could not connect to the internet.
+2023-03-05 01:25:43,433 INFO     Fetching json from server.
+2023-03-05 01:25:43,621 INFO     Decoding JSON
+2023-03-05 01:25:43,622 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:25:43,763 INFO     Download succeeded.
+2023-03-05 01:25:43,764 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:25:44,148 INFO     Download succeeded.
+2023-03-05 01:25:44,148 INFO     Updating new PDF directory
+2023-03-05 01:25:44,315 INFO     Making slides
+2023-03-05 01:25:44,316 INFO     Starting slideshow
+2023-03-05 01:25:56,155 INFO     Fetching new data from database.
+2023-03-05 01:25:56,744 INFO     Fetching json from server.
+2023-03-05 01:25:56,871 INFO     Decoding JSON
+2023-03-05 01:25:56,872 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:25:56,997 INFO     Download succeeded.
+2023-03-05 01:25:56,998 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:25:57,226 INFO     Download succeeded.
+2023-03-05 01:25:57,227 INFO     Updating new PDF directory
+2023-03-05 01:25:57,390 INFO     Making slides
+2023-03-05 01:25:57,390 INFO     Starting slideshow
+2023-03-05 01:26:09,259 INFO     Fetching new data from database.
+2023-03-05 01:26:09,602 INFO     Fetching json from server.
+2023-03-05 01:26:09,727 INFO     Decoding JSON
+2023-03-05 01:26:09,727 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:26:09,859 INFO     Download succeeded.
+2023-03-05 01:26:09,860 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:26:10,064 INFO     Download succeeded.
+2023-03-05 01:26:10,064 INFO     Updating new PDF directory
+2023-03-05 01:26:10,203 INFO     Making slides
+2023-03-05 01:26:10,203 INFO     Starting slideshow
+2023-03-05 01:26:22,093 INFO     Fetching new data from database.
+2023-03-05 01:26:22,427 INFO     Fetching json from server.
+2023-03-05 01:26:22,554 INFO     Decoding JSON
+2023-03-05 01:26:22,554 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:26:22,711 INFO     Download succeeded.
+2023-03-05 01:26:22,711 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:26:22,927 INFO     Download succeeded.
+2023-03-05 01:26:22,928 INFO     Updating new PDF directory
+2023-03-05 01:26:23,069 INFO     Making slides
+2023-03-05 01:26:23,069 INFO     Starting slideshow
+2023-03-05 01:26:32,714 INFO     Could not connect to the internet.
+2023-03-05 01:26:44,528 INFO     Fetching new data from database.
+2023-03-05 01:26:44,838 INFO     Fetching json from server.
+2023-03-05 01:26:44,955 INFO     Decoding JSON
+2023-03-05 01:26:44,955 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:26:45,073 INFO     Download succeeded.
+2023-03-05 01:26:45,073 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:26:45,442 INFO     Download succeeded.
+2023-03-05 01:26:45,442 INFO     Updating new PDF directory
+2023-03-05 01:26:45,596 INFO     Making slides
+2023-03-05 01:26:45,596 INFO     Starting slideshow
+2023-03-05 01:26:57,420 INFO     Fetching new data from database.
+2023-03-05 01:27:18,813 INFO     Fetching json from server.
+2023-03-05 01:27:18,954 INFO     Decoding JSON
+2023-03-05 01:27:18,954 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:27:19,091 INFO     Download succeeded.
+2023-03-05 01:27:19,092 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:27:19,301 INFO     Download succeeded.
+2023-03-05 01:27:19,302 INFO     Updating new PDF directory
+2023-03-05 01:27:19,471 INFO     Making slides
+2023-03-05 01:27:19,471 INFO     Starting slideshow
+2023-03-05 01:27:40,646 INFO     Could not connect to the internet.
+2023-03-05 01:27:52,457 INFO     Fetching new data from database.
+2023-03-05 01:27:52,782 INFO     Fetching json from server.
+2023-03-05 01:27:52,899 INFO     Decoding JSON
+2023-03-05 01:27:52,900 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:27:53,042 INFO     Download succeeded.
+2023-03-05 01:27:53,043 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:27:53,252 INFO     Download succeeded.
+2023-03-05 01:27:53,253 INFO     Updating new PDF directory
+2023-03-05 01:27:53,393 INFO     Making slides
+2023-03-05 01:27:53,393 INFO     Starting slideshow
+2023-03-05 01:28:05,264 INFO     Fetching new data from database.
+2023-03-05 01:28:05,588 INFO     Fetching json from server.
+2023-03-05 01:28:05,704 INFO     Decoding JSON
+2023-03-05 01:28:05,704 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:28:05,825 INFO     Download succeeded.
+2023-03-05 01:28:05,826 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:28:06,034 INFO     Download succeeded.
+2023-03-05 01:28:06,035 INFO     Updating new PDF directory
+2023-03-05 01:28:06,178 INFO     Making slides
+2023-03-05 01:28:06,179 INFO     Starting slideshow
+2023-03-05 01:28:18,037 INFO     Fetching new data from database.
+2023-03-05 01:28:18,353 INFO     Fetching json from server.
+2023-03-05 01:28:18,483 INFO     Decoding JSON
+2023-03-05 01:28:18,483 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:28:18,599 INFO     Download succeeded.
+2023-03-05 01:28:18,600 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:28:18,794 INFO     Download succeeded.
+2023-03-05 01:28:18,794 INFO     Updating new PDF directory
+2023-03-05 01:28:18,944 INFO     Making slides
+2023-03-05 01:28:18,944 INFO     Starting slideshow
+2023-03-05 01:28:30,803 INFO     Fetching new data from database.
+2023-03-05 01:28:31,139 INFO     Fetching json from server.
+2023-03-05 01:28:31,259 INFO     Decoding JSON
+2023-03-05 01:28:31,259 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:28:31,392 INFO     Download succeeded.
+2023-03-05 01:28:31,392 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:28:31,585 INFO     Download succeeded.
+2023-03-05 01:28:31,585 INFO     Updating new PDF directory
+2023-03-05 01:28:31,745 INFO     Making slides
+2023-03-05 01:28:31,745 INFO     Starting slideshow
+2023-03-05 01:28:43,585 INFO     Fetching new data from database.
+2023-03-05 01:28:43,912 INFO     Fetching json from server.
+2023-03-05 01:28:44,041 INFO     Decoding JSON
+2023-03-05 01:28:44,041 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:28:44,162 INFO     Download succeeded.
+2023-03-05 01:28:44,162 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:28:44,380 INFO     Download succeeded.
+2023-03-05 01:28:44,380 INFO     Updating new PDF directory
+2023-03-05 01:28:44,525 INFO     Making slides
+2023-03-05 01:28:44,525 INFO     Starting slideshow
+2023-03-05 01:28:56,374 INFO     Fetching new data from database.
+2023-03-05 01:29:17,763 INFO     Fetching json from server.
+2023-03-05 01:29:17,899 INFO     Decoding JSON
+2023-03-05 01:29:17,899 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:29:18,045 INFO     Download succeeded.
+2023-03-05 01:29:18,045 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:29:18,261 INFO     Download succeeded.
+2023-03-05 01:29:18,261 INFO     Updating new PDF directory
+2023-03-05 01:29:18,410 INFO     Making slides
+2023-03-05 01:29:18,411 INFO     Starting slideshow
+2023-03-05 01:29:30,326 INFO     Fetching new data from database.
+2023-03-05 01:29:30,663 INFO     Fetching json from server.
+2023-03-05 01:29:30,783 INFO     Decoding JSON
+2023-03-05 01:29:30,784 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:29:30,911 INFO     Download succeeded.
+2023-03-05 01:29:30,911 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:29:31,120 INFO     Download succeeded.
+2023-03-05 01:29:31,120 INFO     Updating new PDF directory
+2023-03-05 01:29:31,268 INFO     Making slides
+2023-03-05 01:29:31,269 INFO     Starting slideshow
+2023-03-05 01:29:43,127 INFO     Fetching new data from database.
+2023-03-05 01:29:43,451 INFO     Fetching json from server.
+2023-03-05 01:29:43,571 INFO     Decoding JSON
+2023-03-05 01:29:43,571 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:29:43,684 INFO     Download succeeded.
+2023-03-05 01:29:43,684 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:29:43,893 INFO     Download succeeded.
+2023-03-05 01:29:43,893 INFO     Updating new PDF directory
+2023-03-05 01:29:44,045 INFO     Making slides
+2023-03-05 01:29:44,046 INFO     Starting slideshow
+2023-03-05 01:29:55,895 INFO     Fetching new data from database.
+2023-03-05 01:29:56,229 INFO     Fetching json from server.
+2023-03-05 01:29:56,343 INFO     Decoding JSON
+2023-03-05 01:29:56,343 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:29:56,480 INFO     Download succeeded.
+2023-03-05 01:29:56,480 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:29:56,686 INFO     Download succeeded.
+2023-03-05 01:29:56,687 INFO     Updating new PDF directory
+2023-03-05 01:29:56,837 INFO     Making slides
+2023-03-05 01:29:56,838 INFO     Starting slideshow
+2023-03-05 01:30:08,728 INFO     Fetching new data from database.
+2023-03-05 01:30:09,058 INFO     Fetching json from server.
+2023-03-05 01:30:09,184 INFO     Decoding JSON
+2023-03-05 01:30:09,184 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:30:09,407 INFO     Download succeeded.
+2023-03-05 01:30:09,407 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:30:09,597 INFO     Download succeeded.
+2023-03-05 01:30:09,738 INFO     Making slides
+DF directory
+2023-03-05 01:30:09,739 INFO     Starting slideshow
+2023-03-05 01:30:21,606 INFO     Fetching new data from database.
+2023-03-05 01:30:21,921 INFO     Fetching json from server.
+2023-03-05 01:30:22,041 INFO     Decoding JSON
+2023-03-05 01:30:22,042 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:30:22,167 INFO     Download succeeded.
+2023-03-05 01:30:22,168 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:30:22,402 INFO     Download succeeded.
+2023-03-05 01:30:22,402 INFO     Updating new PDF directory
+2023-03-05 01:30:22,558 INFO     Making slides
+2023-03-05 01:30:22,559 INFO     Starting slideshow
+2023-03-05 01:30:34,451 INFO     Fetching new data from database.
+2023-03-05 01:30:34,801 INFO     Fetching json from server.
+2023-03-05 01:30:34,927 INFO     Decoding JSON
+2023-03-05 01:30:34,927 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:30:35,064 INFO     Download succeeded.
+2023-03-05 01:30:35,064 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:30:35,287 INFO     Download succeeded.
+2023-03-05 01:30:35,287 INFO     Updating new PDF directory
+2023-03-05 01:30:35,448 INFO     Making slides
+2023-03-05 01:30:35,450 INFO     Starting slideshow
+2023-03-05 01:31:04,625 INFO     Loading settings.
+2023-03-05 01:31:04,626 INFO     Settings loaded.
+2023-03-05 01:31:04,627 INFO     Starting GUI
+2023-03-05 01:31:04,967 INFO     importing icons
+2023-03-05 01:31:04,985 INFO     Initial database refresh
+2023-03-05 01:31:05,463 INFO     Fetching json from server.
+2023-03-05 01:31:05,736 INFO     Decoding JSON
+2023-03-05 01:31:05,737 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:31:05,954 INFO     Download succeeded.
+2023-03-05 01:31:05,954 INFO     Updating new PDF directory
+2023-03-05 01:31:06,060 INFO     Initializing slideshow
+2023-03-05 01:31:06,061 INFO     Making slides
+2023-03-05 01:31:06,062 INFO     Starting slideshow
+2023-03-05 01:31:17,509 INFO     Fetching new data from database.
+2023-03-05 01:31:17,888 INFO     Fetching json from server.
+2023-03-05 01:31:18,170 INFO     Decoding JSON
+2023-03-05 01:31:18,170 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:31:18,388 INFO     Download succeeded.
+2023-03-05 01:31:18,388 INFO     Updating new PDF directory
+2023-03-05 01:31:18,496 INFO     Making slides
+2023-03-05 01:31:18,496 INFO     Starting slideshow
+2023-03-05 01:31:30,364 INFO     Fetching new data from database.
+2023-03-05 01:31:30,850 INFO     Fetching json from server.
+2023-03-05 01:31:31,129 INFO     Decoding JSON
+2023-03-05 01:31:31,129 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:31:31,334 INFO     Download succeeded.
+2023-03-05 01:31:31,335 INFO     Updating new PDF directory
+2023-03-05 01:31:31,428 INFO     Making slides
+2023-03-05 01:31:31,428 INFO     Starting slideshow
+2023-03-05 01:32:21,871 INFO     Loading settings.
+2023-03-05 01:32:21,873 INFO     Settings loaded.
+2023-03-05 01:32:21,874 INFO     Starting GUI
+2023-03-05 01:32:22,421 INFO     importing icons
+2023-03-05 01:32:22,441 INFO     Initial database refresh
+2023-03-05 01:32:22,970 INFO     Fetching json from server.
+2023-03-05 01:32:23,249 INFO     Decoding JSON
+2023-03-05 01:32:23,249 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:32:23,459 INFO     Download succeeded.
+2023-03-05 01:32:23,460 INFO     Updating new PDF directory
+2023-03-05 01:32:23,574 INFO     Initializing slideshow
+2023-03-05 01:32:23,576 INFO     Making slides
+2023-03-05 01:32:23,577 INFO     Starting slideshow
+2023-03-05 01:32:35,029 INFO     Fetching new data from database.
+2023-03-05 01:32:35,504 INFO     Fetching json from server.
+2023-03-05 01:32:35,776 INFO     Decoding JSON
+2023-03-05 01:32:35,776 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:32:35,974 INFO     Download succeeded.
+2023-03-05 01:32:35,974 INFO     Updating new PDF directory
+2023-03-05 01:32:36,077 INFO     Making slides
+2023-03-05 01:32:36,078 INFO     Starting slideshow
+2023-03-05 01:32:47,559 INFO     Fetching new data from database.
+2023-03-05 01:32:47,958 INFO     Fetching json from server.
+2023-03-05 01:32:48,155 INFO     Decoding JSON
+2023-03-05 01:32:48,156 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:32:48,354 INFO     Download succeeded.
+2023-03-05 01:32:48,355 INFO     Updating new PDF directory
+2023-03-05 01:32:48,463 INFO     Making slides
+2023-03-05 01:32:48,464 INFO     Starting slideshow
+2023-03-05 01:32:59,950 INFO     Fetching new data from database.
+2023-03-05 01:33:00,583 INFO     Fetching json from server.
+2023-03-05 01:33:00,853 INFO     Decoding JSON
+2023-03-05 01:33:00,854 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:33:01,070 INFO     Download succeeded.
+2023-03-05 01:33:01,071 INFO     Updating new PDF directory
+2023-03-05 01:33:01,176 INFO     Making slides
+2023-03-05 01:33:01,176 INFO     Starting slideshow
+2023-03-05 01:33:12,673 INFO     Fetching new data from database.
+2023-03-05 01:33:13,155 INFO     Fetching json from server.
+2023-03-05 01:33:13,341 INFO     Decoding JSON
+2023-03-05 01:33:13,341 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:33:13,551 INFO     Download succeeded.
+2023-03-05 01:33:13,552 INFO     Updating new PDF directory
+2023-03-05 01:33:13,670 INFO     Making slides
+2023-03-05 01:33:13,671 INFO     Starting slideshow
+2023-03-05 01:33:25,139 INFO     Fetching new data from database.
+2023-03-05 01:33:25,606 INFO     Fetching json from server.
+2023-03-05 01:33:25,803 INFO     Decoding JSON
+2023-03-05 01:33:25,803 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:33:25,998 INFO     Download succeeded.
+2023-03-05 01:33:25,999 INFO     Updating new PDF directory
+2023-03-05 01:33:26,102 INFO     Making slides
+2023-03-05 01:33:26,104 INFO     Starting slideshow
+2023-03-05 01:33:37,568 INFO     Fetching new data from database.
+2023-03-05 01:33:37,955 INFO     Fetching json from server.
+2023-03-05 01:33:38,231 INFO     Decoding JSON
+2023-03-05 01:33:38,231 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:33:38,441 INFO     Download succeeded.
+2023-03-05 01:33:38,442 INFO     Updating new PDF directory
+2023-03-05 01:33:38,548 INFO     Making slides
+2023-03-05 01:33:38,549 INFO     Starting slideshow
+2023-03-05 01:33:50,004 INFO     Fetching new data from database.
+2023-03-05 01:34:11,476 INFO     Fetching json from server.
+2023-03-05 01:34:11,759 INFO     Decoding JSON
+2023-03-05 01:34:11,760 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:34:11,971 INFO     Download succeeded.
+2023-03-05 01:34:11,972 INFO     Updating new PDF directory
+2023-03-05 01:34:12,108 INFO     Making slides
+2023-03-05 01:34:12,108 INFO     Starting slideshow
+2023-03-05 01:34:23,628 INFO     Fetching new data from database.
+2023-03-05 01:34:24,025 INFO     Fetching json from server.
+2023-03-05 01:34:24,296 INFO     Decoding JSON
+2023-03-05 01:34:24,296 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:34:24,494 INFO     Download succeeded.
+2023-03-05 01:34:24,495 INFO     Updating new PDF directory
+2023-03-05 01:34:24,593 INFO     Making slides
+2023-03-05 01:34:24,593 INFO     Starting slideshow
+2023-03-05 01:34:36,067 INFO     Fetching new data from database.
+2023-03-05 01:34:36,545 INFO     Fetching json from server.
+2023-03-05 01:34:36,816 INFO     Decoding JSON
+2023-03-05 01:34:36,816 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:34:37,013 INFO     Download succeeded.
+2023-03-05 01:34:37,013 INFO     Updating new PDF directory
+2023-03-05 01:34:37,106 INFO     Making slides
+2023-03-05 01:34:37,107 INFO     Starting slideshow
+2023-03-05 01:34:48,557 INFO     Fetching new data from database.
+2023-03-05 01:34:49,030 INFO     Fetching json from server.
+2023-03-05 01:34:49,227 INFO     Decoding JSON
+2023-03-05 01:34:49,227 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:34:49,445 INFO     Download succeeded.
+2023-03-05 01:34:49,446 INFO     Updating new PDF directory
+2023-03-05 01:34:49,550 INFO     Making slides
+2023-03-05 01:34:49,551 INFO     Starting slideshow
+2023-03-05 01:35:01,038 INFO     Fetching new data from database.
+2023-03-05 01:35:01,427 INFO     Fetching json from server.
+2023-03-05 01:35:01,705 INFO     Decoding JSON
+2023-03-05 01:35:01,705 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:35:01,930 INFO     Download succeeded.
+2023-03-05 01:35:01,931 INFO     Updating new PDF directory
+2023-03-05 01:35:02,048 INFO     Making slides
+2023-03-05 01:35:02,049 INFO     Starting slideshow
+2023-03-05 01:35:08,571 INFO     Loading settings.
+2023-03-05 01:35:08,574 INFO     Settings loaded.
+2023-03-05 01:35:08,575 INFO     Starting GUI
+2023-03-05 01:35:08,928 INFO     importing icons
+2023-03-05 01:35:08,938 INFO     Initial database refresh
+2023-03-05 01:35:09,409 INFO     Fetching json from server.
+2023-03-05 01:35:09,676 INFO     Decoding JSON
+2023-03-05 01:35:09,677 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:35:09,879 INFO     Download succeeded.
+2023-03-05 01:35:09,880 INFO     Updating new PDF directory
+2023-03-05 01:35:09,996 INFO     Initializing slideshow
+2023-03-05 01:35:09,997 INFO     Making slides
+2023-03-05 01:35:09,998 INFO     Starting slideshow
+2023-03-05 01:35:21,445 INFO     Fetching new data from database.
+2023-03-05 01:35:21,912 INFO     Fetching json from server.
+2023-03-05 01:35:22,187 INFO     Decoding JSON
+2023-03-05 01:35:22,187 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:35:22,604 INFO     Download succeeded.
+2023-03-05 01:35:22,604 INFO     Updating new PDF directory
+2023-03-05 01:35:22,703 INFO     Making slides
+2023-03-05 01:35:22,705 INFO     Starting slideshow
+2023-03-05 01:35:34,209 INFO     Fetching new data from database.
+2023-03-05 01:35:34,827 INFO     Fetching json from server.
+2023-03-05 01:35:35,103 INFO     Decoding JSON
+2023-03-05 01:35:35,103 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:35:35,303 INFO     Download succeeded.
+2023-03-05 01:35:35,303 INFO     Updating new PDF directory
+2023-03-05 01:35:35,412 INFO     Making slides
+2023-03-05 01:35:35,412 INFO     Starting slideshow
+2023-03-05 01:35:41,577 INFO     Loading settings.
+2023-03-05 01:35:41,579 INFO     Settings loaded.
+2023-03-05 01:35:41,874 INFO     importing icons
+2023-03-05 01:35:41,893 INFO     Initial database refresh
+2023-03-05 01:36:03,060 INFO     Could not connect to the internet.
+2023-03-05 01:36:18,378 INFO     Fetching json from server.
+2023-03-05 01:36:18,663 INFO     Decoding JSON
+2023-03-05 01:36:18,664 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:36:18,885 INFO     Download succeeded.
+2023-03-05 01:36:18,886 INFO     Updating new PDF directory
+2023-03-05 01:36:19,025 INFO     Initializing slideshow
+2023-03-05 01:36:19,026 INFO     Making slides
+2023-03-05 01:36:19,027 INFO     Starting slideshow
+2023-03-05 01:36:30,533 INFO     Fetching new data from database.
+2023-03-05 01:36:30,937 INFO     Fetching json from server.
+2023-03-05 01:36:31,209 INFO     Decoding JSON
+2023-03-05 01:36:31,209 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:36:31,442 INFO     Download succeeded.
+2023-03-05 01:36:31,443 INFO     Updating new PDF directory
+2023-03-05 01:36:31,554 INFO     Making slides
+2023-03-05 01:36:31,555 INFO     Starting slideshow
+2023-03-05 01:36:40,834 INFO     Loading settings.
+2023-03-05 01:36:40,836 INFO     Settings loaded.
+2023-03-05 01:36:40,836 INFO     Starting GUI
+2023-03-05 01:36:41,140 INFO     importing icons
+2023-03-05 01:36:41,152 INFO     Initial database refresh
+2023-03-05 01:36:41,549 INFO     Fetching json from server.
+2023-03-05 01:36:41,827 INFO     Decoding JSON
+2023-03-05 01:36:41,828 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:36:42,042 INFO     Download succeeded.
+2023-03-05 01:36:42,042 INFO     Updating new PDF directory
+2023-03-05 01:36:42,157 INFO     Initializing slideshow
+2023-03-05 01:36:42,159 INFO     Making slides
+2023-03-05 01:36:42,160 INFO     Starting slideshow
+2023-03-05 01:36:53,607 INFO     Fetching new data from database.
+2023-03-05 01:36:54,077 INFO     Fetching json from server.
+2023-03-05 01:36:54,275 INFO     Decoding JSON
+2023-03-05 01:36:54,275 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:36:54,474 INFO     Download succeeded.
+2023-03-05 01:36:54,474 INFO     Updating new PDF directory
+2023-03-05 01:36:54,597 INFO     Making slides
+2023-03-05 01:36:54,598 INFO     Starting slideshow
+2023-03-05 01:37:06,125 INFO     Fetching new data from database.
+2023-03-05 01:37:27,288 INFO     Could not connect to the internet.
+2023-03-05 01:37:27,582 INFO     Fetching json from server.
+2023-03-05 01:37:27,771 INFO     Decoding JSON
+2023-03-05 01:37:27,772 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:37:27,993 INFO     Download succeeded.
+2023-03-05 01:37:27,993 INFO     Updating new PDF directory
+2023-03-05 01:37:28,111 INFO     Making slides
+2023-03-05 01:37:28,111 INFO     Starting slideshow
+2023-03-05 01:37:39,683 INFO     Fetching new data from database.
+2023-03-05 01:37:40,204 INFO     Fetching json from server.
+2023-03-05 01:37:40,395 INFO     Decoding JSON
+2023-03-05 01:37:40,395 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:37:40,613 INFO     Download succeeded.
+2023-03-05 01:37:40,614 INFO     Updating new PDF directory
+2023-03-05 01:37:40,706 INFO     Making slides
+2023-03-05 01:37:40,706 INFO     Starting slideshow
+2023-03-05 01:37:52,175 INFO     Fetching new data from database.
+2023-03-05 01:37:52,638 INFO     Fetching json from server.
+2023-03-05 01:37:52,827 INFO     Decoding JSON
+2023-03-05 01:37:52,827 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:37:53,029 INFO     Download succeeded.
+2023-03-05 01:37:53,029 INFO     Updating new PDF directory
+2023-03-05 01:37:53,136 INFO     Making slides
+2023-03-05 01:37:53,138 INFO     Starting slideshow
+2023-03-05 01:37:56,268 INFO     Loading settings.
+2023-03-05 01:37:56,270 INFO     Settings loaded.
+2023-03-05 01:37:56,271 INFO     Starting GUI
+2023-03-05 01:37:56,561 INFO     importing icons
+2023-03-05 01:37:56,577 INFO     Initial database refresh
+2023-03-05 01:37:57,007 INFO     Fetching json from server.
+2023-03-05 01:37:57,273 INFO     Decoding JSON
+2023-03-05 01:37:57,274 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:37:57,472 INFO     Download succeeded.
+2023-03-05 01:37:57,473 INFO     Updating new PDF directory
+2023-03-05 01:37:57,583 INFO     Initializing slideshow
+2023-03-05 01:37:57,584 INFO     Making slides
+2023-03-05 01:37:57,584 INFO     Starting slideshow
+2023-03-05 01:38:23,916 INFO     Loading settings.
+2023-03-05 01:38:23,918 INFO     Settings loaded.
+2023-03-05 01:38:23,918 INFO     Starting GUI
+2023-03-05 01:38:24,400 INFO     importing icons
+2023-03-05 01:38:24,415 INFO     Initial database refresh
+2023-03-05 01:38:24,890 INFO     Fetching json from server.
+2023-03-05 01:38:25,093 INFO     Decoding JSON
+2023-03-05 01:38:25,094 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:38:25,304 INFO     Download succeeded.
+2023-03-05 01:38:25,304 INFO     Updating new PDF directory
+2023-03-05 01:38:25,420 INFO     Initializing slideshow
+2023-03-05 01:38:25,423 INFO     Making slides
+2023-03-05 01:38:25,423 INFO     Starting slideshow
+2023-03-05 01:38:36,917 INFO     Fetching new data from database.
+2023-03-05 01:38:37,415 INFO     Fetching json from server.
+2023-03-05 01:38:37,688 INFO     Decoding JSON
+2023-03-05 01:38:37,689 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:38:37,903 INFO     Download succeeded.
+2023-03-05 01:38:37,903 INFO     Updating new PDF directory
+2023-03-05 01:38:37,998 INFO     Making slides
+2023-03-05 01:38:37,999 INFO     Starting slideshow
+2023-03-05 01:38:49,432 INFO     Fetching new data from database.
+2023-03-05 01:38:50,067 INFO     Fetching json from server.
+2023-03-05 01:38:50,260 INFO     Decoding JSON
+2023-03-05 01:38:50,261 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:38:50,449 INFO     Download succeeded.
+2023-03-05 01:38:50,450 INFO     Updating new PDF directory
+2023-03-05 01:38:50,561 INFO     Making slides
+2023-03-05 01:38:50,562 INFO     Starting slideshow
+2023-03-05 01:39:11,685 INFO     Could not connect to the internet.
+2023-03-05 01:39:19,123 INFO     Loading settings.
+2023-03-05 01:39:19,126 INFO     Settings loaded.
+2023-03-05 01:39:19,126 INFO     Starting GUI
+2023-03-05 01:39:19,439 INFO     importing icons
+2023-03-05 01:39:19,459 INFO     Initial database refresh
+2023-03-05 01:39:19,876 INFO     Fetching json from server.
+2023-03-05 01:39:20,163 INFO     Decoding JSON
+2023-03-05 01:39:20,164 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:39:20,543 INFO     Download succeeded.
+2023-03-05 01:39:20,544 INFO     Updating new PDF directory
+2023-03-05 01:39:20,648 INFO     Initializing slideshow
+2023-03-05 01:39:20,650 INFO     Making slides
+2023-03-05 01:39:20,651 INFO     Starting slideshow
+2023-03-05 01:39:32,121 INFO     Fetching new data from database.
+2023-03-05 01:39:32,558 INFO     Fetching json from server.
+2023-03-05 01:39:32,831 INFO     Decoding JSON
+2023-03-05 01:39:32,832 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:39:33,029 INFO     Download succeeded.
+2023-03-05 01:39:33,030 INFO     Updating new PDF directory
+2023-03-05 01:39:33,144 INFO     Making slides
+2023-03-05 01:39:33,151 INFO     Starting slideshow
+2023-03-05 01:39:43,100 INFO     Loading settings.
+2023-03-05 01:39:43,102 INFO     Settings loaded.
+2023-03-05 01:39:43,102 INFO     Starting GUI
+2023-03-05 01:39:43,665 INFO     importing icons
+2023-03-05 01:39:43,679 INFO     Initial database refresh
+2023-03-05 01:39:59,134 INFO     Fetching json from server.
+2023-03-05 01:39:59,408 INFO     Decoding JSON
+2023-03-05 01:39:59,408 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:39:59,629 INFO     Download succeeded.
+2023-03-05 01:39:59,629 INFO     Updating new PDF directory
+2023-03-05 01:39:59,749 INFO     Initializing slideshow
+2023-03-05 01:39:59,750 INFO     Making slides
+2023-03-05 01:39:59,752 INFO     Starting slideshow
+2023-03-05 01:40:11,256 INFO     Fetching new data from database.
+2023-03-05 01:40:11,736 INFO     Fetching json from server.
+2023-03-05 01:40:11,935 INFO     Decoding JSON
+2023-03-05 01:40:11,935 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:40:12,159 INFO     Download succeeded.
+2023-03-05 01:40:12,159 INFO     Updating new PDF directory
+2023-03-05 01:40:12,253 INFO     Making slides
+2023-03-05 01:40:12,254 INFO     Starting slideshow
+2023-03-05 01:40:23,707 INFO     Fetching new data from database.
+2023-03-05 01:40:24,097 INFO     Fetching json from server.
+2023-03-05 01:40:24,376 INFO     Decoding JSON
+2023-03-05 01:40:24,377 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:40:24,599 INFO     Download succeeded.
+2023-03-05 01:40:24,600 INFO     Updating new PDF directory
+2023-03-05 01:40:24,713 INFO     Making slides
+2023-03-05 01:40:24,714 INFO     Starting slideshow
+2023-03-05 01:40:36,177 INFO     Fetching new data from database.
+2023-03-05 01:40:36,646 INFO     Fetching json from server.
+2023-03-05 01:40:36,910 INFO     Decoding JSON
+2023-03-05 01:40:36,911 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:40:37,102 INFO     Download succeeded.
+2023-03-05 01:40:37,102 INFO     Updating new PDF directory
+2023-03-05 01:40:37,217 INFO     Making slides
+2023-03-05 01:40:37,218 INFO     Starting slideshow
+2023-03-05 01:40:48,673 INFO     Fetching new data from database.
+2023-03-05 01:40:49,149 INFO     Fetching json from server.
+2023-03-05 01:40:49,268 INFO     Decoding JSON
+2023-03-05 01:40:49,269 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:40:49,468 INFO     Download succeeded.
+2023-03-05 01:40:49,469 INFO     Updating new PDF directory
+2023-03-05 01:40:49,595 INFO     Making slides
+2023-03-05 01:40:49,596 INFO     Starting slideshow
+2023-03-05 01:41:01,064 INFO     Fetching new data from database.
+2023-03-05 01:41:01,411 INFO     Fetching json from server.
+2023-03-05 01:41:01,530 INFO     Decoding JSON
+2023-03-05 01:41:01,531 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:41:01,746 INFO     Download succeeded.
+2023-03-05 01:41:01,746 INFO     Updating new PDF directory
+2023-03-05 01:41:01,856 INFO     Making slides
+2023-03-05 01:41:01,858 INFO     Starting slideshow
+2023-03-05 01:41:13,313 INFO     Fetching new data from database.
+2023-03-05 01:41:13,624 INFO     Fetching json from server.
+2023-03-05 01:41:13,744 INFO     Decoding JSON
+2023-03-05 01:41:13,744 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:41:13,949 INFO     Download succeeded.
+2023-03-05 01:41:13,950 INFO     Updating new PDF directory
+2023-03-05 01:41:14,041 INFO     Making slides
+2023-03-05 01:41:14,042 INFO     Starting slideshow
+2023-03-05 01:41:25,447 INFO     Fetching new data from database.
+2023-03-05 01:41:25,777 INFO     Fetching json from server.
+2023-03-05 01:41:25,907 INFO     Decoding JSON
+2023-03-05 01:41:25,908 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:41:26,107 INFO     Download succeeded.
+2023-03-05 01:41:26,107 INFO     Updating new PDF directory
+2023-03-05 01:41:26,207 INFO     Making slides
+2023-03-05 01:41:26,207 INFO     Starting slideshow
+2023-03-05 01:41:37,615 INFO     Fetching new data from database.
+2023-03-05 01:41:37,939 INFO     Fetching json from server.
+2023-03-05 01:41:38,053 INFO     Decoding JSON
+2023-03-05 01:41:38,053 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:41:38,262 INFO     Download succeeded.
+2023-03-05 01:41:38,262 INFO     Updating new PDF directory
+2023-03-05 01:41:38,361 INFO     Making slides
+2023-03-05 01:41:38,368 INFO     Starting slideshow
+2023-03-05 01:41:49,836 INFO     Fetching new data from database.
+2023-03-05 01:41:50,170 INFO     Fetching json from server.
+2023-03-05 01:41:50,284 INFO     Decoding JSON
+2023-03-05 01:41:50,285 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:41:50,602 INFO     Download succeeded.
+2023-03-05 01:41:50,602 INFO     Updating new PDF directory
+2023-03-05 01:41:50,711 INFO     Making slides
+2023-03-05 01:41:50,712 INFO     Starting slideshow
+2023-03-05 01:42:02,173 INFO     Fetching new data from database.
+2023-03-05 01:42:02,489 INFO     Fetching json from server.
+2023-03-05 01:42:02,607 INFO     Decoding JSON
+2023-03-05 01:42:02,607 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:42:02,795 INFO     Download succeeded.
+2023-03-05 01:42:02,795 INFO     Updating new PDF directory
+2023-03-05 01:42:02,886 INFO     Making slides
+2023-03-05 01:42:02,888 INFO     Starting slideshow
+2023-03-05 01:42:14,375 INFO     Fetching new data from database.
+2023-03-05 01:42:14,701 INFO     Fetching json from server.
+2023-03-05 01:42:14,823 INFO     Decoding JSON
+2023-03-05 01:42:14,823 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:42:15,032 INFO     Download succeeded.
+2023-03-05 01:42:15,033 INFO     Updating new PDF directory
+2023-03-05 01:42:15,129 INFO     Making slides
+2023-03-05 01:42:15,130 INFO     Starting slideshow
+2023-03-05 01:42:26,596 INFO     Fetching new data from database.
+2023-03-05 01:42:26,901 INFO     Fetching json from server.
+2023-03-05 01:42:27,018 INFO     Decoding JSON
+2023-03-05 01:42:27,018 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:42:27,227 INFO     Download succeeded.
+2023-03-05 01:42:27,227 INFO     Updating new PDF directory
+2023-03-05 01:42:27,327 INFO     Making slides
+2023-03-05 01:42:27,329 INFO     Starting slideshow
+2023-03-05 01:42:38,790 INFO     Fetching new data from database.
+2023-03-05 01:42:39,111 INFO     Fetching json from server.
+2023-03-05 01:42:39,222 INFO     Decoding JSON
+2023-03-05 01:42:39,222 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:42:39,427 INFO     Download succeeded.
+2023-03-05 01:42:39,428 INFO     Updating new PDF directory
+2023-03-05 01:42:39,529 INFO     Making slides
+2023-03-05 01:42:39,530 INFO     Starting slideshow
+2023-03-05 01:42:50,989 INFO     Fetching new data from database.
+2023-03-05 01:42:51,291 INFO     Fetching json from server.
+2023-03-05 01:42:51,406 INFO     Decoding JSON
+2023-03-05 01:42:51,406 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:42:51,686 INFO     Download succeeded.
+2023-03-05 01:42:51,686 INFO     Updating new PDF directory
+2023-03-05 01:42:51,780 INFO     Making slides
+2023-03-05 01:42:51,781 INFO     Starting slideshow
+2023-03-05 01:43:03,235 INFO     Fetching new data from database.
+2023-03-05 01:43:03,572 INFO     Fetching json from server.
+2023-03-05 01:43:03,686 INFO     Decoding JSON
+2023-03-05 01:43:03,687 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:43:03,884 INFO     Download succeeded.
+2023-03-05 01:43:03,885 INFO     Updating new PDF directory
+2023-03-05 01:43:03,987 INFO     Making slides
+2023-03-05 01:43:03,988 INFO     Starting slideshow
+2023-03-05 01:43:15,447 INFO     Fetching new data from database.
+2023-03-05 01:43:15,766 INFO     Fetching json from server.
+2023-03-05 01:43:15,880 INFO     Decoding JSON
+2023-03-05 01:43:15,880 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:43:16,096 INFO     Download succeeded.
+2023-03-05 01:43:16,096 INFO     Updating new PDF directory
+2023-03-05 01:43:16,207 INFO     Making slides
+2023-03-05 01:43:16,209 INFO     Starting slideshow
+2023-03-05 01:43:27,658 INFO     Fetching new data from database.
+2023-03-05 01:43:27,969 INFO     Fetching json from server.
+2023-03-05 01:43:28,086 INFO     Decoding JSON
+2023-03-05 01:43:28,087 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:43:28,297 INFO     Download succeeded.
+2023-03-05 01:43:28,298 INFO     Updating new PDF directory
+2023-03-05 01:43:28,403 INFO     Making slides
+2023-03-05 01:43:28,405 INFO     Starting slideshow
+2023-03-05 01:43:39,867 INFO     Fetching new data from database.
+2023-03-05 01:43:40,380 INFO     Fetching json from server.
+2023-03-05 01:43:40,498 INFO     Decoding JSON
+2023-03-05 01:43:40,498 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:43:40,691 INFO     Download succeeded.
+2023-03-05 01:43:40,691 INFO     Updating new PDF directory
+2023-03-05 01:43:40,787 INFO     Making slides
+2023-03-05 01:43:40,787 INFO     Starting slideshow
+2023-03-05 01:43:52,318 INFO     Fetching new data from database.
+2023-03-05 01:44:00,019 INFO     Loading settings.
+2023-03-05 01:44:00,021 INFO     Settings loaded.
+2023-03-05 01:44:00,021 INFO     Starting GUI
+2023-03-05 01:44:00,388 INFO     importing icons
+2023-03-05 01:44:00,398 INFO     Initial database refresh
+2023-03-05 01:44:00,746 INFO     Fetching json from server.
+2023-03-05 01:44:00,864 INFO     Decoding JSON
+2023-03-05 01:44:00,865 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:44:01,079 INFO     Download succeeded.
+2023-03-05 01:44:01,079 INFO     Updating new PDF directory
+2023-03-05 01:44:01,186 INFO     Initializing slideshow
+2023-03-05 01:44:01,186 INFO     Making slides
+2023-03-05 01:44:01,187 INFO     Starting slideshow
+2023-03-05 01:44:12,621 INFO     Fetching new data from database.
+2023-03-05 01:44:12,931 INFO     Fetching json from server.
+2023-03-05 01:44:13,061 INFO     Decoding JSON
+2023-03-05 01:44:13,061 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:44:13,275 INFO     Download succeeded.
+2023-03-05 01:44:13,276 INFO     Updating new PDF directory
+2023-03-05 01:44:13,386 INFO     Making slides
+2023-03-05 01:44:13,386 INFO     Starting slideshow
+2023-03-05 01:44:24,961 INFO     Fetching new data from database.
+2023-03-05 01:44:25,288 INFO     Fetching json from server.
+2023-03-05 01:44:25,409 INFO     Decoding JSON
+2023-03-05 01:44:25,410 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:44:25,614 INFO     Download succeeded.
+2023-03-05 01:44:25,615 INFO     Updating new PDF directory
+2023-03-05 01:44:25,721 INFO     Making slides
+2023-03-05 01:44:25,723 INFO     Starting slideshow
+2023-03-05 01:44:32,734 INFO     Loading settings.
+2023-03-05 01:44:32,736 INFO     Settings loaded.
+2023-03-05 01:44:32,736 INFO     Starting GUI
+2023-03-05 01:44:33,046 INFO     importing icons
+2023-03-05 01:44:33,064 INFO     Initial database refresh
+2023-03-05 01:44:33,379 INFO     Fetching json from server.
+2023-03-05 01:44:33,499 INFO     Decoding JSON
+2023-03-05 01:44:33,499 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:44:33,755 INFO     Download succeeded.
+2023-03-05 01:44:33,756 INFO     Updating new PDF directory
+2023-03-05 01:44:33,878 INFO     Initializing slideshow
+2023-03-05 01:44:33,879 INFO     Making slides
+2023-03-05 01:44:33,880 INFO     Starting slideshow
+2023-03-05 01:44:44,563 INFO     Fetching new data from database.
+2023-03-05 01:44:44,878 INFO     Fetching json from server.
+2023-03-05 01:44:45,006 INFO     Decoding JSON
+2023-03-05 01:44:45,006 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:44:45,243 INFO     Download succeeded.
+2023-03-05 01:44:45,243 INFO     Updating new PDF directory
+2023-03-05 01:44:45,350 INFO     Making slides
+2023-03-05 01:44:45,353 INFO     Starting slideshow
+2023-03-05 01:44:56,018 INFO     Fetching new data from database.
+2023-03-05 01:44:56,352 INFO     Fetching json from server.
+2023-03-05 01:44:56,475 INFO     Decoding JSON
+2023-03-05 01:44:56,475 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:44:56,660 INFO     Download succeeded.
+2023-03-05 01:44:56,661 INFO     Updating new PDF directory
+2023-03-05 01:44:56,765 INFO     Making slides
+2023-03-05 01:44:56,766 INFO     Starting slideshow
+2023-03-05 01:45:12,509 INFO     Loading settings.
+2023-03-05 01:45:12,511 INFO     Settings loaded.
+2023-03-05 01:45:12,512 INFO     Starting GUI
+2023-03-05 01:45:12,884 INFO     importing icons
+2023-03-05 01:45:12,899 INFO     Initial database refresh
+2023-03-05 01:45:13,388 INFO     Fetching json from server.
+2023-03-05 01:45:13,510 INFO     Decoding JSON
+2023-03-05 01:45:13,510 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:45:13,721 INFO     Download succeeded.
+2023-03-05 01:45:13,722 INFO     Updating new PDF directory
+2023-03-05 01:45:13,844 INFO     Initializing slideshow
+2023-03-05 01:45:13,844 INFO     Making slides
+2023-03-05 01:45:13,845 INFO     Starting slideshow
+2023-03-05 01:45:25,329 INFO     Fetching new data from database.
+2023-03-05 01:45:25,638 INFO     Fetching json from server.
+2023-03-05 01:45:25,748 INFO     Decoding JSON
+2023-03-05 01:45:25,748 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:45:25,949 INFO     Download succeeded.
+2023-03-05 01:45:25,950 INFO     Updating new PDF directory
+2023-03-05 01:45:26,064 INFO     Making slides
+2023-03-05 01:45:26,066 INFO     Starting slideshow
+2023-03-05 01:45:37,544 INFO     Fetching new data from database.
+2023-03-05 01:45:37,863 INFO     Fetching json from server.
+2023-03-05 01:45:37,979 INFO     Decoding JSON
+2023-03-05 01:45:37,979 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:45:38,172 INFO     Download succeeded.
+2023-03-05 01:45:38,172 INFO     Updating new PDF directory
+2023-03-05 01:45:38,267 INFO     Making slides
+2023-03-05 01:45:38,267 INFO     Starting slideshow
+2023-03-05 01:45:41,062 INFO     Loading settings.
+2023-03-05 01:45:41,065 INFO     Settings loaded.
+2023-03-05 01:45:41,068 INFO     Starting GUI
+2023-03-05 01:45:41,363 INFO     importing icons
+2023-03-05 01:45:41,378 INFO     Initial database refresh
+2023-03-05 01:45:41,656 INFO     Fetching json from server.
+2023-03-05 01:45:41,773 INFO     Decoding JSON
+2023-03-05 01:45:41,774 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:45:41,975 INFO     Download succeeded.
+2023-03-05 01:45:41,976 INFO     Updating new PDF directory
+2023-03-05 01:45:42,097 INFO     Initializing slideshow
+2023-03-05 01:45:42,097 INFO     Making slides
+2023-03-05 01:45:42,098 INFO     Starting slideshow
+2023-03-05 01:45:53,560 INFO     Fetching new data from database.
+2023-03-05 01:45:53,892 INFO     Fetching json from server.
+2023-03-05 01:45:54,007 INFO     Decoding JSON
+2023-03-05 01:45:54,007 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:45:54,217 INFO     Download succeeded.
+2023-03-05 01:45:54,217 INFO     Updating new PDF directory
+2023-03-05 01:45:54,332 INFO     Making slides
+2023-03-05 01:45:54,333 INFO     Starting slideshow
+2023-03-05 01:46:05,837 INFO     Fetching new data from database.
+2023-03-05 01:46:06,153 INFO     Fetching json from server.
+2023-03-05 01:46:06,280 INFO     Decoding JSON
+2023-03-05 01:46:06,281 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:46:06,507 INFO     Download succeeded.
+2023-03-05 01:46:06,507 INFO     Updating new PDF directory
+2023-03-05 01:46:06,600 INFO     Making slides
+2023-03-05 01:46:06,602 INFO     Starting slideshow
+2023-03-05 01:46:32,396 INFO     Loading settings.
+2023-03-05 01:46:32,397 INFO     Settings loaded.
+2023-03-05 01:46:32,398 INFO     Starting GUI
+2023-03-05 01:46:32,730 INFO     importing icons
+2023-03-05 01:46:32,745 INFO     Initial database refresh
+2023-03-05 01:46:33,117 INFO     Fetching json from server.
+2023-03-05 01:46:33,218 INFO     Decoding JSON
+2023-03-05 01:46:33,219 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:46:33,325 INFO     Download succeeded.
+2023-03-05 01:46:33,325 INFO     Updating new PDF directory
+2023-03-05 01:46:33,389 INFO     Initializing slideshow
+2023-03-05 01:46:33,389 INFO     Making slides
+2023-03-05 01:46:33,390 INFO     Starting slideshow
+2023-03-05 01:46:44,599 INFO     Fetching new data from database.
+2023-03-05 01:46:44,901 INFO     Fetching json from server.
+2023-03-05 01:46:45,008 INFO     Decoding JSON
+2023-03-05 01:46:45,008 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:46:45,105 INFO     Download succeeded.
+2023-03-05 01:46:45,106 INFO     Updating new PDF directory
+2023-03-05 01:46:45,169 INFO     Making slides
+2023-03-05 01:46:45,170 INFO     Starting slideshow
+2023-03-05 01:46:56,379 INFO     Fetching new data from database.
+2023-03-05 01:46:56,670 INFO     Fetching json from server.
+2023-03-05 01:46:56,766 INFO     Decoding JSON
+2023-03-05 01:46:56,767 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:46:56,887 INFO     Download succeeded.
+2023-03-05 01:46:56,887 INFO     Updating new PDF directory
+2023-03-05 01:46:56,946 INFO     Making slides
+2023-03-05 01:46:56,948 INFO     Starting slideshow
+2023-03-05 01:47:02,881 INFO     Loading settings.
+2023-03-05 01:47:02,882 INFO     Settings loaded.
+2023-03-05 01:47:02,882 INFO     Starting GUI
+2023-03-05 01:47:03,160 INFO     importing icons
+2023-03-05 01:47:03,173 INFO     Initial database refresh
+2023-03-05 01:47:03,505 INFO     Fetching json from server.
+2023-03-05 01:47:03,623 INFO     Decoding JSON
+2023-03-05 01:47:03,624 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:47:03,760 INFO     Download succeeded.
+2023-03-05 01:47:03,761 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:47:04,115 INFO     Download succeeded.
+2023-03-05 01:47:04,115 INFO     Updating new PDF directory
+2023-03-05 01:47:04,325 INFO     Initializing slideshow
+2023-03-05 01:47:04,326 INFO     Making slides
+2023-03-05 01:47:04,326 INFO     Starting slideshow
+2023-03-05 01:47:16,106 INFO     Fetching new data from database.
+2023-03-05 01:47:16,411 INFO     Fetching json from server.
+2023-03-05 01:47:16,534 INFO     Decoding JSON
+2023-03-05 01:47:16,534 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:47:16,649 INFO     Download succeeded.
+2023-03-05 01:47:16,650 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:47:16,847 INFO     Download succeeded.
+2023-03-05 01:47:16,847 INFO     Updating new PDF directory
+2023-03-05 01:47:16,998 INFO     Making slides
+2023-03-05 01:47:16,999 INFO     Starting slideshow
+2023-03-05 01:47:28,893 INFO     Fetching new data from database.
+2023-03-05 01:47:29,219 INFO     Fetching json from server.
+2023-03-05 01:47:29,337 INFO     Decoding JSON
+2023-03-05 01:47:29,338 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:47:29,453 INFO     Download succeeded.
+2023-03-05 01:47:29,453 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:47:29,663 INFO     Download succeeded.
+2023-03-05 01:47:29,664 INFO     Updating new PDF directory
+2023-03-05 01:47:29,815 INFO     Making slides
+2023-03-05 01:47:29,816 INFO     Starting slideshow
+2023-03-05 01:47:41,721 INFO     Fetching new data from database.
+2023-03-05 01:47:42,061 INFO     Fetching json from server.
+2023-03-05 01:47:42,182 INFO     Decoding JSON
+2023-03-05 01:47:42,182 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:47:42,329 INFO     Download succeeded.
+2023-03-05 01:47:42,330 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:47:42,543 INFO     Download succeeded.
+2023-03-05 01:47:42,544 INFO     Updating new PDF directory
+2023-03-05 01:47:42,742 INFO     Making slides
+2023-03-05 01:47:42,743 INFO     Starting slideshow
+2023-03-05 01:47:54,665 INFO     Fetching new data from database.
+2023-03-05 01:47:54,981 INFO     Fetching json from server.
+2023-03-05 01:47:55,101 INFO     Decoding JSON
+2023-03-05 01:47:55,102 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:47:55,217 INFO     Download succeeded.
+2023-03-05 01:47:55,217 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:47:55,414 INFO     Download succeeded.
+2023-03-05 01:47:55,415 INFO     Updating new PDF directory
+2023-03-05 01:47:55,581 INFO     Making slides
+2023-03-05 01:47:55,582 INFO     Starting slideshow
+2023-03-05 01:48:07,473 INFO     Fetching new data from database.
+2023-03-05 01:48:07,795 INFO     Fetching json from server.
+2023-03-05 01:48:07,915 INFO     Decoding JSON
+2023-03-05 01:48:07,915 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:48:08,046 INFO     Download succeeded.
+2023-03-05 01:48:08,046 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:48:08,274 INFO     Download succeeded.
+2023-03-05 01:48:08,275 INFO     Updating new PDF directory
+2023-03-05 01:48:08,419 INFO     Making slides
+2023-03-05 01:48:08,420 INFO     Starting slideshow
+2023-03-05 01:48:20,325 INFO     Fetching new data from database.
+2023-03-05 01:48:20,640 INFO     Fetching json from server.
+2023-03-05 01:48:20,757 INFO     Decoding JSON
+2023-03-05 01:48:20,758 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:48:20,894 INFO     Download succeeded.
+2023-03-05 01:48:20,894 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:48:21,095 INFO     Download succeeded.
+2023-03-05 01:48:21,095 INFO     Updating new PDF directory
+2023-03-05 01:48:21,252 INFO     Making slides
+2023-03-05 01:48:21,253 INFO     Starting slideshow
+2023-03-05 01:48:33,109 INFO     Fetching new data from database.
+2023-03-05 01:48:33,436 INFO     Fetching json from server.
+2023-03-05 01:48:54,630 INFO     Decoding JSON
+2023-03-05 01:48:54,630 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:48:54,798 INFO     Download succeeded.
+2023-03-05 01:48:54,799 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:48:55,025 INFO     Download succeeded.
+2023-03-05 01:48:55,026 INFO     Updating new PDF directory
+2023-03-05 01:48:55,170 INFO     Making slides
+2023-03-05 01:48:55,171 INFO     Starting slideshow
+2023-03-05 01:49:07,101 INFO     Fetching new data from database.
+2023-03-05 01:49:07,415 INFO     Fetching json from server.
+2023-03-05 01:49:07,532 INFO     Decoding JSON
+2023-03-05 01:49:07,532 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:49:07,652 INFO     Download succeeded.
+2023-03-05 01:49:07,652 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:49:07,857 INFO     Download succeeded.
+2023-03-05 01:49:07,858 INFO     Updating new PDF directory
+2023-03-05 01:49:08,015 INFO     Making slides
+2023-03-05 01:49:08,015 INFO     Starting slideshow
+2023-03-05 01:49:19,953 INFO     Fetching new data from database.
+2023-03-05 01:49:20,283 INFO     Fetching json from server.
+2023-03-05 01:49:20,400 INFO     Decoding JSON
+2023-03-05 01:49:20,400 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:49:20,530 INFO     Download succeeded.
+2023-03-05 01:49:20,531 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:49:20,723 INFO     Download succeeded.
+2023-03-05 01:49:20,724 INFO     Updating new PDF directory
+2023-03-05 01:49:20,895 INFO     Making slides
+2023-03-05 01:49:20,896 INFO     Starting slideshow
+2023-03-05 01:49:21,495 INFO     Loading settings.
+2023-03-05 01:49:21,498 INFO     Settings loaded.
+2023-03-05 01:49:21,498 INFO     Starting GUI
+2023-03-05 01:49:22,208 INFO     importing icons
+2023-03-05 01:49:22,231 INFO     Initial database refresh
+2023-03-05 01:49:22,510 INFO     Fetching json from server.
+2023-03-05 01:49:22,627 INFO     Decoding JSON
+2023-03-05 01:49:32,837 INFO     Fetching new data from database.
+2023-03-05 01:49:33,150 INFO     Fetching json from server.
+2023-03-05 01:49:33,264 INFO     Decoding JSON
+2023-03-05 01:49:33,265 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:49:33,409 INFO     Download succeeded.
+2023-03-05 01:49:33,409 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:49:33,618 INFO     Download succeeded.
+2023-03-05 01:49:33,619 INFO     Updating new PDF directory
+2023-03-05 01:49:33,802 INFO     Making slides
+2023-03-05 01:49:33,803 INFO     Starting slideshow
+2023-03-05 01:49:34,094 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:49:34,193 INFO     Download succeeded.
+2023-03-05 01:49:35,735 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:49:35,930 INFO     Download succeeded.
+2023-03-05 01:49:36,504 INFO     Updating new PDF directory
+2023-03-05 01:49:36,735 INFO     Initializing slideshow
+2023-03-05 01:49:37,222 INFO     Making slides
+2023-03-05 01:49:38,810 INFO     Starting slideshow
+2023-03-05 01:49:49,162 INFO     Could not connect to the internet.
+2023-03-05 01:49:54,929 INFO     Could not connect to the internet.
+2023-03-05 01:53:47,221 INFO     Fetching new data from database.
+2023-03-05 01:53:47,547 INFO     Fetching json from server.
+2023-03-05 01:53:47,658 INFO     Decoding JSON
+2023-03-05 01:53:49,538 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:53:49,680 INFO     Download succeeded.
+2023-03-05 01:53:51,101 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:53:51,313 INFO     Download succeeded.
+2023-03-05 01:53:51,972 INFO     Updating new PDF directory
+2023-03-05 01:53:53,448 INFO     Making slides
+2023-03-05 01:53:54,989 INFO     Starting slideshow
+2023-03-05 01:54:24,567 INFO     Loading settings.
+2023-03-05 01:54:24,568 INFO     Settings loaded.
+2023-03-05 01:54:24,569 INFO     Starting GUI
+2023-03-05 01:54:25,076 INFO     importing icons
+2023-03-05 01:54:25,088 INFO     Initial database refresh
+2023-03-05 01:54:25,494 INFO     Fetching json from server.
+2023-03-05 01:54:25,612 INFO     Decoding JSON
+2023-03-05 01:54:25,613 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:54:25,778 INFO     Download succeeded.
+2023-03-05 01:54:25,779 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:54:25,999 INFO     Download succeeded.
+2023-03-05 01:54:26,000 INFO     Updating new PDF directory
+2023-03-05 01:54:26,149 INFO     Initializing slideshow
+2023-03-05 01:54:26,150 INFO     Making slides
+2023-03-05 01:54:26,150 INFO     Starting slideshow
+2023-03-05 01:54:37,920 INFO     Fetching new data from database.
+2023-03-05 01:54:38,247 INFO     Fetching json from server.
+2023-03-05 01:54:38,365 INFO     Decoding JSON
+2023-03-05 01:54:38,366 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:54:38,488 INFO     Download succeeded.
+2023-03-05 01:54:38,489 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:54:38,699 INFO     Download succeeded.
+2023-03-05 01:54:38,699 INFO     Updating new PDF directory
+2023-03-05 01:54:38,834 INFO     Making slides
+2023-03-05 01:54:38,836 INFO     Starting slideshow
+2023-03-05 01:54:50,692 INFO     Fetching new data from database.
+2023-03-05 01:54:51,002 INFO     Fetching json from server.
+2023-03-05 01:54:51,121 INFO     Decoding JSON
+2023-03-05 01:54:51,122 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:54:51,236 INFO     Download succeeded.
+2023-03-05 01:54:51,237 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:54:51,435 INFO     Download succeeded.
+2023-03-05 01:54:51,436 INFO     Updating new PDF directory
+2023-03-05 01:54:51,597 INFO     Making slides
+2023-03-05 01:54:51,598 INFO     Starting slideshow
+2023-03-05 01:55:03,561 INFO     Fetching new data from database.
+2023-03-05 01:55:03,876 INFO     Fetching json from server.
+2023-03-05 01:55:03,988 INFO     Decoding JSON
+2023-03-05 01:55:03,988 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:55:04,236 INFO     Download succeeded.
+2023-03-05 01:55:04,236 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:55:04,441 INFO     Download succeeded.
+2023-03-05 01:55:04,442 INFO     Updating new PDF directory
+2023-03-05 01:55:04,590 INFO     Making slides
+2023-03-05 01:55:04,590 INFO     Starting slideshow
+2023-03-05 01:56:09,267 INFO     Loading settings.
+2023-03-05 01:56:09,269 INFO     Settings loaded.
+2023-03-05 01:56:09,269 INFO     Starting GUI
+2023-03-05 01:56:09,613 INFO     importing icons
+2023-03-05 01:56:09,626 INFO     Initial database refresh
+2023-03-05 01:56:10,173 INFO     Fetching json from server.
+2023-03-05 01:56:10,292 INFO     Decoding JSON
+2023-03-05 01:56:10,292 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:56:10,433 INFO     Download succeeded.
+2023-03-05 01:56:10,434 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:56:10,638 INFO     Download succeeded.
+2023-03-05 01:56:10,639 INFO     Updating new PDF directory
+2023-03-05 01:56:10,796 INFO     Initializing slideshow
+2023-03-05 01:56:10,797 INFO     Making slides
+2023-03-05 01:56:10,798 INFO     Starting slideshow
+2023-03-05 01:56:22,508 INFO     Fetching new data from database.
+2023-03-05 01:56:22,836 INFO     Fetching json from server.
+2023-03-05 01:56:22,953 INFO     Decoding JSON
+2023-03-05 01:56:22,953 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:56:23,066 INFO     Download succeeded.
+2023-03-05 01:56:23,067 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:56:23,264 INFO     Download succeeded.
+2023-03-05 01:56:23,265 INFO     Updating new PDF directory
+2023-03-05 01:56:23,406 INFO     Making slides
+2023-03-05 01:56:23,407 INFO     Starting slideshow
+2023-03-05 01:56:35,273 INFO     Fetching new data from database.
+2023-03-05 01:56:35,584 INFO     Fetching json from server.
+2023-03-05 01:56:35,712 INFO     Decoding JSON
+2023-03-05 01:56:35,712 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:56:35,844 INFO     Download succeeded.
+2023-03-05 01:56:35,845 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:56:36,056 INFO     Download succeeded.
+2023-03-05 01:56:36,056 INFO     Updating new PDF directory
+2023-03-05 01:56:36,217 INFO     Making slides
+2023-03-05 01:56:36,218 INFO     Starting slideshow
+2023-03-05 01:56:48,087 INFO     Fetching new data from database.
+2023-03-05 01:56:48,397 INFO     Fetching json from server.
+2023-03-05 01:56:48,510 INFO     Decoding JSON
+2023-03-05 01:56:48,511 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:56:48,644 INFO     Download succeeded.
+2023-03-05 01:56:48,645 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:56:48,854 INFO     Download succeeded.
+2023-03-05 01:56:48,854 INFO     Updating new PDF directory
+2023-03-05 01:56:49,001 INFO     Making slides
+2023-03-05 01:56:49,002 INFO     Starting slideshow
+2023-03-05 01:57:00,940 INFO     Fetching new data from database.
+2023-03-05 01:57:01,249 INFO     Fetching json from server.
+2023-03-05 01:57:01,369 INFO     Decoding JSON
+2023-03-05 01:57:01,369 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:57:01,482 INFO     Download succeeded.
+2023-03-05 01:57:01,482 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:57:01,678 INFO     Download succeeded.
+2023-03-05 01:57:01,678 INFO     Updating new PDF directory
+2023-03-05 01:57:01,869 INFO     Making slides
+2023-03-05 01:57:01,870 INFO     Starting slideshow
+2023-03-05 01:57:06,439 INFO     Loading settings.
+2023-03-05 01:57:06,441 INFO     Settings loaded.
+2023-03-05 01:57:06,441 INFO     Starting GUI
+2023-03-05 01:57:06,751 INFO     importing icons
+2023-03-05 01:57:06,765 INFO     Initial database refresh
+2023-03-05 01:57:07,118 INFO     Fetching json from server.
+2023-03-05 01:57:07,247 INFO     Decoding JSON
+2023-03-05 01:57:07,248 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:57:28,338 INFO     Download failed.
+2023-03-05 01:57:28,339 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:57:28,557 INFO     Download succeeded.
+2023-03-05 01:57:28,558 INFO     Updating new PDF directory
+2023-03-05 01:57:33,580 INFO     Loading settings.
+2023-03-05 01:57:33,582 INFO     Settings loaded.
+2023-03-05 01:57:33,582 INFO     Starting GUI
+2023-03-05 01:57:34,049 INFO     importing icons
+2023-03-05 01:57:34,066 INFO     Initial database refresh
+2023-03-05 01:57:34,395 INFO     Fetching json from server.
+2023-03-05 01:57:34,511 INFO     Decoding JSON
+2023-03-05 01:57:34,512 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:57:34,685 INFO     Download succeeded.
+2023-03-05 01:57:34,686 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:57:34,999 INFO     Download succeeded.
+2023-03-05 01:57:34,999 INFO     Updating new PDF directory
+2023-03-05 01:57:35,154 INFO     Initializing slideshow
+2023-03-05 01:57:35,155 INFO     Making slides
+2023-03-05 01:57:35,156 INFO     Starting slideshow
+2023-03-05 01:57:46,843 INFO     Fetching new data from database.
+2023-03-05 01:57:47,180 INFO     Fetching json from server.
+2023-03-05 01:57:47,304 INFO     Decoding JSON
+2023-03-05 01:57:47,304 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:57:47,440 INFO     Download succeeded.
+2023-03-05 01:57:47,440 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:57:47,637 INFO     Download succeeded.
+2023-03-05 01:57:47,637 INFO     Updating new PDF directory
+2023-03-05 01:57:47,820 INFO     Making slides
+2023-03-05 01:57:47,821 INFO     Starting slideshow
+2023-03-05 01:57:59,756 INFO     Fetching new data from database.
+2023-03-05 01:58:00,068 INFO     Fetching json from server.
+2023-03-05 01:58:00,189 INFO     Decoding JSON
+2023-03-05 01:58:00,189 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:58:00,311 INFO     Download succeeded.
+2023-03-05 01:58:00,311 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:58:00,526 INFO     Download succeeded.
+2023-03-05 01:58:00,665 INFO     Making slides
+2023-03-05 01:58:00,666 INFO     Starting slideshow
+2023-03-05 01:58:12,536 INFO     Fetching new data from database.
+2023-03-05 01:58:22,228 INFO     Could not connect to the internet.
+2023-03-05 01:58:22,360 INFO     Fetching json from server.
+2023-03-05 01:58:22,473 INFO     Decoding JSON
+2023-03-05 01:58:22,473 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:58:22,627 INFO     Download succeeded.
+2023-03-05 01:58:22,627 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:58:22,828 INFO     Download succeeded.
+2023-03-05 01:58:22,828 INFO     Updating new PDF directory
+2023-03-05 01:58:22,997 INFO     Making slides
+2023-03-05 01:58:22,997 INFO     Starting slideshow
+2023-03-05 01:58:34,981 INFO     Fetching new data from database.
+2023-03-05 01:58:35,306 INFO     Fetching json from server.
+2023-03-05 01:58:35,417 INFO     Decoding JSON
+2023-03-05 01:58:35,418 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:58:35,538 INFO     Download succeeded.
+2023-03-05 01:58:35,538 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:58:35,743 INFO     Download succeeded.
+2023-03-05 01:58:35,743 INFO     Updating new PDF directory
+2023-03-05 01:58:35,901 INFO     Making slides
+2023-03-05 01:58:35,903 INFO     Starting slideshow
+2023-03-05 01:58:47,777 INFO     Fetching new data from database.
+2023-03-05 01:58:48,158 INFO     Fetching json from server.
+2023-03-05 01:58:48,275 INFO     Decoding JSON
+2023-03-05 01:58:48,275 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:58:48,390 INFO     Download succeeded.
+2023-03-05 01:58:48,390 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:58:48,583 INFO     Download succeeded.
+2023-03-05 01:58:48,583 INFO     Updating new PDF directory
+2023-03-05 01:58:48,730 INFO     Making slides
+2023-03-05 01:59:00,600 INFO     Fetching new data from database.
+2023-03-05 01:59:00,922 INFO     Fetching json from server.
+2023-03-05 01:59:01,040 INFO     Decoding JSON
+2023-03-05 01:59:01,040 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:59:01,179 INFO     Download succeeded.
+2023-03-05 01:59:01,179 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:59:01,396 INFO     Download succeeded.
+2023-03-05 01:59:01,397 INFO     Updating new PDF directory
+2023-03-05 01:59:01,552 INFO     Making slides
+2023-03-05 01:59:01,553 INFO     Starting slideshow
+2023-03-05 01:59:13,441 INFO     Fetching new data from database.
+2023-03-05 01:59:13,756 INFO     Fetching json from server.
+2023-03-05 01:59:13,873 INFO     Decoding JSON
+2023-03-05 01:59:13,873 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:59:13,988 INFO     Download succeeded.
+2023-03-05 01:59:13,988 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:59:14,380 INFO     Download succeeded.
+2023-03-05 01:59:14,381 INFO     Updating new PDF directory
+2023-03-05 01:59:14,532 INFO     Making slides
+2023-03-05 01:59:14,533 INFO     Starting slideshow
+2023-03-05 01:59:26,466 INFO     Fetching new data from database.
+2023-03-05 01:59:26,795 INFO     Fetching json from server.
+2023-03-05 01:59:26,912 INFO     Decoding JSON
+2023-03-05 01:59:26,912 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:59:27,036 INFO     Download succeeded.
+2023-03-05 01:59:27,037 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:59:27,253 INFO     Download succeeded.
+2023-03-05 01:59:27,398 INFO     Making slides
+DF directory
+2023-03-05 01:59:27,399 INFO     Starting slideshow
+2023-03-05 01:59:39,281 INFO     Fetching new data from database.
+2023-03-05 01:59:39,602 INFO     Fetching json from server.
+2023-03-05 01:59:39,718 INFO     Decoding JSON
+2023-03-05 01:59:39,718 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 01:59:39,844 INFO     Download succeeded.
+2023-03-05 01:59:39,844 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:59:40,034 INFO     Download succeeded.
+2023-03-05 01:59:40,035 INFO     Updating new PDF directory
+2023-03-05 01:59:40,198 INFO     Making slides
+2023-03-05 01:59:40,199 INFO     Starting slideshow
+2023-03-05 01:59:43,858 INFO     Loading settings.
+2023-03-05 01:59:43,860 INFO     Settings loaded.
+2023-03-05 01:59:43,861 INFO     Starting GUI
+2023-03-05 01:59:44,302 INFO     importing icons
+2023-03-05 01:59:44,320 INFO     Initial database refresh
+2023-03-05 01:59:44,643 INFO     Fetching json from server.
+2023-03-05 01:59:44,761 INFO     Decoding JSON
+2023-03-05 01:59:44,762 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:59:44,957 INFO     Download succeeded.
+2023-03-05 01:59:44,957 INFO     Updating new PDF directory
+2023-03-05 01:59:45,078 INFO     Initializing slideshow
+2023-03-05 01:59:45,078 INFO     Making slides
+2023-03-05 01:59:45,079 INFO     Starting slideshow
+2023-03-05 01:59:56,566 INFO     Fetching new data from database.
+2023-03-05 01:59:56,875 INFO     Fetching json from server.
+2023-03-05 01:59:56,997 INFO     Decoding JSON
+2023-03-05 01:59:56,998 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 01:59:57,213 INFO     Download succeeded.
+2023-03-05 01:59:57,214 INFO     Updating new PDF directory
+2023-03-05 01:59:57,323 INFO     Making slides
+2023-03-05 01:59:57,325 INFO     Starting slideshow
+2023-03-05 02:00:08,819 INFO     Fetching new data from database.
+2023-03-05 02:00:17,030 INFO     Loading settings.
+2023-03-05 02:00:17,037 INFO     Settings loaded.
+2023-03-05 02:00:17,037 INFO     Starting GUI
+2023-03-05 02:00:17,371 INFO     importing icons
+2023-03-05 02:00:17,385 INFO     Initial database refresh
+2023-03-05 02:00:17,732 INFO     Fetching json from server.
+2023-03-05 02:00:17,836 INFO     Decoding JSON
+2023-03-05 02:00:17,836 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:00:17,942 INFO     Download succeeded.
+2023-03-05 02:00:17,942 INFO     Updating new PDF directory
+2023-03-05 02:00:18,002 INFO     Initializing slideshow
+2023-03-05 02:00:18,002 INFO     Making slides
+2023-03-05 02:00:18,003 INFO     Starting slideshow
+2023-03-05 02:00:39,120 INFO     Could not connect to the internet.
+2023-03-05 02:00:50,269 INFO     Fetching new data from database.
+2023-03-05 02:05:34,234 INFO     Loading settings.
+2023-03-05 02:05:34,234 INFO     Settings loaded.
+2023-03-05 02:05:34,235 INFO     Starting GUI
+2023-03-05 02:05:34,770 INFO     importing icons
+2023-03-05 02:05:34,785 INFO     Initial database refresh
+2023-03-05 02:05:35,130 INFO     Fetching json from server.
+2023-03-05 02:05:35,244 INFO     Decoding JSON
+2023-03-05 02:05:35,245 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:05:35,389 INFO     Download succeeded.
+2023-03-05 02:05:35,389 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:05:35,601 INFO     Download succeeded.
+2023-03-05 02:05:35,602 INFO     Updating new PDF directory
+2023-03-05 02:05:35,794 INFO     Initializing slideshow
+2023-03-05 02:05:35,797 INFO     Making slides
+2023-03-05 02:05:35,798 INFO     Starting slideshow
+2023-03-05 02:05:47,579 INFO     Fetching new data from database.
+2023-03-05 02:05:47,909 INFO     Fetching json from server.
+2023-03-05 02:05:48,034 INFO     Decoding JSON
+2023-03-05 02:05:48,034 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:05:48,151 INFO     Download succeeded.
+2023-03-05 02:05:48,152 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:05:48,367 INFO     Download succeeded.
+2023-03-05 02:05:48,367 INFO     Updating new PDF directory
+2023-03-05 02:05:48,524 INFO     Making slides
+2023-03-05 02:05:48,524 INFO     Starting slideshow
+2023-03-05 02:06:00,433 INFO     Fetching new data from database.
+2023-03-05 02:06:00,753 INFO     Fetching json from server.
+2023-03-05 02:06:00,879 INFO     Decoding JSON
+2023-03-05 02:06:00,879 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:06:01,022 INFO     Download succeeded.
+2023-03-05 02:06:01,023 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:06:01,277 INFO     Download succeeded.
+2023-03-05 02:06:01,277 INFO     Updating new PDF directory
+2023-03-05 02:06:01,421 INFO     Making slides
+2023-03-05 02:06:01,422 INFO     Starting slideshow
+2023-03-05 02:06:13,283 INFO     Fetching new data from database.
+2023-03-05 02:06:13,602 INFO     Fetching json from server.
+2023-03-05 02:06:13,719 INFO     Decoding JSON
+2023-03-05 02:06:13,720 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:06:13,864 INFO     Download succeeded.
+2023-03-05 02:06:13,864 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:06:14,068 INFO     Download succeeded.
+2023-03-05 02:06:14,069 INFO     Updating new PDF directory
+2023-03-05 02:06:14,227 INFO     Making slides
+2023-03-05 02:06:14,227 INFO     Starting slideshow
+2023-03-05 02:06:30,511 INFO     Loading settings.
+2023-03-05 02:06:30,513 INFO     Settings loaded.
+2023-03-05 02:06:30,514 INFO     Starting GUI
+2023-03-05 02:06:30,821 INFO     importing icons
+2023-03-05 02:06:30,849 INFO     Initial database refresh
+2023-03-05 02:06:31,222 INFO     Fetching json from server.
+2023-03-05 02:06:31,364 INFO     Decoding JSON
+2023-03-05 02:06:32,368 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:06:33,170 INFO     Download succeeded.
+2023-03-05 02:06:36,332 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:07:30,844 INFO     Loading settings.
+2023-03-05 02:07:30,847 INFO     Settings loaded.
+2023-03-05 02:07:30,847 INFO     Starting GUI
+2023-03-05 02:07:31,180 INFO     importing icons
+2023-03-05 02:07:31,209 INFO     Initial database refresh
+2023-03-05 02:07:31,710 INFO     Fetching json from server.
+2023-03-05 02:07:31,824 INFO     Decoding JSON
+2023-03-05 02:07:36,255 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:07:41,775 INFO     file already exists
+2023-03-05 02:07:46,631 INFO     Loading settings.
+2023-03-05 02:07:46,633 INFO     Settings loaded.
+2023-03-05 02:07:46,634 INFO     Starting GUI
+2023-03-05 02:07:47,004 INFO     importing icons
+2023-03-05 02:07:47,016 INFO     Initial database refresh
+2023-03-05 02:07:47,328 INFO     Fetching json from server.
+2023-03-05 02:07:47,445 INFO     Decoding JSON
+2023-03-05 02:07:47,446 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:07:47,447 INFO     file already exists
+2023-03-05 02:07:47,447 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:07:47,448 INFO     file already exists
+2023-03-05 02:07:47,449 INFO     Updating new PDF directory
+2023-03-05 02:08:01,203 INFO     Loading settings.
+2023-03-05 02:08:01,209 INFO     Settings loaded.
+2023-03-05 02:08:01,209 INFO     Starting GUI
+2023-03-05 02:08:01,530 INFO     importing icons
+2023-03-05 02:08:01,541 INFO     Initial database refresh
+2023-03-05 02:08:01,880 INFO     Fetching json from server.
+2023-03-05 02:08:02,000 INFO     Decoding JSON
+2023-03-05 02:08:02,001 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:08:02,002 INFO     file already exists
+2023-03-05 02:08:02,003 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:08:02,225 INFO     Download succeeded.
+2023-03-05 02:08:02,225 INFO     Updating new PDF directory
+2023-03-05 02:08:18,530 INFO     Loading settings.
+2023-03-05 02:08:18,533 INFO     Settings loaded.
+2023-03-05 02:08:18,534 INFO     Starting GUI
+2023-03-05 02:08:18,893 INFO     importing icons
+2023-03-05 02:08:18,909 INFO     Initial database refresh
+2023-03-05 02:08:19,434 INFO     Fetching json from server.
+2023-03-05 02:08:19,558 INFO     Decoding JSON
+2023-03-05 02:08:19,558 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:08:19,712 INFO     Download succeeded.
+2023-03-05 02:08:19,712 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:08:19,908 INFO     Download succeeded.
+2023-03-05 02:08:19,909 INFO     Updating new PDF directory
+2023-03-05 02:08:20,059 INFO     Initializing slideshow
+2023-03-05 02:08:20,061 INFO     Making slides
+2023-03-05 02:08:20,061 INFO     Starting slideshow
+2023-03-05 02:08:31,769 INFO     Fetching new data from database.
+2023-03-05 02:08:53,172 INFO     Fetching json from server.
+2023-03-05 02:08:53,316 INFO     Decoding JSON
+2023-03-05 02:08:53,316 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:08:53,421 INFO     file already exists
+2023-03-05 02:08:53,421 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:08:53,422 INFO     file already exists
+2023-03-05 02:08:53,423 INFO     Updating new PDF directory
+2023-03-05 02:08:53,568 INFO     Making slides
+2023-03-05 02:08:53,569 INFO     Starting slideshow
+2023-03-05 02:09:05,514 INFO     Fetching new data from database.
+2023-03-05 02:09:05,843 INFO     Fetching json from server.
+2023-03-05 02:09:05,966 INFO     Decoding JSON
+2023-03-05 02:09:05,966 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:09:05,967 INFO     file already exists
+2023-03-05 02:09:05,968 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:09:05,969 INFO     file already exists
+2023-03-05 02:09:05,969 INFO     Updating new PDF directory
+2023-03-05 02:09:06,114 INFO     Making slides
+2023-03-05 02:09:06,115 INFO     Starting slideshow
+2023-03-05 02:09:17,984 INFO     Fetching new data from database.
+2023-03-05 02:09:18,290 INFO     Fetching json from server.
+2023-03-05 02:09:18,417 INFO     Decoding JSON
+2023-03-05 02:09:18,417 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:09:18,418 INFO     file already exists
+2023-03-05 02:09:18,419 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:09:18,419 INFO     file already exists
+2023-03-05 02:09:18,420 INFO     Updating new PDF directory
+2023-03-05 02:09:18,567 INFO     Making slides
+2023-03-05 02:09:18,568 INFO     Starting slideshow
+2023-03-05 02:09:30,441 INFO     Fetching new data from database.
+2023-03-05 02:09:30,782 INFO     Fetching json from server.
+2023-03-05 02:09:30,903 INFO     Decoding JSON
+2023-03-05 02:09:30,904 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:09:30,905 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:09:30,906 INFO     file already exists
+2023-03-05 02:09:30,907 INFO     Updating new PDF directory
+2023-03-05 02:09:31,043 INFO     Making slides
+2023-03-05 02:09:31,044 INFO     Starting slideshow
+2023-03-05 02:09:42,946 INFO     Fetching new data from database.
+2023-03-05 02:09:43,260 INFO     Fetching json from server.
+2023-03-05 02:09:43,377 INFO     Decoding JSON
+2023-03-05 02:09:43,377 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:09:43,379 INFO     file already exists
+2023-03-05 02:09:43,379 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:09:43,380 INFO     file already exists
+2023-03-05 02:09:43,381 INFO     Updating new PDF directory
+2023-03-05 02:09:43,523 INFO     Making slides
+2023-03-05 02:09:43,524 INFO     Starting slideshow
+2023-03-05 02:09:55,359 INFO     Fetching new data from database.
+2023-03-05 02:09:55,679 INFO     Fetching json from server.
+2023-03-05 02:09:55,791 INFO     Decoding JSON
+2023-03-05 02:09:55,791 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:09:55,792 INFO     file already exists
+2023-03-05 02:09:55,792 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:09:55,793 INFO     file already exists
+2023-03-05 02:09:55,794 INFO     Updating new PDF directory
+2023-03-05 02:09:55,930 INFO     Making slides
+2023-03-05 02:09:55,931 INFO     Starting slideshow
+2023-03-05 02:10:07,889 INFO     Fetching new data from database.
+2023-03-05 02:10:08,193 INFO     Fetching json from server.
+2023-03-05 02:10:08,305 INFO     Decoding JSON
+2023-03-05 02:10:08,305 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:10:08,307 INFO     file already exists
+2023-03-05 02:10:08,307 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:10:08,308 INFO     file already exists
+2023-03-05 02:10:08,309 INFO     Updating new PDF directory
+2023-03-05 02:10:08,458 INFO     Making slides
+2023-03-05 02:10:08,459 INFO     Starting slideshow
+2023-03-05 02:10:20,314 INFO     Fetching new data from database.
+2023-03-05 02:10:20,638 INFO     Fetching json from server.
+2023-03-05 02:10:20,753 INFO     Decoding JSON
+2023-03-05 02:10:20,754 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:10:20,755 INFO     file already exists
+2023-03-05 02:10:20,755 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:10:20,756 INFO     file already exists
+2023-03-05 02:10:20,757 INFO     Updating new PDF directory
+2023-03-05 02:10:20,921 INFO     Making slides
+2023-03-05 02:10:20,922 INFO     Starting slideshow
+2023-03-05 02:10:32,865 INFO     Fetching new data from database.
+2023-03-05 02:10:33,180 INFO     Fetching json from server.
+2023-03-05 02:10:33,295 INFO     Decoding JSON
+2023-03-05 02:10:33,295 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:10:33,296 INFO     file already exists
+2023-03-05 02:10:33,297 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:10:33,298 INFO     file already exists
+2023-03-05 02:10:33,298 INFO     Updating new PDF directory
+2023-03-05 02:10:33,437 INFO     Making slides
+2023-03-05 02:10:33,437 INFO     Starting slideshow
+2023-03-05 02:10:45,344 INFO     Fetching new data from database.
+2023-03-05 02:10:45,755 INFO     Fetching json from server.
+2023-03-05 02:10:45,880 INFO     Decoding JSON
+2023-03-05 02:10:45,880 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:10:45,882 INFO     file already exists
+2023-03-05 02:10:45,882 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:10:45,883 INFO     file already exists
+2023-03-05 02:10:45,883 INFO     Updating new PDF directory
+2023-03-05 02:10:46,037 INFO     Making slides
+2023-03-05 02:10:46,039 INFO     Starting slideshow
+2023-03-05 02:10:57,916 INFO     Fetching new data from database.
+2023-03-05 02:10:58,247 INFO     Fetching json from server.
+2023-03-05 02:10:58,366 INFO     Decoding JSON
+2023-03-05 02:10:58,366 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:10:58,367 INFO     file already exists
+2023-03-05 02:10:58,368 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:10:58,368 INFO     file already exists
+2023-03-05 02:10:58,369 INFO     Updating new PDF directory
+2023-03-05 02:10:58,529 INFO     Making slides
+2023-03-05 02:10:58,530 INFO     Starting slideshow
+2023-03-05 02:11:10,704 INFO     Loading settings.
+2023-03-05 02:11:10,707 INFO     Settings loaded.
+2023-03-05 02:11:10,707 INFO     Starting GUI
+2023-03-05 02:11:10,853 INFO     Fetching new data from database.
+2023-03-05 02:11:11,139 INFO     importing icons
+2023-03-05 02:11:11,151 INFO     Initial database refresh
+2023-03-05 02:11:11,185 INFO     Fetching json from server.
+2023-03-05 02:11:11,308 INFO     Decoding JSON
+2023-03-05 02:11:11,309 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:11:11,310 INFO     file already exists
+2023-03-05 02:11:11,311 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:11:11,312 INFO     file already exists
+2023-03-05 02:11:11,313 INFO     Updating new PDF directory
+2023-03-05 02:11:11,425 INFO     Fetching json from server.
+2023-03-05 02:11:11,490 INFO     Making slides
+2023-03-05 02:11:11,493 INFO     Starting slideshow
+2023-03-05 02:11:11,557 INFO     Decoding JSON
+2023-03-05 02:11:11,558 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:11:11,558 INFO     file already exists
+2023-03-05 02:11:11,558 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:11:11,559 INFO     file already exists
+2023-03-05 02:11:11,559 INFO     Updating new PDF directory
+2023-03-05 02:11:11,773 INFO     Initializing slideshow
+2023-03-05 02:11:11,775 INFO     Making slides
+2023-03-05 02:11:11,776 INFO     Starting slideshow
+2023-03-05 02:11:44,863 INFO     Loading settings.
+2023-03-05 02:11:44,865 INFO     Settings loaded.
+2023-03-05 02:11:44,865 INFO     Starting GUI
+2023-03-05 02:11:45,314 INFO     importing icons
+2023-03-05 02:11:45,329 INFO     Initial database refresh
+2023-03-05 02:11:45,720 INFO     Fetching json from server.
+2023-03-05 02:11:45,838 INFO     Decoding JSON
+2023-03-05 02:11:45,838 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:11:45,840 INFO     file already exists
+2023-03-05 02:11:45,840 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:11:45,841 INFO     file already exists
+2023-03-05 02:11:45,841 INFO     Updating new PDF directory
+2023-03-05 02:11:46,020 INFO     Initializing slideshow
+2023-03-05 02:11:46,021 INFO     Making slides
+2023-03-05 02:11:46,021 INFO     Starting slideshow
+2023-03-05 02:11:47,772 INFO     Fetching new data from database.
+2023-03-05 02:11:48,052 INFO     Fetching json from server.
+2023-03-05 02:11:48,188 INFO     Decoding JSON
+2023-03-05 02:11:48,188 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:11:48,190 INFO     file already exists
+2023-03-05 02:11:48,190 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:11:48,191 INFO     file already exists
+2023-03-05 02:11:48,191 INFO     Updating new PDF directory
+2023-03-05 02:11:48,352 INFO     Making slides
+2023-03-05 02:11:48,361 INFO     Starting slideshow
+2023-03-05 02:11:50,141 INFO     Fetching new data from database.
+2023-03-05 02:11:50,414 INFO     Fetching json from server.
+2023-03-05 02:11:50,538 INFO     Decoding JSON
+2023-03-05 02:11:50,538 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:11:50,540 INFO     file already exists
+2023-03-05 02:11:50,540 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:11:50,541 INFO     file already exists
+2023-03-05 02:11:50,541 INFO     Updating new PDF directory
+2023-03-05 02:11:50,676 INFO     Making slides
+2023-03-05 02:11:50,677 INFO     Starting slideshow
+2023-03-05 02:11:52,557 INFO     Fetching new data from database.
+2023-03-05 02:11:52,856 INFO     Fetching json from server.
+2023-03-05 02:11:52,970 INFO     Decoding JSON
+2023-03-05 02:11:52,971 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:11:52,972 INFO     file already exists
+2023-03-05 02:11:52,972 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:11:52,974 INFO     file already exists
+2023-03-05 02:11:52,974 INFO     Updating new PDF directory
+2023-03-05 02:11:53,132 INFO     Making slides
+2023-03-05 02:11:53,133 INFO     Starting slideshow
+2023-03-05 02:11:54,982 INFO     Fetching new data from database.
+2023-03-05 02:11:55,243 INFO     Fetching json from server.
+2023-03-05 02:11:55,362 INFO     Decoding JSON
+2023-03-05 02:11:55,363 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:11:55,364 INFO     file already exists
+2023-03-05 02:11:55,364 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:11:55,365 INFO     file already exists
+2023-03-05 02:11:55,366 INFO     Updating new PDF directory
+2023-03-05 02:11:55,528 INFO     Making slides
+2023-03-05 02:11:55,529 INFO     Starting slideshow
+2023-03-05 02:11:57,341 INFO     Fetching new data from database.
+2023-03-05 02:11:57,653 INFO     Fetching json from server.
+2023-03-05 02:11:57,766 INFO     Decoding JSON
+2023-03-05 02:11:57,766 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:11:57,767 INFO     file already exists
+2023-03-05 02:11:57,768 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:11:57,769 INFO     file already exists
+2023-03-05 02:11:57,769 INFO     Updating new PDF directory
+2023-03-05 02:11:57,903 INFO     Making slides
+2023-03-05 02:11:57,906 INFO     Starting slideshow
+2023-03-05 02:12:06,137 INFO     Loading settings.
+2023-03-05 02:12:06,146 INFO     Settings loaded.
+2023-03-05 02:12:06,146 INFO     Starting GUI
+2023-03-05 02:12:06,425 INFO     importing icons
+2023-03-05 02:12:06,441 INFO     Initial database refresh
+2023-03-05 02:12:06,793 INFO     Fetching json from server.
+2023-03-05 02:12:06,907 INFO     Decoding JSON
+2023-03-05 02:12:06,907 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:12:06,908 INFO     file already exists
+2023-03-05 02:12:06,908 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:12:06,910 INFO     file already exists
+2023-03-05 02:12:06,910 INFO     Updating new PDF directory
+2023-03-05 02:12:07,078 INFO     Initializing slideshow
+2023-03-05 02:12:07,079 INFO     Making slides
+2023-03-05 02:12:07,081 INFO     Starting slideshow
+2023-03-05 02:12:18,883 INFO     Fetching new data from database.
+2023-03-05 02:12:19,225 INFO     Fetching json from server.
+2023-03-05 02:12:19,348 INFO     Decoding JSON
+2023-03-05 02:12:19,349 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/12
+2023-03-05 02:12:19,352 INFO     file already exists
+2023-03-05 02:12:19,352 INFO     Downloading file : https://www.africau.edu/images/default/sample.pdf
+2023-03-05 02:12:19,353 INFO     file already exists
+2023-03-05 02:12:19,354 INFO     Updating new PDF directory
+2023-03-05 02:12:19,530 INFO     Making slides
+2023-03-05 02:12:19,532 INFO     Starting slideshow

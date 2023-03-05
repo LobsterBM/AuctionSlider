@@ -190,8 +190,10 @@ def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
         #timer *=60 #convert to minutes
         loops = timer/slidetime
         connectionStatus , documentStatus, refreshStatus = getStatus()
-        gui.onscreen = []
-        while  loops > 0 :
+        if len(slide_list) <= 2 :
+            gui.onscreen = []
+        
+        while  loops  > 0 :
 
             slide_list = nextSlides(slide_list , gui )
 
@@ -201,7 +203,7 @@ def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
                 showIcon(connectionImage, gui, 2)
 
             #gui.root.update()
-            connectionStatus,documentStatus,refreshStatus = getStatus()
+            #connectionStatus,documentStatus,refreshStatus = getStatus()
             time.sleep(slidetime)
             loops -= 1
             print("loop : " ,loops)
@@ -312,7 +314,6 @@ class GUIinstance:
 
     def updateScreenSlides(self, slide , slidelength):
 
-
         if len(self.onscreen) < self.model :
             for i in range(len(self.onscreen)):
                 self.onscreen[i].setPos(i)
@@ -324,6 +325,7 @@ class GUIinstance:
                     self.onscreen = [slide]
                     return
                 self.onscreen = [slide] + self.onscreen
+            
         else:
             if slide not in self.onscreen:
                 self.onscreen  = [slide]+self.onscreen[:-1]
@@ -331,6 +333,8 @@ class GUIinstance:
                 self.onscreen[i].setPos(i)
                 if slidelength == 1 :
                     self.onscreen[0].setPos(1)
+            
+            
             
 
 
