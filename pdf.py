@@ -170,6 +170,8 @@ def decodeJSON(data):
         comment = d['comment']
         status = d['status']
         id= d['id']
+        if comment == None:
+            comment = ""
         pdf_obj = PDFobject(pdfurl,title,comment,status, id)
         pdf_list.append(pdf_obj)
     return pdf_list
