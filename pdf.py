@@ -76,7 +76,7 @@ def current_PDF():
     for i in range (len(files)) :
         #files[i] = pdf_path + files[i]
         #the [:-4] is to remove the ".pdf" extension to make it compatible with the PDF object handler
-        pdf_list.append(PDFobject("",files[i][:-4] , "",""))
+        pdf_list.append(PDFobject("",files[i][:-4] , "","", ""))
     return pdf_list
 
 
@@ -169,7 +169,8 @@ def decodeJSON(data):
         title = d['title']
         comment = d['comment']
         status = d['status']
-        pdf_obj = PDFobject(pdfurl,title,comment,status)
+        id= d['id']
+        pdf_obj = PDFobject(pdfurl,title,comment,status, id)
         pdf_list.append(pdf_obj)
     return pdf_list
 
@@ -204,11 +205,12 @@ def updateDir(path , list):
             os.remove(f)
 
 class PDFobject :
-    def __init__(self , url , title , comment , status):
+    def __init__(self , url , title , comment , status ,id):
         self.url = url
         self.title = title
         self.comment = comment
         self.status = status
+        self.id = id
         self.path = pdf_path+"/"+title+".pdf"
 
     def downloadPDF(self , path):
