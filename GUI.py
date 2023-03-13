@@ -34,6 +34,8 @@ def updateSlides(data):
     for d in data:
         conv = getSlides(d.path)
         #DO text
+        #reformat d.comment to replace \r \n with \n
+        d.comment = d.comment.replace("\r" , "")
         text = d.title + "\n" + d.comment + "\n" + d.status
         for e in conv :
             slides.append([e,  text])
@@ -206,7 +208,7 @@ def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
             #connectionStatus,documentStatus,refreshStatus = getStatus()
             time.sleep(slidetime)
             loops -= 1
-            print("loop : " ,loops)
+        #    print("loop : " ,loops)
 
 
     #first refresh
