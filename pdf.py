@@ -51,7 +51,7 @@ def serverUpdate(url):
 
     for e in pdf_list:
         try:
-            download_file(e.url , e.title , pdf_path+"_temp")
+            download_file(e.url , e.id, e.title , pdf_path+"_temp")
             document_status = True
         except:
             document_status = False
@@ -84,17 +84,17 @@ def current_PDF():
 
 
 
-def download_file(download_url, filename , path):
+def download_file(download_url,id, filename , path):
     log("Downloading file : " + download_url)
     try:
-        if os.path.exists(pdf_path +"/"+ filename + ".pdf"):
+        if os.path.exists(pdf_path +"/"+ str(id) + "-" + filename + ".pdf"):
             log("file already exists")
             return
         if os.path.exists(pdf_path+"_temp") == False:
             os.mkdir(pdf_path+"_temp")
         
         response = urllib.request.urlopen(download_url)
-        file = open(path +"/"+ filename + ".pdf", 'wb')
+        file = open(path +"/"+ str(id) + "-" + filename + ".pdf", 'wb')
         file.write(response.read())
         file.close()
         log("Download succeeded.")
@@ -211,8 +211,8 @@ class PDFobject :
         self.comment = comment
         self.status = status
         self.id = id
-        self.path = pdf_path+"/"+title+".pdf"
+        self.path = pdf_path+"/"+str(id) + "-" + title+".pdf"
 
     def downloadPDF(self , path):
 
-        download_file(self.url, self.title , path)
+        download_file(self.url, self.id, self.title , path)
