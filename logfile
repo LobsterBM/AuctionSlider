@@ -1799,3 +1799,292 @@ DF directory
 2023-03-15 12:25:35,078 INFO     Updating new PDF directory
 2023-03-15 12:25:35,086 INFO     Making slides
 2023-03-15 12:25:35,086 INFO     Starting slideshow
+2023-03-15 14:58:54,442 INFO     Loading settings.
+2023-03-15 14:58:54,445 INFO     Settings loaded.
+2023-03-15 14:58:54,445 INFO     Starting GUI
+2023-03-15 14:58:54,902 INFO     importing icons
+2023-03-15 14:58:54,933 INFO     Initial database refresh
+2023-03-15 14:58:55,326 INFO     Fetching json from server.
+2023-03-15 14:58:55,399 INFO     Decoding JSON
+2023-03-15 14:58:55,399 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 14:58:55,468 INFO     Download succeeded.
+2023-03-15 14:58:55,469 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 14:58:55,544 INFO     Download succeeded.
+2023-03-15 14:58:55,544 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 14:58:55,610 INFO     Download succeeded.
+2023-03-15 14:58:55,611 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 14:58:55,674 INFO     Download succeeded.
+2023-03-15 14:58:55,674 INFO     Updating new PDF directory
+2023-03-15 14:58:56,152 INFO     Initializing slideshow
+2023-03-15 14:58:56,153 INFO     Making slides
+2023-03-15 14:58:56,153 INFO     Starting slideshow
+2023-03-15 14:59:09,031 INFO     Fetching new data from database.
+2023-03-15 14:59:09,241 INFO     Fetching json from server.
+2023-03-15 14:59:09,313 INFO     Decoding JSON
+2023-03-15 14:59:09,314 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 14:59:09,316 INFO     file already exists
+2023-03-15 14:59:09,319 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 14:59:09,320 INFO     file already exists
+2023-03-15 14:59:09,323 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 14:59:09,323 INFO     file already exists
+2023-03-15 14:59:09,335 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 14:59:09,336 INFO     file already exists
+2023-03-15 14:59:09,342 INFO     Updating new PDF directory
+2023-03-15 14:59:09,589 INFO     Making slides
+2023-03-15 14:59:09,592 INFO     Starting slideshow
+2023-03-15 14:59:21,879 INFO     Fetching new data from database.
+2023-03-15 14:59:22,082 INFO     Fetching json from server.
+2023-03-15 14:59:22,155 INFO     Decoding JSON
+2023-03-15 14:59:22,155 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 14:59:22,157 INFO     file already exists
+2023-03-15 14:59:22,160 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 14:59:22,160 INFO     file already exists
+2023-03-15 14:59:22,163 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 14:59:22,164 INFO     file already exists
+2023-03-15 14:59:22,177 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 14:59:22,177 INFO     file already exists
+2023-03-15 14:59:22,182 INFO     Updating new PDF directory
+2023-03-15 14:59:22,552 INFO     Making slides
+2023-03-15 14:59:22,552 INFO     Starting slideshow
+2023-03-15 14:59:34,823 INFO     Fetching new data from database.
+2023-03-15 14:59:35,862 INFO     Fetching json from server.
+2023-03-15 14:59:35,948 INFO     Decoding JSON
+2023-03-15 14:59:35,948 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 14:59:35,950 INFO     file already exists
+2023-03-15 14:59:35,954 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 14:59:35,954 INFO     file already exists
+2023-03-15 14:59:35,958 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 14:59:35,959 INFO     file already exists
+2023-03-15 14:59:35,970 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 14:59:35,970 INFO     file already exists
+2023-03-15 14:59:35,974 INFO     Updating new PDF directory
+2023-03-15 14:59:36,220 INFO     Making slides
+2023-03-15 14:59:36,221 INFO     Starting slideshow
+2023-03-15 15:00:28,212 INFO     Loading settings.
+2023-03-15 15:00:28,221 INFO     Settings loaded.
+2023-03-15 15:00:28,223 INFO     Starting GUI
+2023-03-15 15:00:29,082 INFO     importing icons
+2023-03-15 15:00:29,152 INFO     Initial database refresh
+2023-03-15 15:00:29,403 INFO     Fetching json from server.
+2023-03-15 15:00:29,492 INFO     Decoding JSON
+2023-03-15 15:00:29,492 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:00:29,498 INFO     file already exists
+2023-03-15 15:00:29,507 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:00:29,509 INFO     file already exists
+2023-03-15 15:00:29,519 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:00:29,521 INFO     file already exists
+2023-03-15 15:00:29,537 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:00:29,540 INFO     file already exists
+2023-03-15 15:00:29,549 INFO     Updating new PDF directory
+2023-03-15 15:00:30,183 INFO     Initializing slideshow
+2023-03-15 15:00:30,187 INFO     Making slides
+2023-03-15 15:00:30,188 INFO     Starting slideshow
+2023-03-15 15:00:55,217 INFO     Loading settings.
+2023-03-15 15:00:55,227 INFO     Settings loaded.
+2023-03-15 15:00:55,229 INFO     Starting GUI
+2023-03-15 15:00:56,001 INFO     importing icons
+2023-03-15 15:00:56,064 INFO     Initial database refresh
+2023-03-15 15:00:56,308 INFO     Fetching json from server.
+2023-03-15 15:00:56,386 INFO     Decoding JSON
+2023-03-15 15:00:56,387 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:00:56,391 INFO     file already exists
+2023-03-15 15:00:56,399 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:00:56,400 INFO     file already exists
+2023-03-15 15:00:56,409 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:00:56,412 INFO     file already exists
+2023-03-15 15:00:56,431 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:00:56,433 INFO     file already exists
+2023-03-15 15:00:56,443 INFO     Updating new PDF directory
+2023-03-15 15:00:57,029 INFO     Initializing slideshow
+2023-03-15 15:00:57,032 INFO     Starting slideshow
+2023-03-15 15:01:07,407 INFO     Fetching new data from database.
+2023-03-15 15:01:07,649 INFO     Fetching json from server.
+2023-03-15 15:01:07,724 INFO     Decoding JSON
+2023-03-15 15:01:07,726 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:01:07,730 INFO     file already exists
+2023-03-15 15:01:07,741 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:01:07,743 INFO     file already exists
+2023-03-15 15:01:07,753 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:01:07,781 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:01:07,783 INFO     file already exists
+2023-03-15 15:01:07,794 INFO     Updating new PDF directory
+2023-03-15 15:01:08,333 INFO     Making slides
+2023-03-15 15:01:08,340 INFO     Starting slideshow
+2023-03-15 15:01:18,923 INFO     Fetching new data from database.
+2023-03-15 15:01:19,136 INFO     Fetching json from server.
+2023-03-15 15:01:19,213 INFO     Decoding JSON
+2023-03-15 15:01:19,214 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:01:19,220 INFO     file already exists
+2023-03-15 15:01:19,227 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:01:19,229 INFO     file already exists
+2023-03-15 15:01:19,239 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:01:19,240 INFO     file already exists
+2023-03-15 15:01:19,255 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:01:19,257 INFO     file already exists
+2023-03-15 15:01:19,268 INFO     Updating new PDF directory
+2023-03-15 15:01:19,844 INFO     Making slides
+2023-03-15 15:01:19,844 INFO     Starting slideshow
+2023-03-15 15:01:30,624 INFO     Fetching new data from database.
+2023-03-15 15:01:30,852 INFO     Fetching json from server.
+2023-03-15 15:01:30,932 INFO     Decoding JSON
+2023-03-15 15:01:30,934 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:01:30,940 INFO     file already exists
+2023-03-15 15:01:30,951 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:01:30,953 INFO     file already exists
+2023-03-15 15:01:30,963 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:01:30,964 INFO     file already exists
+2023-03-15 15:01:30,985 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:01:30,989 INFO     file already exists
+2023-03-15 15:01:30,998 INFO     Updating new PDF directory
+2023-03-15 15:01:31,493 INFO     Making slides
+2023-03-15 15:01:31,494 INFO     Starting slideshow
+2023-03-15 15:03:24,222 INFO     Loading settings.
+2023-03-15 15:03:24,228 INFO     Settings loaded.
+2023-03-15 15:03:24,229 INFO     Starting GUI
+2023-03-15 15:03:25,240 INFO     importing icons
+2023-03-15 15:03:25,288 INFO     Initial database refresh
+2023-03-15 15:03:25,537 INFO     Fetching json from server.
+2023-03-15 15:03:25,616 INFO     Decoding JSON
+2023-03-15 15:03:25,617 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:03:25,622 INFO     file already exists
+2023-03-15 15:03:25,632 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:03:25,634 INFO     file already exists
+2023-03-15 15:03:25,645 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:03:25,646 INFO     file already exists
+2023-03-15 15:03:25,667 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:03:25,670 INFO     file already exists
+2023-03-15 15:03:25,679 INFO     Updating new PDF directory
+2023-03-15 15:03:26,320 INFO     Initializing slideshow
+2023-03-15 15:03:26,321 INFO     Making slides
+2023-03-15 15:03:26,322 INFO     Starting slideshow
+2023-03-15 15:03:50,303 INFO     Fetching new data from database.
+2023-03-15 15:03:50,533 INFO     Fetching json from server.
+2023-03-15 15:03:50,613 INFO     Decoding JSON
+2023-03-15 15:03:50,614 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:03:50,620 INFO     file already exists
+2023-03-15 15:03:50,632 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:03:50,634 INFO     file already exists
+2023-03-15 15:03:50,643 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:03:50,645 INFO     file already exists
+2023-03-15 15:03:50,668 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:03:50,670 INFO     file already exists
+2023-03-15 15:03:50,676 INFO     Updating new PDF directory
+2023-03-15 15:03:51,267 INFO     Making slides
+2023-03-15 15:03:51,278 INFO     Starting slideshow
+2023-03-15 15:04:12,716 INFO     Fetching new data from database.
+2023-03-15 15:04:12,947 INFO     Fetching json from server.
+2023-03-15 15:04:13,023 INFO     Decoding JSON
+2023-03-15 15:04:13,024 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:04:13,028 INFO     file already exists
+2023-03-15 15:04:13,034 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:04:13,035 INFO     file already exists
+2023-03-15 15:04:13,041 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:04:13,043 INFO     file already exists
+2023-03-15 15:04:13,052 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:04:13,055 INFO     file already exists
+2023-03-15 15:04:13,063 INFO     Updating new PDF directory
+2023-03-15 15:04:13,703 INFO     Making slides
+2023-03-15 15:04:13,705 INFO     Starting slideshow
+2023-03-15 15:04:35,016 INFO     Fetching new data from database.
+2023-03-15 15:04:35,277 INFO     Fetching json from server.
+2023-03-15 15:04:35,365 INFO     Decoding JSON
+2023-03-15 15:04:35,365 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:04:35,369 INFO     file already exists
+2023-03-15 15:04:35,378 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:04:35,380 INFO     file already exists
+2023-03-15 15:04:35,393 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:04:35,395 INFO     file already exists
+2023-03-15 15:04:35,414 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:04:35,416 INFO     file already exists
+2023-03-15 15:04:35,424 INFO     Updating new PDF directory
+2023-03-15 15:04:36,027 INFO     Making slides
+2023-03-15 15:04:36,028 INFO     Starting slideshow
+2023-03-15 15:04:57,532 INFO     Fetching new data from database.
+2023-03-15 15:04:57,782 INFO     Fetching json from server.
+2023-03-15 15:04:57,865 INFO     Decoding JSON
+2023-03-15 15:04:57,866 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:04:57,871 INFO     file already exists
+2023-03-15 15:04:57,878 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:04:57,880 INFO     file already exists
+2023-03-15 15:04:57,889 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:04:57,891 INFO     file already exists
+2023-03-15 15:04:57,909 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:04:57,911 INFO     file already exists
+2023-03-15 15:04:57,921 INFO     Updating new PDF directory
+2023-03-15 15:04:58,425 INFO     Making slides
+2023-03-15 15:04:58,429 INFO     Starting slideshow
+2023-03-15 15:05:19,751 INFO     Fetching new data from database.
+2023-03-15 15:05:20,240 INFO     Fetching json from server.
+2023-03-15 15:05:20,319 INFO     Decoding JSON
+2023-03-15 15:05:20,320 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:05:20,325 INFO     file already exists
+2023-03-15 15:05:20,332 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:05:20,333 INFO     file already exists
+2023-03-15 15:05:20,342 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:05:20,344 INFO     file already exists
+2023-03-15 15:05:20,359 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:05:20,361 INFO     file already exists
+2023-03-15 15:05:20,371 INFO     Updating new PDF directory
+2023-03-15 15:05:20,859 INFO     Making slides
+2023-03-15 15:05:20,862 INFO     Starting slideshow
+2023-03-15 15:05:42,156 INFO     Fetching new data from database.
+2023-03-15 15:05:43,580 INFO     Fetching json from server.
+2023-03-15 15:05:44,083 INFO     Decoding JSON
+2023-03-15 15:05:44,083 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:05:44,088 INFO     file already exists
+2023-03-15 15:05:44,097 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:05:44,099 INFO     file already exists
+2023-03-15 15:05:44,110 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:05:44,111 INFO     file already exists
+2023-03-15 15:05:44,124 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:05:44,125 INFO     file already exists
+2023-03-15 15:05:44,134 INFO     Updating new PDF directory
+2023-03-15 15:05:44,814 INFO     Making slides
+2023-03-15 15:05:44,817 INFO     Starting slideshow
+2023-03-15 15:05:54,939 INFO     Loading settings.
+2023-03-15 15:05:54,947 INFO     Settings loaded.
+2023-03-15 15:05:54,948 INFO     Starting GUI
+2023-03-15 15:05:55,969 INFO     importing icons
+2023-03-15 15:05:56,028 INFO     Initial database refresh
+2023-03-15 15:05:56,396 INFO     Fetching json from server.
+2023-03-15 15:05:56,477 INFO     Decoding JSON
+2023-03-15 15:05:56,478 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:05:56,484 INFO     file already exists
+2023-03-15 15:05:56,493 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:05:56,495 INFO     file already exists
+2023-03-15 15:05:56,504 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:05:56,505 INFO     file already exists
+2023-03-15 15:05:56,522 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:05:56,523 INFO     file already exists
+2023-03-15 15:05:56,531 INFO     Updating new PDF directory
+2023-03-15 15:05:57,149 INFO     Initializing slideshow
+2023-03-15 15:05:57,151 INFO     Making slides
+2023-03-15 15:05:57,152 INFO     Starting slideshow
+2023-03-15 15:06:18,111 INFO     Fetching new data from database.
+2023-03-15 15:06:19,253 INFO     Fetching json from server.
+2023-03-15 15:06:19,845 INFO     Decoding JSON
+2023-03-15 15:06:19,846 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:06:19,850 INFO     file already exists
+2023-03-15 15:06:19,859 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:06:19,862 INFO     file already exists
+2023-03-15 15:06:19,870 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:06:19,872 INFO     file already exists
+2023-03-15 15:06:19,892 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:06:19,893 INFO     file already exists
+2023-03-15 15:06:19,903 INFO     Updating new PDF directory
+2023-03-15 15:06:20,463 INFO     Making slides
+2023-03-15 15:06:20,467 INFO     Starting slideshow
+2023-03-15 15:06:41,639 INFO     Fetching new data from database.
+2023-03-15 15:06:42,410 INFO     Fetching json from server.
+2023-03-15 15:06:42,758 INFO     Decoding JSON
+2023-03-15 15:06:42,759 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/42
+2023-03-15 15:06:42,764 INFO     file already exists
+2023-03-15 15:06:42,771 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/43
+2023-03-15 15:06:42,773 INFO     file already exists
+2023-03-15 15:06:42,782 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:06:42,784 INFO     file already exists
+2023-03-15 15:06:42,807 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:06:42,809 INFO     file already exists
+2023-03-15 15:06:42,817 INFO     Updating new PDF directory
+2023-03-15 15:06:43,338 INFO     Making slides
+2023-03-15 15:06:43,339 INFO     Starting slideshow

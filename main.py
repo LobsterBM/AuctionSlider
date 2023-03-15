@@ -30,6 +30,8 @@ if __name__ == '__main__':
     model = int(settings['model'])
     slidetime = float(settings['slidetime'])
 
+    if updatetime <= slidetime:
+        updatetime = slidetime + 1
 
     GUIstart( updatetime, url , font ,fontsize, model , slidetime)
 
