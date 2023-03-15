@@ -2185,3 +2185,65 @@ DF directory
 2023-03-15 15:15:49,506 INFO     Updating new PDF directory
 2023-03-15 15:15:51,127 INFO     Making slides
 2023-03-15 15:15:51,130 INFO     Starting slideshow
+2023-03-15 15:20:48,465 INFO     Loading settings.
+2023-03-15 15:20:48,470 INFO     Settings loaded.
+2023-03-15 15:20:48,471 INFO     Starting GUI
+2023-03-15 15:20:50,126 INFO     importing icons
+2023-03-15 15:20:50,174 INFO     Initial database refresh
+2023-03-15 15:20:51,503 INFO     Fetching json from server.
+2023-03-15 15:20:51,874 INFO     Decoding JSON
+2023-03-15 15:20:51,877 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:20:51,884 INFO     file already exists
+2023-03-15 15:20:51,897 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:20:51,899 INFO     file already exists
+2023-03-15 15:20:51,914 INFO     Updating new PDF directory
+2023-03-15 15:20:52,699 INFO     Initializing slideshow
+2023-03-15 15:20:52,701 INFO     Making slides
+2023-03-15 15:20:52,703 INFO     Starting slideshow
+2023-03-15 15:21:14,121 INFO     Fetching new data from database.
+2023-03-15 15:21:15,269 INFO     Fetching json from server.
+2023-03-15 15:21:15,642 INFO     Decoding JSON
+2023-03-15 15:21:15,644 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:21:15,653 INFO     file already exists
+2023-03-15 15:21:15,666 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:21:15,668 INFO     file already exists
+2023-03-15 15:21:15,681 INFO     Updating new PDF directory
+2023-03-15 15:21:16,583 INFO     Making slides
+2023-03-15 15:21:16,583 INFO     Starting slideshow
+2023-03-15 15:21:33,818 INFO     Loading settings.
+2023-03-15 15:21:33,824 INFO     Settings loaded.
+2023-03-15 15:21:33,826 INFO     Starting GUI
+2023-03-15 15:21:35,164 INFO     importing icons
+2023-03-15 15:21:35,220 INFO     Initial database refresh
+2023-03-15 15:21:35,481 INFO     Fetching json from server.
+2023-03-15 15:21:35,557 INFO     Decoding JSON
+2023-03-15 15:21:35,558 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:21:35,565 INFO     file already exists
+2023-03-15 15:21:35,577 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:21:35,579 INFO     file already exists
+2023-03-15 15:21:35,590 INFO     Updating new PDF directory
+2023-03-15 15:21:36,362 INFO     Initializing slideshow
+2023-03-15 15:21:36,365 INFO     Making slides
+2023-03-15 15:21:36,367 INFO     Starting slideshow
+2023-03-15 15:22:18,332 INFO     Fetching new data from database.
+2023-03-15 15:22:18,578 INFO     Fetching json from server.
+2023-03-15 15:22:18,656 INFO     Decoding JSON
+2023-03-15 15:22:18,657 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:22:18,662 INFO     file already exists
+2023-03-15 15:22:18,671 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:22:18,674 INFO     file already exists
+2023-03-15 15:22:18,683 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/46
+2023-03-15 15:22:18,759 INFO     Download succeeded.
+2023-03-15 15:22:18,761 INFO     Updating new PDF directory
+2023-03-15 15:22:19,990 INFO     Making slides
+2023-03-15 15:22:19,991 INFO     Starting slideshow
+2023-03-15 15:23:13,065 INFO     Fetching new data from database.
+2023-03-15 15:23:13,286 INFO     Fetching json from server.
+2023-03-15 15:23:13,361 INFO     Decoding JSON
+2023-03-15 15:23:13,362 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/44
+2023-03-15 15:23:13,369 INFO     file already exists
+2023-03-15 15:23:13,382 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/45
+2023-03-15 15:23:13,385 INFO     file already exists
+2023-03-15 15:23:13,394 INFO     Updating new PDF directory
+2023-03-15 15:23:14,130 INFO     Making slides
+2023-03-15 15:23:14,131 INFO     Starting slideshow
