@@ -102,6 +102,9 @@ def makeSlides(slides,gui):
 def nextSlides(slideList, gui ):
     if len(slideList) == 0 :
         gui.canvas.delete("all")
+        #set background color to black
+        gui.canvas.pack()
+        gui.canvas.configure(background="black")
         gui.root.update()
         return slideList
 
@@ -201,10 +204,18 @@ def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
         while  loops  > 0 :
 
             slide_list = nextSlides(slide_list , gui )
+            #recalculate loops , else incorrect slides show up 
             if loopInit == False :
                 loops = len(slide_list)
                 if(loops == 2):
                     loops += 1
+            if len(slide_list) == 0 :
+                #show text on screen
+                gui.canvas.delete("all")
+                gui.canvas.configure(background='black')
+                gui.canvas.create_text(gui.width/2, gui.height/2, text="Rien à afficher", font=slidefont, fill="white") 
+                gui.root.update()
+
             if (documentStatus == False and connectionStatus == True):
                 showIcon(documentImage, gui, 2)
             if (connectionStatus == False):
