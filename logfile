@@ -1554,3 +1554,248 @@ DF directory
 2023-03-13 21:49:13,358 INFO     Initializing slideshow
 2023-03-13 21:49:13,358 INFO     Making slides
 2023-03-13 21:49:13,359 INFO     Starting slideshow
+2023-03-15 12:11:43,347 INFO     Loading settings.
+2023-03-15 12:11:43,367 INFO     Settings loaded.
+2023-03-15 12:11:43,369 INFO     Starting GUI
+2023-03-15 12:11:47,742 INFO     importing icons
+2023-03-15 12:11:47,809 INFO     Initial database refresh
+2023-03-15 12:11:48,163 INFO     Fetching json from server.
+2023-03-15 12:11:48,265 INFO     Decoding JSON
+2023-03-15 12:11:48,266 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/15
+2023-03-15 12:11:48,271 INFO     file already exists
+2023-03-15 12:11:48,302 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/37
+2023-03-15 12:11:48,306 INFO     file already exists
+2023-03-15 12:11:48,340 INFO     Updating new PDF directory
+2023-03-15 12:11:49,693 INFO     Initializing slideshow
+2023-03-15 12:11:49,694 INFO     Making slides
+2023-03-15 12:11:49,695 INFO     Starting slideshow
+2023-03-15 12:12:05,220 INFO     Fetching new data from database.
+2023-03-15 12:12:05,444 INFO     Fetching json from server.
+2023-03-15 12:12:05,520 INFO     Decoding JSON
+2023-03-15 12:12:05,521 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/15
+2023-03-15 12:12:05,526 INFO     file already exists
+2023-03-15 12:12:05,537 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/37
+2023-03-15 12:12:05,539 INFO     file already exists
+2023-03-15 12:12:05,551 INFO     Updating new PDF directory
+2023-03-15 12:12:06,334 INFO     Making slides
+2023-03-15 12:12:06,335 INFO     Starting slideshow
+2023-03-15 12:12:20,548 INFO     Fetching new data from database.
+2023-03-15 12:12:20,869 INFO     Fetching json from server.
+2023-03-15 12:12:20,949 INFO     Decoding JSON
+2023-03-15 12:12:20,950 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/15
+2023-03-15 12:12:20,956 INFO     file already exists
+2023-03-15 12:12:20,967 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/37
+2023-03-15 12:12:20,968 INFO     file already exists
+2023-03-15 12:12:20,977 INFO     Updating new PDF directory
+2023-03-15 12:12:21,818 INFO     Making slides
+2023-03-15 12:12:21,819 INFO     Starting slideshow
+2023-03-15 12:12:36,098 INFO     Fetching new data from database.
+2023-03-15 12:12:36,861 INFO     Fetching json from server.
+2023-03-15 12:12:36,942 INFO     Decoding JSON
+2023-03-15 12:12:36,943 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/37
+2023-03-15 12:12:36,950 INFO     file already exists
+2023-03-15 12:12:36,959 INFO     Updating new PDF directory
+2023-03-15 12:12:37,336 INFO     Making slides
+2023-03-15 12:12:37,337 INFO     Starting slideshow
+2023-03-15 12:12:50,335 INFO     Fetching new data from database.
+2023-03-15 12:12:50,573 INFO     Fetching json from server.
+2023-03-15 12:12:50,650 INFO     Decoding JSON
+2023-03-15 12:12:50,651 INFO     Updating new PDF directory
+2023-03-15 12:12:50,661 INFO     Making slides
+2023-03-15 12:12:50,662 INFO     Starting slideshow
+2023-03-15 12:13:01,303 INFO     Fetching new data from database.
+2023-03-15 12:13:01,561 INFO     Fetching json from server.
+2023-03-15 12:13:01,680 INFO     Decoding JSON
+2023-03-15 12:13:01,681 INFO     Updating new PDF directory
+2023-03-15 12:13:01,686 INFO     Making slides
+2023-03-15 12:13:01,687 INFO     Starting slideshow
+2023-03-15 12:13:12,314 INFO     Fetching new data from database.
+2023-03-15 12:13:13,197 INFO     Fetching json from server.
+2023-03-15 12:13:13,277 INFO     Decoding JSON
+2023-03-15 12:13:13,278 INFO     Updating new PDF directory
+2023-03-15 12:13:13,280 INFO     Making slides
+2023-03-15 12:13:13,281 INFO     Starting slideshow
+2023-03-15 12:13:23,906 INFO     Fetching new data from database.
+2023-03-15 12:13:24,984 INFO     Fetching json from server.
+2023-03-15 12:13:25,228 INFO     Decoding JSON
+2023-03-15 12:13:25,229 INFO     Updating new PDF directory
+2023-03-15 12:13:25,232 INFO     Making slides
+2023-03-15 12:13:25,234 INFO     Starting slideshow
+2023-03-15 12:13:35,870 INFO     Fetching new data from database.
+2023-03-15 12:13:37,271 INFO     Fetching json from server.
+2023-03-15 12:13:37,348 INFO     Decoding JSON
+2023-03-15 12:13:37,349 INFO     Updating new PDF directory
+2023-03-15 12:13:37,351 INFO     Making slides
+2023-03-15 12:13:37,352 INFO     Starting slideshow
+2023-03-15 12:13:48,000 INFO     Fetching new data from database.
+2023-03-15 12:13:49,268 INFO     Fetching json from server.
+2023-03-15 12:13:49,518 INFO     Decoding JSON
+2023-03-15 12:13:49,519 INFO     Updating new PDF directory
+2023-03-15 12:13:49,521 INFO     Making slides
+2023-03-15 12:13:49,522 INFO     Starting slideshow
+2023-03-15 12:14:00,135 INFO     Fetching new data from database.
+2023-03-15 12:14:00,364 INFO     Fetching json from server.
+2023-03-15 12:14:00,434 INFO     Decoding JSON
+2023-03-15 12:14:00,435 INFO     Updating new PDF directory
+2023-03-15 12:14:00,438 INFO     Making slides
+2023-03-15 12:14:00,439 INFO     Starting slideshow
+2023-03-15 12:14:11,076 INFO     Fetching new data from database.
+2023-03-15 12:14:11,388 INFO     Fetching json from server.
+2023-03-15 12:14:11,454 INFO     Decoding JSON
+2023-03-15 12:14:11,454 INFO     Updating new PDF directory
+2023-03-15 12:14:11,457 INFO     Making slides
+2023-03-15 12:14:11,458 INFO     Starting slideshow
+2023-03-15 12:14:22,105 INFO     Fetching new data from database.
+2023-03-15 12:14:22,326 INFO     Fetching json from server.
+2023-03-15 12:14:22,400 INFO     Decoding JSON
+2023-03-15 12:14:22,401 INFO     Updating new PDF directory
+2023-03-15 12:14:22,404 INFO     Making slides
+2023-03-15 12:14:22,405 INFO     Starting slideshow
+2023-03-15 12:15:29,065 INFO     Loading settings.
+2023-03-15 12:15:29,074 INFO     Settings loaded.
+2023-03-15 12:15:29,075 INFO     Starting GUI
+2023-03-15 12:15:30,706 INFO     importing icons
+2023-03-15 12:15:30,775 INFO     Initial database refresh
+2023-03-15 12:15:31,067 INFO     Fetching json from server.
+2023-03-15 12:15:31,150 INFO     Decoding JSON
+2023-03-15 12:15:31,152 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/38
+2023-03-15 12:15:31,233 INFO     Download succeeded.
+2023-03-15 12:15:31,235 INFO     Updating new PDF directory
+2023-03-15 12:15:31,712 INFO     Initializing slideshow
+2023-03-15 12:15:31,715 INFO     Making slides
+2023-03-15 12:15:31,717 INFO     Starting slideshow
+2023-03-15 12:16:33,388 INFO     Fetching new data from database.
+2023-03-15 12:16:33,660 INFO     Fetching json from server.
+2023-03-15 12:16:33,736 INFO     Decoding JSON
+2023-03-15 12:16:33,737 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/38
+2023-03-15 12:16:33,743 INFO     file already exists
+2023-03-15 12:16:33,757 INFO     Updating new PDF directory
+2023-03-15 12:16:34,188 INFO     Making slides
+2023-03-15 12:16:34,190 INFO     Starting slideshow
+2023-03-15 12:17:24,748 INFO     Fetching new data from database.
+2023-03-15 12:17:26,097 INFO     Fetching json from server.
+2023-03-15 12:17:26,170 INFO     Decoding JSON
+2023-03-15 12:17:26,171 INFO     Updating new PDF directory
+2023-03-15 12:17:26,180 INFO     Making slides
+2023-03-15 12:17:26,181 INFO     Starting slideshow
+2023-03-15 12:17:45,741 INFO     Fetching new data from database.
+2023-03-15 12:17:45,955 INFO     Fetching json from server.
+2023-03-15 12:17:46,041 INFO     Decoding JSON
+2023-03-15 12:17:46,043 INFO     Updating new PDF directory
+2023-03-15 12:17:46,047 INFO     Making slides
+2023-03-15 12:17:46,049 INFO     Starting slideshow
+2023-03-15 12:18:02,670 INFO     Fetching new data from database.
+2023-03-15 12:18:03,529 INFO     Fetching json from server.
+2023-03-15 12:18:03,600 INFO     Decoding JSON
+2023-03-15 12:18:03,601 INFO     Updating new PDF directory
+2023-03-15 12:18:03,602 INFO     Making slides
+2023-03-15 12:18:03,611 INFO     Starting slideshow
+2023-03-15 12:19:07,138 INFO     Loading settings.
+2023-03-15 12:19:07,142 INFO     Settings loaded.
+2023-03-15 12:19:07,143 INFO     Starting GUI
+2023-03-15 12:19:08,895 INFO     importing icons
+2023-03-15 12:19:08,941 INFO     Initial database refresh
+2023-03-15 12:19:09,203 INFO     Fetching json from server.
+2023-03-15 12:19:09,286 INFO     Decoding JSON
+2023-03-15 12:19:09,287 INFO     Updating new PDF directory
+2023-03-15 12:19:09,290 INFO     Initializing slideshow
+2023-03-15 12:19:09,290 INFO     Making slides
+2023-03-15 12:19:09,291 INFO     Starting slideshow
+2023-03-15 12:19:19,932 INFO     Fetching new data from database.
+2023-03-15 12:19:20,871 INFO     Fetching json from server.
+2023-03-15 12:19:20,946 INFO     Decoding JSON
+2023-03-15 12:19:20,947 INFO     Updating new PDF directory
+2023-03-15 12:19:20,950 INFO     Making slides
+2023-03-15 12:19:20,951 INFO     Starting slideshow
+2023-03-15 12:19:31,596 INFO     Fetching new data from database.
+2023-03-15 12:19:32,766 INFO     Fetching json from server.
+2023-03-15 12:19:32,964 INFO     Decoding JSON
+2023-03-15 12:19:32,965 INFO     Updating new PDF directory
+2023-03-15 12:19:32,968 INFO     Making slides
+2023-03-15 12:19:32,969 INFO     Starting slideshow
+2023-03-15 12:19:43,608 INFO     Fetching new data from database.
+2023-03-15 12:19:45,107 INFO     Fetching json from server.
+2023-03-15 12:19:45,183 INFO     Decoding JSON
+2023-03-15 12:19:45,184 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/39
+2023-03-15 12:19:45,273 INFO     Download succeeded.
+2023-03-15 12:19:45,274 INFO     Updating new PDF directory
+2023-03-15 12:19:45,641 INFO     Making slides
+2023-03-15 12:19:45,644 INFO     Starting slideshow
+2023-03-15 12:19:59,528 INFO     Fetching new data from database.
+2023-03-15 12:19:59,777 INFO     Fetching json from server.
+2023-03-15 12:19:59,847 INFO     Decoding JSON
+2023-03-15 12:19:59,848 INFO     Updating new PDF directory
+2023-03-15 12:19:59,860 INFO     Making slides
+2023-03-15 12:19:59,862 INFO     Starting slideshow
+2023-03-15 12:20:10,480 INFO     Fetching new data from database.
+2023-03-15 12:20:10,751 INFO     Fetching json from server.
+2023-03-15 12:20:10,849 INFO     Decoding JSON
+2023-03-15 12:20:10,851 INFO     Updating new PDF directory
+2023-03-15 12:20:10,853 INFO     Making slides
+2023-03-15 12:20:10,854 INFO     Starting slideshow
+2023-03-15 12:20:27,074 INFO     Loading settings.
+2023-03-15 12:20:27,079 INFO     Settings loaded.
+2023-03-15 12:20:27,082 INFO     Starting GUI
+2023-03-15 12:20:28,570 INFO     importing icons
+2023-03-15 12:20:28,648 INFO     Initial database refresh
+2023-03-15 12:20:28,958 INFO     Fetching json from server.
+2023-03-15 12:20:29,033 INFO     Decoding JSON
+2023-03-15 12:20:29,035 INFO     Updating new PDF directory
+2023-03-15 12:20:29,040 INFO     Initializing slideshow
+2023-03-15 12:20:29,041 INFO     Making slides
+2023-03-15 12:20:29,043 INFO     Starting slideshow
+2023-03-15 12:20:52,940 INFO     Fetching new data from database.
+2023-03-15 12:20:53,200 INFO     Fetching json from server.
+2023-03-15 12:20:53,278 INFO     Decoding JSON
+2023-03-15 12:20:53,279 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/40
+2023-03-15 12:20:53,369 INFO     Download succeeded.
+2023-03-15 12:20:53,371 INFO     Updating new PDF directory
+2023-03-15 12:20:53,772 INFO     Making slides
+2023-03-15 12:20:53,776 INFO     Starting slideshow
+2023-03-15 12:22:41,321 INFO     Loading settings.
+2023-03-15 12:22:41,331 INFO     Settings loaded.
+2023-03-15 12:22:41,334 INFO     Starting GUI
+2023-03-15 12:22:42,725 INFO     importing icons
+2023-03-15 12:22:42,809 INFO     Initial database refresh
+2023-03-15 12:22:43,130 INFO     Fetching json from server.
+2023-03-15 12:22:43,201 INFO     Decoding JSON
+2023-03-15 12:22:43,203 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/40
+2023-03-15 12:22:43,210 INFO     file already exists
+2023-03-15 12:22:43,225 INFO     Updating new PDF directory
+2023-03-15 12:22:43,674 INFO     Initializing slideshow
+2023-03-15 12:22:43,678 INFO     Making slides
+2023-03-15 12:22:43,679 INFO     Starting slideshow
+2023-03-15 12:23:29,569 INFO     Fetching new data from database.
+2023-03-15 12:23:29,839 INFO     Fetching json from server.
+2023-03-15 12:23:29,916 INFO     Decoding JSON
+2023-03-15 12:23:29,917 INFO     Updating new PDF directory
+2023-03-15 12:23:29,923 INFO     Making slides
+2023-03-15 12:23:29,925 INFO     Starting slideshow
+2023-03-15 12:23:54,320 INFO     Fetching new data from database.
+2023-03-15 12:23:54,534 INFO     Fetching json from server.
+2023-03-15 12:23:54,616 INFO     Decoding JSON
+2023-03-15 12:23:54,618 INFO     Updating new PDF directory
+2023-03-15 12:23:54,621 INFO     Making slides
+2023-03-15 12:23:54,623 INFO     Starting slideshow
+2023-03-15 12:24:58,955 INFO     Fetching new data from database.
+2023-03-15 12:25:00,514 INFO     Fetching json from server.
+2023-03-15 12:25:01,171 INFO     Decoding JSON
+2023-03-15 12:25:01,174 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/41
+2023-03-15 12:25:01,801 INFO     Download succeeded.
+2023-03-15 12:25:01,803 INFO     Updating new PDF directory
+2023-03-15 12:25:02,253 INFO     Making slides
+2023-03-15 12:25:02,260 INFO     Starting slideshow
+2023-03-15 12:25:20,515 INFO     Fetching new data from database.
+2023-03-15 12:25:20,802 INFO     Fetching json from server.
+2023-03-15 12:25:20,890 INFO     Decoding JSON
+2023-03-15 12:25:20,891 INFO     Downloading file : https://huissiers-brabant-wallon.be/ventes/show/placard/41
+2023-03-15 12:25:20,898 INFO     file already exists
+2023-03-15 12:25:20,911 INFO     Updating new PDF directory
+2023-03-15 12:25:21,309 INFO     Making slides
+2023-03-15 12:25:21,312 INFO     Starting slideshow
+2023-03-15 12:25:34,688 INFO     Fetching new data from database.
+2023-03-15 12:25:34,937 INFO     Fetching json from server.
+2023-03-15 12:25:35,077 INFO     Decoding JSON
+2023-03-15 12:25:35,078 INFO     Updating new PDF directory
+2023-03-15 12:25:35,086 INFO     Making slides
+2023-03-15 12:25:35,086 INFO     Starting slideshow

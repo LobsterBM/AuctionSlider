@@ -101,6 +101,8 @@ def makeSlides(slides,gui):
 # updates the list to cycle through the list
 def nextSlides(slideList, gui ):
     if len(slideList) == 0 :
+        gui.canvas.delete("all")
+        gui.root.update()
         return slideList
 
     
@@ -194,6 +196,7 @@ def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
         connectionStatus , documentStatus, refreshStatus = getStatus()
         if len(slide_list) <= 2 :
             gui.onscreen = []
+
         
         while  loops  > 0 :
 
