@@ -202,7 +202,9 @@ def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
 
             slide_list = nextSlides(slide_list , gui )
             if loopInit == False :
-                loops = len(slide_list)+2
+                loops = len(slide_list)
+                if(loops == 2):
+                    loops += 1
             if (documentStatus == False and connectionStatus == True):
                 showIcon(documentImage, gui, 2)
             if (connectionStatus == False):
