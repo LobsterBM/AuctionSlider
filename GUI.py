@@ -36,7 +36,7 @@ def updateSlides(data):
         #DO text
         #reformat d.comment to replace \r \n with \n
         d.comment = d.comment.replace("\r" , "")
-        text = d.title + "\n" + d.comment + "\n" + d.status
+        text = d.title + "\n" + d.comment #+ "\n" + d.status
         for e in conv :
             slides.append([e,  text])
     return slides
@@ -192,16 +192,17 @@ def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
         #run these lines every time server is refreshed
 
         #timer *=60 #convert to minutes
-        loops = timer/slidetime
+        loops = (timer/slidetime)+1
         connectionStatus , documentStatus, refreshStatus = getStatus()
         if len(slide_list) <= 2 :
             gui.onscreen = []
 
-        
+        loopInit = False
         while  loops  > 0 :
 
             slide_list = nextSlides(slide_list , gui )
-
+            if loopInit == False :
+                loops = len(slide_list)
             if (documentStatus == False and connectionStatus == True):
                 showIcon(documentImage, gui, 2)
             if (connectionStatus == False):
@@ -211,6 +212,7 @@ def GUIstart(updatetime, url , newfont ,newfontsize, model , slidetime):
             #connectionStatus,documentStatus,refreshStatus = getStatus()
             time.sleep(slidetime)
             loops -= 1
+            loopInit = True
         #    print("loop : " ,loops)
 
 
